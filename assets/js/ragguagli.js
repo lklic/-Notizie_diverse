@@ -26,12 +26,24 @@ const fmt = n => (n == null ? '—' : (Math.round(n * 1000) / 1000).toLocaleStri
         <td>${badge}</td></tr>`;
     }).join('') + `</table>`;
 
-  // ---- converter ----
-  const cities = [...new Set(D.records.flatMap(r => [r.from_place, r.to_place]).filter(Boolean))].sort();
-  const opts = cities.map(c => `<option>${Site.esc(c)}</option>`).join('');
-  $('fromCity').innerHTML = opts; $('toCity').innerHTML = opts;
-  $('fromCity').value = cities.includes('Barcelona') ? 'Avignon' : cities[0];
-  $('toCity').value = 'Barcelona';
+  // ---- converter (dependent menus: only marketplaces that actually connect) ----
+  const adj = {};
+  D.records.forEach(r => {
+    if (r.from_place && r.to_place && r.from_place !== r.to_place) {
+      (adj[r.from_place] = adj[r.from_place] || new Set()).add(r.to_place);
+      (adj[r.to_place] = adj[r.to_place] || new Set()).add(r.from_place);
+    }
+  });
+  const cities = Object.keys(adj).sort();
+  $('fromCity').innerHTML = cities.map(c => `<option>${Site.esc(c)}</option>`).join('');
+  const partnersOf = a => [...(adj[a] || [])].sort();
+  const refreshTo = () => {
+    const a = $('fromCity').value, prev = $('toCity').value, ps = partnersOf(a);
+    $('toCity').innerHTML = ps.map(c => `<option>${Site.esc(c)}</option>`).join('');
+    $('toCity').value = ps.includes(prev) ? prev : (ps.includes('Barcelona') ? 'Barcelona' : ps[0]);
+  };
+  $('fromCity').value = adj['Avignon'] ? 'Avignon' : cities[0];
+  refreshTo();
   const renderConv = () => {
     const a = $('fromCity').value, b = $('toCity').value;
     const rs = D.records.filter(r =>
@@ -50,7 +62,9 @@ const fmt = n => (n == null ? '—' : (Math.round(n * 1000) / 1000).toLocaleStri
           <td class="faint" style="font-size:.8rem">${Site.esc(r.confidence)}${r.note ? ' · ' + Site.esc(r.note) : ''}</td></tr>`;
       }).join('') + `</table>`).join('');
   };
-  $('fromCity').onchange = renderConv; $('toCity').onchange = renderConv; renderConv();
+  $('fromCity').onchange = () => { refreshTo(); renderConv(); };
+  $('toCity').onchange = renderConv;
+  renderConv();
 
   // ---- consistency report ----
   const multi = D.pairs.filter(p => p.multi).sort((a, b) => (a.agree - b.agree) || (b.spread - a.spread));
