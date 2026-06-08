@@ -59,10 +59,10 @@ hr.rule{border:0; border-top:1px solid var(--line); margin:2.4rem 0}
 .hero .bg{position:absolute; inset:0; background-size:cover; background-position:center top;
   filter:saturate(1.05) contrast(1.02); transform:scale(1.04)}
 .hero .scrim{position:absolute; inset:0;
-  background:linear-gradient(180deg, rgba(20,14,8,.18) 0%, rgba(20,14,8,.18) 35%, rgba(20,14,8,.82) 100%)}
+  background:linear-gradient(180deg, rgba(20,14,8,.20) 0%, rgba(20,14,8,.20) 28%, rgba(20,14,8,.58) 66%, rgba(20,14,8,.90) 100%)}
 .hero .inner{position:relative; max-width:var(--maxw); margin:0 auto; padding:64px 24px; width:100%}
-.hero .kicker{font-family:var(--mono); letter-spacing:3px; text-transform:uppercase; font-size:.78rem;
-  color:var(--ochre); margin-bottom:14px}
+.hero .kicker{font-family:var(--mono); letter-spacing:3px; text-transform:uppercase; font-size:.82rem;
+  color:#f0c659; margin-bottom:14px; text-shadow:0 1px 3px rgba(0,0,0,.65), 0 2px 18px rgba(0,0,0,.5); font-weight:500}
 .hero h1{color:#fff; text-shadow:0 2px 30px rgba(0,0,0,.4); max-width:16ch}
 .hero p.lede{max-width:60ch; font-size:1.3rem; color:#f0e6d4}
 .hero .cta{display:flex; gap:14px; margin-top:26px; flex-wrap:wrap}
@@ -92,8 +92,8 @@ section.band{padding:68px 0}
 .card{background:var(--parch-0); border:1px solid var(--line); border-radius:var(--radius);
   overflow:hidden; box-shadow:var(--shadow); transition:.2s; display:flex; flex-direction:column}
 .card:hover{transform:translateY(-4px); box-shadow:var(--shadow-lg)}
-.card .thumb{aspect-ratio:3/4; background:var(--parch-2) center/cover no-repeat; position:relative}
-.card .thumb img{width:100%; height:100%; object-fit:cover}
+.card .thumb{aspect-ratio:3/4; background:var(--parch-2) center/cover no-repeat; position:relative; overflow:hidden; flex:0 0 auto}
+.card .thumb img{position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center top}
 .card .body{padding:16px 18px; display:flex; flex-direction:column; gap:8px; flex:1}
 .card .body h3{font-size:1.18rem; margin:0}
 .card .meta{font-family:var(--mono); font-size:.72rem; letter-spacing:1px; text-transform:uppercase; color:var(--ink-faint)}
@@ -164,7 +164,8 @@ footer.site small{color:#9c8a6e}
    BROWSE / flipbook (browse.html)
    ============================================================ */
 .flip-shell{display:flex; flex-direction:column; align-items:center; padding:30px 16px 60px; min-height:calc(100vh - 56px)}
-#flipbook{box-shadow:var(--shadow-lg)}
+#flipbook{margin:0 auto; background:transparent}
+#flipbook .stf__item{box-shadow:var(--shadow-lg)}
 #flipbook .page{background:#efe6d2 center/cover}
 .flip-ctrls{display:flex; gap:12px; align-items:center; margin:24px 0 8px}
 

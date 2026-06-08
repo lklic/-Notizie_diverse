@@ -6,17 +6,19 @@ Site.chrome('browse.html');
   const images = idx.map(p => `img/pages/${p.image}.jpg`);
 
   const shell = document.getElementById('flipbook');
-  const W = Math.min(520, Math.floor((Math.min(window.innerWidth, 1200) - 60) / 2));
+  const mobile = window.innerWidth < 760;
+  const avail = Math.min(window.innerWidth - 28, 1180);
+  const W = mobile ? avail : Math.floor(avail / 2);   // single page width
   const H = Math.round(W * 1.34);
-  // give the stretch layout an explicit box so it never collapses to 0
-  shell.style.width = (W * 2) + 'px';
+  // size the box to exactly one spread (or one page on mobile) so there's no empty flank
+  shell.style.width = (mobile ? W : W * 2) + 'px';
   shell.style.height = H + 'px';
   shell.style.maxWidth = '100%';
 
   const pf = new St.PageFlip(shell, {
     width: W, height: H, size: 'stretch',
-    minWidth: 280, maxWidth: 700, minHeight: 380, maxHeight: 940,
-    maxShadowOpacity: 0.5, showCover: true, usePortrait: true, mobileScrollSupport: false,
+    minWidth: 260, maxWidth: 900, minHeight: 340, maxHeight: 1220,
+    maxShadowOpacity: 0.5, showCover: false, usePortrait: mobile, mobileScrollSupport: false,
     drawShadow: true, flippingTime: 700,
   });
   pf.loadFromImages(images);
