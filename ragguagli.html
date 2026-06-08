@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ragguagli — the conversion rates — Notizie diverse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+
+<section class="band wrap">
+  <div class="eyebrow">The connective tissue</div>
+  <h2>Ragguagli — the conversion rates</h2>
+  <p class="lede">A <em>ragguaglio</em> is the heart of this notebook: a rule for turning a weight, a length, a
+    measure or a coin in one marketplace into its exact equivalent in another. They are what let a Florentine
+    merchant buy in Avignon, weigh in Barcelona, and sell in Alexandria without being cheated.</p>
+  <div class="note-card">
+    <strong>How to read this page.</strong> We re-read every leaf that records a rate and turned it into a number,
+    so the book can be checked against itself. Most weight rates pivot on the <strong>Barcelona quintale</strong>,
+    so we start there. Then you can convert between any two cities the book connects, and see where its figures
+    <em>agree</em> across leaves and where they <em>diverge</em> — a useful signal both of the trade's real variation
+    and of our reading's uncertainty. <span class="faint">Figures are a best-effort reading of a dense hand; treat divergences as questions, not verdicts.</span>
+  </div>
+  <div id="meta" class="result-count" style="margin-top:14px"></div>
+</section>
+
+<section class="band" style="background:var(--parch-2)">
+  <div class="wrap">
+    <div class="eyebrow">Pivot</div>
+    <h2>Weights against the Barcelona quintale</h2>
+    <p class="lede">How many local units of each city the book reckons to <strong>one quintale of Barcelona</strong>.
+      Where several leaves give the rate, we show whether they agree.</p>
+    <div id="bcn-table" style="margin-top:18px"></div>
+  </div>
+</section>
+
+<section class="band wrap">
+  <div class="eyebrow">Converter</div>
+  <h2>Between two marketplaces</h2>
+  <p class="lede">Pick two cities to see every rate the notebook records between them — weights, money, lengths, prices.</p>
+  <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:18px 0">
+    <select id="fromCity" class="searchbox" style="max-width:220px"></select>
+    <span class="faint">⇄</span>
+    <select id="toCity" class="searchbox" style="max-width:220px"></select>
+  </div>
+  <div id="converter"></div>
+</section>
+
+<section class="band" style="background:var(--ink); color:#e6d6ba">
+  <div class="wrap">
+    <div class="eyebrow" style="color:var(--ochre)">Self-consistency</div>
+    <h2 style="color:#fff">Where the book agrees — and where it doesn't</h2>
+    <p class="lede" style="color:#e6d6ba">Rates the notebook states on more than one leaf. Green where the figures
+      match; amber where they diverge (a different leaf, a different year, or a hard reading).</p>
+    <div id="consistency" style="margin-top:18px"></div>
+  </div>
+</section>
+
+<section class="band" style="background:var(--parch-2)">
+  <div class="wrap">
+    <div class="eyebrow">Going rates</div>
+    <h2>What goods cost, where the book repeats itself</h2>
+    <p class="lede">Prices and charges the notebook quotes more than once for the same good and place — shown as a range.
+      Variation here is normal: prices moved with quality, season and year.</p>
+    <div id="prices" style="margin-top:18px"></div>
+  </div>
+</section>
+
+<section class="band wrap">
+  <div class="eyebrow">Triangulation</div>
+  <h2>Cross-rates derived through Barcelona</h2>
+  <p class="lede">If the book never states a direct rate between two cities, Barcelona can bridge them: each city's
+    weight against the Barcelona quintale gives a derived city-to-city rate.</p>
+  <div id="cross" style="margin-top:18px"></div>
+</section>
+
+<div id="footer"></div>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/ragguagli.js"></script>
+</body>
+</html>

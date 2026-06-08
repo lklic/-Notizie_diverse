@@ -7,6 +7,7 @@ const Site = (() => {
     ['read.html', 'Read & zoom'],
     ['browse.html', 'Turn the pages'],
     ['explore.html', 'Explore'],
+    ['ragguagli.html', 'Ragguagli'],
     ['map.html', 'Map'],
     ['about.html', 'About'],
   ];
