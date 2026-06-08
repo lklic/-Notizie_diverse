@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Turn the pages — Notizie diverse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+
+<div class="flip-shell">
+  <div style="text-align:center; max-width:60ch; margin-bottom:18px">
+    <div class="eyebrow">The book in the hand</div>
+    <h2 style="margin:.2em 0">Turn the pages</h2>
+    <p class="muted">Drag a corner, or use the arrows, to leaf through the notebook as a physical object.
+      Want to read a leaf closely? <a href="read.html">Open it in the reader →</a></p>
+  </div>
+
+  <div id="flipbook"></div>
+
+  <div class="flip-ctrls">
+    <button class="btn btn-dark" id="pf-prev">‹ Previous</button>
+    <span id="pf-status" class="folio-tag"></span>
+    <button class="btn btn-dark" id="pf-next">Next ›</button>
+    <a class="btn btn-primary" id="pf-open" href="read.html">Read this leaf →</a>
+  </div>
+</div>
+
+<div id="footer"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/browse.js"></script>
+</body>
+</html>

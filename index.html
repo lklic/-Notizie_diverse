@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notizie diverse — a Florentine merchant's world, c. 1417–1429</title>
+<meta name="description" content="A digital edition of the Frescobaldi mercantile notebook: diplomatic transcription, English translation, IIIF zoom, a page-turnable facsimile, and a map of the trade routes that bound the medieval Mediterranean.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+
+<header class="hero">
+  <div class="bg" style="background-image:url('img/pages/005.jpg')"></div>
+  <div class="scrim"></div>
+  <div class="inner">
+    <div class="kicker">Stoldo di Lionardo Frescobaldi · Florence · c. 1417–1429</div>
+    <h1>Notizie diverse</h1>
+    <p class="lede">One merchant's working notebook of prices, weights, customs and exchange — a portable
+      atlas of how Barcelona spoke to Florence, Alexandria to Bruges, in the language of the <em>ragguaglio</em>.</p>
+    <div class="cta">
+      <a class="btn btn-primary" href="read.html">Read &amp; zoom the leaves →</a>
+      <a class="btn btn-ghost" href="browse.html">Turn the pages</a>
+      <a class="btn btn-ghost" href="map.html">See the trade map</a>
+    </div>
+  </div>
+</header>
+
+<section class="band wrap">
+  <div class="eyebrow">What this book is</div>
+  <h2>A pocket-world of the medieval marketplace</h2>
+  <p class="lede">Around 1417–1429 a member of the Frescobaldi merchant house filled this vellum-bound volume with
+    everything a trader needed to carry in his head: the qualities and weights of spices and wool, the duties
+    levied port by port, the going prices of cloth and dye and silk, the fineness of coins, the calendar of fairs —
+    and, above all, the <strong><em>ragguagli</em></strong>: the conversion rates that let a quantity, a coin or a measure
+    in one city be reckoned exactly in another. It is a Mediterranean trading system, compressed into a notebook.</p>
+
+  <div class="stats" id="stats"><div class="loading">loading the book…</div></div>
+</section>
+
+<section class="band" style="background:var(--parch-2)">
+  <div class="wrap">
+    <div class="eyebrow">Ways in</div>
+    <h2>Four ways to read it</h2>
+    <div class="grid cols-4" style="margin-top:26px">
+      <a class="card" href="read.html"><div class="thumb"><img src="img/thumbs/013.jpg" alt=""></div>
+        <div class="body"><h3>Read &amp; zoom</h3><p class="muted">Deep-zoom IIIF facsimile beside the diplomatic transcription and a fresh English translation, leaf by leaf.</p></div></a>
+      <a class="card" href="browse.html"><div class="thumb"><img src="img/thumbs/030.jpg" alt=""></div>
+        <div class="body"><h3>Turn the pages</h3><p class="muted">Flip through the whole notebook as a virtual book, the way it sits in the hand.</p></div></a>
+      <a class="card" href="explore.html"><div class="thumb"><img src="img/thumbs/031.jpg" alt=""></div>
+        <div class="body"><h3>Explore the data</h3><p class="muted">Filter every leaf by commodity, theme, place — saffron, alum, silver, silk — and jump straight to it.</p></div></a>
+      <a class="card" href="map.html"><div class="thumb"><img src="img/thumbs/011.jpg" alt=""></div>
+        <div class="body"><h3>Map the routes</h3><p class="muted">Watch the marketplaces light up and the exchange-lines that connect them, pivoting on Barcelona.</p></div></a>
+    </div>
+  </div>
+</section>
+
+<section class="band wrap">
+  <div class="eyebrow">The shape of the notebook</div>
+  <h2>Twelve thematic movements</h2>
+  <p class="lede">The leaves fall into recognisable blocks — gazetteers of goods, conversion tables, cloth and dye lists,
+    coin assays, regional surveys of Italy, fair calendars, a copied Pisan customs law, and memoranda on fitting out a galley.</p>
+  <div class="chips" id="sections" style="margin-top:20px"></div>
+</section>
+
+<section class="band" style="background:var(--ink); color:#ecdcc0">
+  <div class="wrap">
+    <div class="eyebrow" style="color:var(--ochre)">The connective tissue</div>
+    <h2 style="color:#fff">Barcelona, the pivot</h2>
+    <p class="lede" style="color:#e6d6ba; max-width:62ch">Page after page, weights and money are reckoned <em>against Barcelona</em> — 98 pounds of Avignon to a
+      Barcelona quintale, 95 of Bruges, 140 of Venice. Follow any commodity and the same hub reappears, a clearing-house
+      for the western Mediterranean.</p>
+    <div id="topedges" style="margin-top:24px"></div>
+    <a class="btn btn-primary" style="margin-top:24px" href="map.html">Explore the routes →</a>
+  </div>
+</section>
+
+<div id="footer"></div>
+
+<script src="assets/js/site.js"></script>
+<script>
+Site.chrome('index.html');
+(async () => {
+  const [idx, places, routes, comm] = await Promise.all([
+    Site.data('index'), Site.data('places'), Site.data('routes'), Site.data('commodities')
+  ]);
+  const written = idx.filter(p => !p.is_blank).length;
+  const cities = places.filter(p => p.kind === 'city').length;
+  const stats = [
+    [idx.length, 'leaves imaged'],
+    [written, 'written pages'],
+    [places.length, 'places named'],
+    [routes.length, 'exchange links'],
+    [comm.length, 'distinct goods'],
+    ['1417–29', 'compiled'],
+  ];
+  document.getElementById('stats').innerHTML = stats.map(([n, l]) =>
+    `<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
+
+  const secs = await Site.data('sections');
+  document.getElementById('sections').innerHTML = secs
+    .filter(s => s.key !== 'blank-binding' && s.key !== 'other')
+    .map(s => `<a class="chip" href="explore.html?section=${s.key}" style="border-left:5px solid ${Site.secColor(s.key)}">
+      ${Site.esc(s.label)} <span class="faint">· ${s.pages.length}</span></a>`).join('');
+
+  document.getElementById('topedges').innerHTML =
+    '<table class="convtable" style="max-width:560px; color:#e6d6ba">' +
+    '<tr><th style="color:#caa">Marketplace</th><th style="color:#caa"></th><th style="color:#caa">Marketplace</th><th style="color:#caa">links</th></tr>' +
+    routes.slice(0, 6).map(r =>
+      `<tr><td>${Site.esc(r.a)}</td><td class="faint">⇄</td><td>${Site.esc(r.b)}</td><td><span class="badge">${r.count}</span></td></tr>`).join('') +
+    '</table>';
+})();
+</script>
+</body>
+</html>

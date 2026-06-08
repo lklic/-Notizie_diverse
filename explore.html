@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Explore the data — Notizie diverse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+
+<section class="band wrap">
+  <div class="eyebrow">Browse by what's inside</div>
+  <h2>Explore the notebook's data</h2>
+  <p class="lede">Filter the leaves by theme, by category of goods, by a single commodity or marketplace,
+    or search the transcriptions and translations. Every card opens in the reader.</p>
+
+  <div class="explore" style="margin-top:28px">
+    <aside class="facets">
+      <h4>Search</h4>
+      <input class="searchbox" id="q" placeholder="saffron, alum, Barcelona, gabella…">
+      <h4>Theme</h4>
+      <div class="chips" id="f-section"></div>
+      <h4>Category of goods</h4>
+      <div class="chips" id="f-category"></div>
+      <h4>Frequent commodities</h4>
+      <div class="chips" id="f-commodity"></div>
+      <div id="active" style="margin-top:18px"></div>
+    </aside>
+    <main>
+      <div class="result-count" id="count"></div>
+      <div class="grid cols-3" id="results"><div class="loading">loading…</div></div>
+    </main>
+  </div>
+</section>
+
+<div id="footer"></div>
+
+<script src="assets/js/site.js"></script>
+<script src="assets/js/explore.js"></script>
+</body>
+</html>

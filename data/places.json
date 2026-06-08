@@ -1,0 +1,3585 @@
+[
+ {
+  "name": "Florence",
+  "lat": 43.7696,
+  "lon": 11.2558,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 38,
+  "pages": [
+   "005",
+   "012",
+   "014",
+   "017",
+   "018",
+   "021",
+   "023",
+   "024",
+   "025",
+   "026",
+   "027",
+   "029",
+   "030",
+   "031",
+   "032",
+   "033",
+   "034",
+   "036",
+   "037",
+   "038",
+   "039",
+   "040",
+   "041",
+   "042",
+   "043",
+   "044",
+   "045",
+   "046",
+   "047",
+   "048",
+   "049",
+   "051",
+   "052",
+   "053",
+   "054",
+   "055",
+   "059",
+   "060"
+  ],
+  "originals": [
+   "Afirenze / difirenze / Jnfirenze",
+   "Fiore(n)za",
+   "Fiore(n)ze",
+   "Firen[ze]",
+   "Firenze",
+   "Firenze / Jnfirenze / dfirenze"
+  ],
+  "roles": {
+   "mentioned": 4,
+   "market": 18,
+   "origin": 5,
+   "pivot": 11
+  }
+ },
+ {
+  "name": "Barcelona",
+  "lat": 41.3874,
+  "lon": 2.1686,
+  "region": "Catalonia",
+  "kind": "city",
+  "count": 31,
+  "pages": [
+   "005",
+   "010",
+   "011",
+   "012",
+   "013",
+   "014",
+   "015",
+   "017",
+   "018",
+   "019",
+   "020",
+   "023",
+   "024",
+   "025",
+   "029",
+   "031",
+   "034",
+   "036",
+   "037",
+   "040",
+   "041",
+   "042",
+   "043",
+   "045",
+   "046",
+   "047",
+   "048",
+   "052",
+   "053",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Barzalona",
+   "Barzalona / Jnbarzalona / abarzalona",
+   "Barzalona / abarzalona / 'nbarzalona",
+   "Barzalona / abonzalona / mbonzalona",
+   "Barzalona / barzalona / bonzalona",
+   "Barzalonetta[?]"
+  ],
+  "roles": {
+   "pivot": 12,
+   "market": 16,
+   "origin": 2,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Rome",
+  "lat": 41.9028,
+  "lon": 12.4964,
+  "region": "Italy",
+  "kind": "city",
+  "count": 26,
+  "pages": [
+   "012",
+   "019",
+   "023",
+   "025",
+   "026",
+   "029",
+   "031",
+   "033",
+   "034",
+   "035",
+   "037",
+   "039",
+   "040",
+   "041",
+   "042",
+   "043",
+   "044",
+   "045",
+   "048",
+   "050",
+   "052",
+   "053",
+   "055",
+   "056",
+   "058"
+  ],
+  "originals": [
+   "Inroma / deroma",
+   "R(om)a / toma",
+   "Roma",
+   "Roma(ni)",
+   "Romano",
+   "Romo"
+  ],
+  "roles": {
+   "mentioned": 5,
+   "market": 17,
+   "origin": 3,
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Pisa",
+  "lat": 43.7228,
+  "lon": 10.4017,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 23,
+  "pages": [
+   "006",
+   "012",
+   "018",
+   "021",
+   "023",
+   "024",
+   "025",
+   "026",
+   "027",
+   "029",
+   "030",
+   "031",
+   "032",
+   "036",
+   "037",
+   "039",
+   "042",
+   "043",
+   "044",
+   "055",
+   "058",
+   "059",
+   "060"
+  ],
+  "originals": [
+   "Inpisa",
+   "Jnpisa",
+   "Pisa",
+   "Pisa[na] / porto Pisano",
+   "aPisa",
+   "apisa / Jnpisa / pisano"
+  ],
+  "roles": {
+   "pivot": 6,
+   "market": 9,
+   "mentioned": 6,
+   "origin": 2
+  }
+ },
+ {
+  "name": "Avignon",
+  "lat": 43.9493,
+  "lon": 4.8055,
+  "region": "Provence",
+  "kind": "city",
+  "count": 22,
+  "pages": [
+   "005",
+   "011",
+   "024",
+   "025",
+   "027",
+   "033",
+   "036",
+   "037",
+   "039",
+   "040",
+   "041",
+   "042",
+   "044",
+   "045",
+   "046",
+   "052",
+   "054",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Avignona",
+   "Avignone",
+   "In[a]vignone",
+   "Vignia",
+   "abigione",
+   "asegua[?]"
+  ],
+  "roles": {
+   "market": 19,
+   "origin": 1,
+   "mentioned": 1,
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Bologna",
+  "lat": 44.4949,
+  "lon": 11.3426,
+  "region": "Italy",
+  "kind": "city",
+  "count": 21,
+  "pages": [
+   "010",
+   "011",
+   "023",
+   "025",
+   "027",
+   "031",
+   "033",
+   "034",
+   "037",
+   "039",
+   "040",
+   "041",
+   "042",
+   "044",
+   "045",
+   "046",
+   "047",
+   "052",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Bnonna",
+   "Bologna",
+   "Bolonga / bono(n)a",
+   "Inbologna",
+   "abonona",
+   "bologna"
+  ],
+  "roles": {
+   "mentioned": 1,
+   "market": 13,
+   "origin": 5,
+   "pivot": 2
+  }
+ },
+ {
+  "name": "Genoa",
+  "lat": 44.4056,
+  "lon": 8.9463,
+  "region": "Liguria",
+  "kind": "city",
+  "count": 21,
+  "pages": [
+   "013",
+   "023",
+   "024",
+   "031",
+   "033",
+   "034",
+   "037",
+   "038",
+   "039",
+   "040",
+   "042",
+   "044",
+   "045",
+   "047",
+   "050",
+   "051",
+   "052",
+   "053",
+   "055",
+   "058"
+  ],
+  "originals": [
+   "Genoba",
+   "Genoua",
+   "Genova",
+   "Genova / siendva",
+   "In Genova",
+   "Ingenoba / digenoba"
+  ],
+  "roles": {
+   "market": 13,
+   "origin": 2,
+   "pivot": 5,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Milan",
+  "lat": 45.4642,
+  "lon": 9.19,
+  "region": "Lombardy",
+  "kind": "city",
+  "count": 19,
+  "pages": [
+   "005",
+   "011",
+   "022",
+   "029",
+   "033",
+   "034",
+   "037",
+   "039",
+   "040",
+   "041",
+   "042",
+   "043",
+   "044",
+   "045",
+   "047",
+   "051",
+   "052",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Inmelano",
+   "Melano",
+   "Milano",
+   "damelano (oçorne)",
+   "dmelano",
+   "i(n)nolano"
+  ],
+  "roles": {
+   "origin": 4,
+   "mentioned": 2,
+   "market": 11,
+   "pivot": 2
+  }
+ },
+ {
+  "name": "Catalonia",
+  "lat": 41.7,
+  "lon": 1.7,
+  "region": "Catalonia",
+  "kind": "region",
+  "count": 17,
+  "pages": [
+   "005",
+   "006",
+   "007",
+   "019",
+   "020",
+   "021",
+   "023",
+   "024",
+   "034",
+   "038",
+   "040",
+   "042",
+   "047",
+   "052",
+   "059"
+  ],
+  "originals": [
+   "Calonza",
+   "Chatalogna",
+   "Chatalognia",
+   "Jn Catalogna / dghatalogma",
+   "achalca",
+   "argatalogma[?] / dischatalogna"
+  ],
+  "roles": {
+   "market": 5,
+   "origin": 9,
+   "mentioned": 2,
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Naples",
+  "lat": 40.8518,
+  "lon": 14.2681,
+  "region": "Italy",
+  "kind": "city",
+  "count": 17,
+  "pages": [
+   "014",
+   "021",
+   "023",
+   "025",
+   "032",
+   "034",
+   "037",
+   "039",
+   "040",
+   "041",
+   "042",
+   "043",
+   "050",
+   "051",
+   "052",
+   "053",
+   "055"
+  ],
+  "originals": [
+   "Napoli",
+   "dinapoli",
+   "d’napoli",
+   "napoli",
+   "nappoletana / Jnapoli"
+  ],
+  "roles": {
+   "market": 12,
+   "origin": 3,
+   "pivot": 2
+  }
+ },
+ {
+  "name": "Montpellier",
+  "lat": 43.6108,
+  "lon": 3.8767,
+  "region": "France",
+  "kind": "city",
+  "count": 16,
+  "pages": [
+   "010",
+   "011",
+   "013",
+   "014",
+   "032",
+   "037",
+   "040",
+   "041",
+   "042",
+   "045",
+   "046",
+   "048",
+   "052",
+   "054",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Inmonpolieri",
+   "Monolieri",
+   "Monpolieri / monpoliery",
+   "Monpolieri[?]",
+   "Montpoliery",
+   "d’monpolicus"
+  ],
+  "roles": {
+   "market": 11,
+   "mentioned": 2,
+   "origin": 1,
+   "pivot": 2
+  }
+ },
+ {
+  "name": "Venice",
+  "lat": 45.4408,
+  "lon": 12.3155,
+  "region": "Italy",
+  "kind": "city",
+  "count": 16,
+  "pages": [
+   "014",
+   "019",
+   "031",
+   "032",
+   "034",
+   "035",
+   "036",
+   "037",
+   "039",
+   "040",
+   "045",
+   "050",
+   "051",
+   "052"
+  ],
+  "originals": [
+   "Invinegia",
+   "Vinegra",
+   "avengia",
+   "avinegia",
+   "bonesia[?] / nobonesia[?]",
+   "d(i) vinegia"
+  ],
+  "roles": {
+   "market": 11,
+   "mentioned": 2,
+   "origin": 2,
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Valencia",
+  "lat": 39.4699,
+  "lon": -0.3763,
+  "region": "Spain",
+  "kind": "city",
+  "count": 14,
+  "pages": [
+   "007",
+   "008",
+   "009",
+   "014",
+   "018",
+   "024",
+   "040",
+   "041",
+   "042",
+   "053",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Balanza",
+   "Valanza",
+   "Valenza",
+   "Valenza / dbalenza",
+   "Vall(e)nza / Valenza",
+   "avalanza / d'balanza / a balanza / avalinza"
+  ],
+  "roles": {
+   "pivot": 2,
+   "market": 11,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Paris",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "region": "France",
+  "kind": "city",
+  "count": 14,
+  "pages": [
+   "011",
+   "032",
+   "034",
+   "037",
+   "040",
+   "041",
+   "042",
+   "044",
+   "045",
+   "046",
+   "049",
+   "052",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Inparigi",
+   "Parigi",
+   "Pavolj[?]",
+   "paregini",
+   "parigi",
+   "parigi / pariso"
+  ],
+  "roles": {
+   "market": 11,
+   "origin": 1,
+   "mentioned": 1,
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Alexandria",
+  "lat": 31.2001,
+  "lon": 29.9187,
+  "region": "Egypt",
+  "kind": "city",
+  "count": 14,
+  "pages": [
+   "019",
+   "021",
+   "022",
+   "030",
+   "031",
+   "037",
+   "038",
+   "039",
+   "042",
+   "050",
+   "051",
+   "053"
+  ],
+  "originals": [
+   "Alessandria",
+   "Alessandria d'Egitto",
+   "Alis(s)andria / nalessandria",
+   "Jnalessandria",
+   "alessanderno / alessandrini / alessandrino",
+   "alessandria"
+  ],
+  "roles": {
+   "origin": 4,
+   "market": 6,
+   "mentioned": 2,
+   "pivot": 2
+  }
+ },
+ {
+  "name": "Flanders",
+  "lat": 51.05,
+  "lon": 3.73,
+  "region": "Low Countries",
+  "kind": "region",
+  "count": 11,
+  "pages": [
+   "022",
+   "024",
+   "032",
+   "033",
+   "034",
+   "038",
+   "048",
+   "049",
+   "050",
+   "053"
+  ],
+  "originals": [
+   "Fiandra",
+   "dfra(n)dia (Fiandra)",
+   "di fiandra",
+   "d’fiandra",
+   "fiandra",
+   "fiandra / fiomgho / ɉlonda"
+  ],
+  "roles": {
+   "origin": 3,
+   "market": 6,
+   "mentioned": 2
+  }
+ },
+ {
+  "name": "London",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "region": "England",
+  "kind": "city",
+  "count": 11,
+  "pages": [
+   "022",
+   "025",
+   "028",
+   "029",
+   "040",
+   "041",
+   "042",
+   "049",
+   "050",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "London[a]",
+   "Londra",
+   "elondruo",
+   "londra",
+   "ɉlondia / bondria / allabnghra"
+  ],
+  "roles": {
+   "pivot": 2,
+   "origin": 3,
+   "market": 6
+  }
+ },
+ {
+  "name": "Gaeta",
+  "lat": 41.2134,
+  "lon": 13.5713,
+  "region": "Italy",
+  "kind": "city",
+  "count": 10,
+  "pages": [
+   "014",
+   "034",
+   "035",
+   "039",
+   "041",
+   "042",
+   "043",
+   "053",
+   "055",
+   "063"
+  ],
+  "originals": [
+   "Gaeta",
+   "chaeta / ghaeta",
+   "gaeta",
+   "ghacta",
+   "ghada[s][?]",
+   "ghaeta"
+  ],
+  "roles": {
+   "market": 9,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Bruges",
+  "lat": 51.2093,
+  "lon": 3.2247,
+  "region": "Low Countries",
+  "kind": "city",
+  "count": 10,
+  "pages": [
+   "015",
+   "035",
+   "040",
+   "041",
+   "042",
+   "044",
+   "049",
+   "050",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Bruggia",
+   "Bruggia/bengiara[?]",
+   "Brugia",
+   "bruggia",
+   "brugiera",
+   "brugogia[?] / brugia[?]"
+  ],
+  "roles": {
+   "market": 8,
+   "pivot": 2
+  }
+ },
+ {
+  "name": "England",
+  "lat": 52.5,
+  "lon": -1.5,
+  "region": "England",
+  "kind": "region",
+  "count": 10,
+  "pages": [
+   "024",
+   "028",
+   "029",
+   "030",
+   "033",
+   "034",
+   "040",
+   "042",
+   "050"
+  ],
+  "originals": [
+   "Anghilterra / AnghiltÉrra",
+   "Inghilterra",
+   "d'Inghilterra",
+   "inghilterra",
+   "miniogiltera[?]",
+   "noghiltarra"
+  ],
+  "roles": {
+   "market": 6,
+   "mentioned": 2,
+   "origin": 2
+  }
+ },
+ {
+  "name": "Palermo",
+  "lat": 38.1157,
+  "lon": 13.3615,
+  "region": "Sicily",
+  "kind": "city",
+  "count": 9,
+  "pages": [
+   "010",
+   "013",
+   "025",
+   "037",
+   "039",
+   "042",
+   "044",
+   "047",
+   "055"
+  ],
+  "originals": [
+   "In palerma",
+   "Palermo",
+   "Paleruo / Palruo",
+   "palerm",
+   "palermo",
+   "palermo / palarem(os)"
+  ],
+  "roles": {
+   "mentioned": 1,
+   "market": 8
+  }
+ },
+ {
+  "name": "Seville",
+  "lat": 37.3891,
+  "lon": -5.9845,
+  "region": "Spain",
+  "kind": "city",
+  "count": 9,
+  "pages": [
+   "018",
+   "023",
+   "032",
+   "037",
+   "040",
+   "048",
+   "052",
+   "055"
+  ],
+  "originals": [
+   "Cibilia",
+   "Cibilia / sibilia",
+   "Insibiha / disibilia",
+   "Sibilia",
+   "disibilia",
+   "d’sivilla"
+  ],
+  "roles": {
+   "market": 8,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Germany",
+  "lat": 50.5,
+  "lon": 10.0,
+  "region": "Germany",
+  "kind": "region",
+  "count": 9,
+  "pages": [
+   "024",
+   "031",
+   "038",
+   "045",
+   "051",
+   "053",
+   "055",
+   "058"
+  ],
+  "originals": [
+   "Alemagna",
+   "Lamagna",
+   "alemagna",
+   "d'allemagna[?]",
+   "d'amania[?] (nere)",
+   "nellomagnia"
+  ],
+  "roles": {
+   "mentioned": 3,
+   "origin": 4,
+   "market": 2
+  }
+ },
+ {
+  "name": "Barbary (North Africa)",
+  "lat": 34.0,
+  "lon": 5.0,
+  "region": "North Africa",
+  "kind": "region",
+  "count": 8,
+  "pages": [
+   "017",
+   "024",
+   "029",
+   "031",
+   "035",
+   "042",
+   "047",
+   "048"
+  ],
+  "originals": [
+   "Barb[eria]",
+   "Barbarescha",
+   "barbaresche",
+   "barbarescho",
+   "barbaresco / barbaresca",
+   "bareb[er]i / bareo"
+  ],
+  "roles": {
+   "origin": 8
+  }
+ },
+ {
+  "name": "Damascus",
+  "lat": 33.5138,
+  "lon": 36.2765,
+  "region": "Syria",
+  "kind": "city",
+  "count": 8,
+  "pages": [
+   "020",
+   "028",
+   "031",
+   "039",
+   "040",
+   "049",
+   "051",
+   "052"
+  ],
+  "originals": [
+   "Damascho",
+   "Domaskho / ddomaskho / abdomaskho",
+   "almaschio",
+   "damaghuiesa[?]",
+   "damascho / damaschin",
+   "damasso"
+  ],
+  "roles": {
+   "pivot": 3,
+   "mentioned": 2,
+   "origin": 1,
+   "market": 2
+  }
+ },
+ {
+  "name": "Lucca",
+  "lat": 43.843,
+  "lon": 10.5079,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 8,
+  "pages": [
+   "023",
+   "031",
+   "039",
+   "042",
+   "043",
+   "044",
+   "051",
+   "056"
+  ],
+  "originals": [
+   "dilucha",
+   "fanesi",
+   "luccha",
+   "lucchanaderse[?] (pany)",
+   "lucha"
+  ],
+  "roles": {
+   "market": 5,
+   "origin": 2,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Siena",
+  "lat": 43.3188,
+  "lon": 11.3308,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 8,
+  "pages": [
+   "023",
+   "033",
+   "034",
+   "038",
+   "042",
+   "043",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "Siena",
+   "di sena[?]",
+   "seno (Siena)",
+   "siena",
+   "siena / sirena[?]",
+   "sima / siena[?]"
+  ],
+  "roles": {
+   "mentioned": 2,
+   "market": 5,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Spain",
+  "lat": 40.0,
+  "lon": -3.7,
+  "region": "Spain",
+  "kind": "region",
+  "count": 8,
+  "pages": [
+   "032",
+   "033",
+   "034",
+   "038",
+   "040",
+   "042",
+   "063"
+  ],
+  "originals": [
+   "Spagn[i]uola[?]/Spagna",
+   "Spagnia",
+   "aspagna / spagnuolo / di spagna",
+   "d’spagna",
+   "horpaguna[?] (Spagna?)",
+   "spagn[i]uola"
+  ],
+  "roles": {
+   "origin": 4,
+   "market": 4
+  }
+ },
+ {
+  "name": "Lombardy",
+  "lat": 45.5,
+  "lon": 9.7,
+  "region": "Lombardy",
+  "kind": "region",
+  "count": 7,
+  "pages": [
+   "021",
+   "042",
+   "045",
+   "048",
+   "051",
+   "052",
+   "058"
+  ],
+  "originals": [
+   "Lonbarda / Lonbardia",
+   "jnle(n)mecna[?]",
+   "lonbarda",
+   "lonbardi",
+   "lonbordia"
+  ],
+  "roles": {
+   "origin": 3,
+   "mentioned": 3,
+   "market": 1
+  }
+ },
+ {
+  "name": "Provence",
+  "lat": 43.9,
+  "lon": 5.8,
+  "region": "Provence",
+  "kind": "region",
+  "count": 7,
+  "pages": [
+   "024",
+   "034",
+   "038",
+   "039",
+   "040",
+   "050",
+   "059"
+  ],
+  "originals": [
+   "diprodonya[?]",
+   "p(er)bonza / p(er)o",
+   "p[ro]vença",
+   "prolanza / pola[n]za",
+   "prove(n)za",
+   "provenza"
+  ],
+  "roles": {
+   "market": 5,
+   "origin": 2
+  }
+ },
+ {
+  "name": "Perpignan",
+  "lat": 42.6986,
+  "lon": 2.8956,
+  "region": "France",
+  "kind": "city",
+  "count": 6,
+  "pages": [
+   "010",
+   "021",
+   "025",
+   "026",
+   "030",
+   "050"
+  ],
+  "originals": [
+   "Di Perlugio",
+   "p(er)l[i]mnera",
+   "p(er)pignano",
+   "p(er)pignano / p(er)pignanj",
+   "ppanony brionelli"
+  ],
+  "roles": {
+   "market": 3,
+   "origin": 2,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "France",
+  "lat": 47.0,
+  "lon": 2.5,
+  "region": "France",
+  "kind": "region",
+  "count": 6,
+  "pages": [
+   "010",
+   "021",
+   "025",
+   "028",
+   "040",
+   "052"
+  ],
+  "originals": [
+   "Firanç(a) / frama",
+   "Fra(n)cia",
+   "Francia",
+   "Fre[n]ce",
+   "francia",
+   "usfrane"
+  ],
+  "roles": {
+   "mentioned": 4,
+   "market": 2
+  }
+ },
+ {
+  "name": "Levant",
+  "lat": 34.0,
+  "lon": 36.0,
+  "region": "Levant",
+  "kind": "region",
+  "count": 6,
+  "pages": [
+   "016",
+   "037",
+   "040",
+   "045",
+   "058",
+   "059"
+  ],
+  "originals": [
+   "alevante / dilevante",
+   "dlevante / J levante",
+   "i(n) f(e)rrante / i(n) lervante",
+   "leva(n)te",
+   "levante",
+   "levante / lalevante"
+  ],
+  "roles": {
+   "mentioned": 5,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Aragon",
+  "lat": 41.5,
+  "lon": -0.9,
+  "region": "Spain",
+  "kind": "region",
+  "count": 5,
+  "pages": [
+   "008",
+   "046",
+   "047",
+   "049",
+   "063"
+  ],
+  "originals": [
+   "arsunna[?]",
+   "avraona",
+   "d'(a)ragona",
+   "dr(a)gona",
+   "harghona"
+  ],
+  "roles": {
+   "market": 1,
+   "mentioned": 3,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Cyprus",
+  "lat": 35.0,
+  "lon": 33.4,
+  "region": "Levant",
+  "kind": "island",
+  "count": 5,
+  "pages": [
+   "020",
+   "024",
+   "038",
+   "039",
+   "052"
+  ],
+  "originals": [
+   "Cipri",
+   "cipri",
+   "di sipri",
+   "lippiano[?]",
+   "lisola dazipri"
+  ],
+  "roles": {
+   "mentioned": 2,
+   "origin": 1,
+   "market": 1,
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Romania (Byzantine Levant)",
+  "lat": 40.5,
+  "lon": 26.5,
+  "region": "Aegean",
+  "kind": "region",
+  "count": 5,
+  "pages": [
+   "021",
+   "038",
+   "050",
+   "053"
+  ],
+  "originals": [
+   "di romania",
+   "peromomia / thomania",
+   "romania",
+   "romanìa"
+  ],
+  "roles": {
+   "market": 4,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Perugia",
+  "lat": 43.1107,
+  "lon": 12.3908,
+  "region": "Italy",
+  "kind": "city",
+  "count": 5,
+  "pages": [
+   "023",
+   "042",
+   "044",
+   "055",
+   "056"
+  ],
+  "originals": [
+   "asperenza (Perugia)",
+   "perpoali",
+   "perugia"
+  ],
+  "roles": {
+   "mentioned": 2,
+   "market": 3
+  }
+ },
+ {
+  "name": "Como",
+  "lat": 45.8081,
+  "lon": 9.0852,
+  "region": "Lombardy",
+  "kind": "city",
+  "count": 4,
+  "pages": [
+   "005",
+   "010",
+   "035",
+   "045"
+  ],
+  "originals": [
+   "chomo",
+   "chomo[?]",
+   "come",
+   "como"
+  ],
+  "roles": {
+   "origin": 2,
+   "mentioned": 1,
+   "market": 1
+  }
+ },
+ {
+  "name": "Tortosa",
+  "lat": 40.8126,
+  "lon": 0.5214,
+  "region": "Catalonia",
+  "kind": "city",
+  "count": 4,
+  "pages": [
+   "008",
+   "009",
+   "017",
+   "031"
+  ],
+  "originals": [
+   "dtortosa",
+   "torabba d(e)lgroues",
+   "tortosa",
+   "tortosino"
+  ],
+  "roles": {
+   "market": 3,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Cremona",
+  "lat": 45.1332,
+  "lon": 10.0227,
+  "region": "Lombardy",
+  "kind": "city",
+  "count": 4,
+  "pages": [
+   "011",
+   "034",
+   "040",
+   "052"
+  ],
+  "originals": [
+   "Cremo[?]",
+   "cremona"
+  ],
+  "roles": {
+   "market": 4
+  }
+ },
+ {
+  "name": "Majorca",
+  "lat": 39.5696,
+  "lon": 2.6502,
+  "region": "Balearics",
+  "kind": "island",
+  "count": 4,
+  "pages": [
+   "015",
+   "016",
+   "017",
+   "038"
+  ],
+  "originals": [
+   "Ma[i]olicha[?]",
+   "Maiolicha",
+   "Maiolicha / Maioria",
+   "Manolicha / amanolicha"
+  ],
+  "roles": {
+   "market": 1,
+   "pivot": 2,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Messina",
+  "lat": 38.1938,
+  "lon": 15.554,
+  "region": "Sicily",
+  "kind": "city",
+  "count": 4,
+  "pages": [
+   "025",
+   "044",
+   "050",
+   "055"
+  ],
+  "originals": [
+   "Messina",
+   "mesina",
+   "messina",
+   "mussina"
+  ],
+  "roles": {
+   "market": 4
+  }
+ },
+ {
+  "name": "Toulouse",
+  "lat": 43.6047,
+  "lon": 1.4442,
+  "region": "France",
+  "kind": "city",
+  "count": 4,
+  "pages": [
+   "025",
+   "027",
+   "038",
+   "051"
+  ],
+  "originals": [
+   "Tolosa",
+   "tolosa",
+   "tolosino",
+   "tolosino (Jncenso)"
+  ],
+  "roles": {
+   "origin": 4
+  }
+ },
+ {
+  "name": "Apulia",
+  "lat": 41.0,
+  "lon": 16.5,
+  "region": "Italy",
+  "kind": "region",
+  "count": 4,
+  "pages": [
+   "039",
+   "041",
+   "042",
+   "043"
+  ],
+  "originals": [
+   "puglia"
+  ],
+  "roles": {
+   "market": 3,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Brescia",
+  "lat": 45.5416,
+  "lon": 10.2118,
+  "region": "Lombardy",
+  "kind": "city",
+  "count": 3,
+  "pages": [
+   "005",
+   "040",
+   "045"
+  ],
+  "originals": [
+   "abriestia",
+   "bre(t)ella",
+   "brescia"
+  ],
+  "roles": {
+   "origin": 2,
+   "market": 1
+  }
+ },
+ {
+  "name": "Castile",
+  "lat": 41.0,
+  "lon": -4.5,
+  "region": "Spain",
+  "kind": "region",
+  "count": 3,
+  "pages": [
+   "007",
+   "009",
+   "032"
+  ],
+  "originals": [
+   "Castiglia",
+   "d’ghostella",
+   "ghastella"
+  ],
+  "roles": {
+   "origin": 2,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Granada",
+  "lat": 37.1773,
+  "lon": -3.5986,
+  "region": "Spain",
+  "kind": "city",
+  "count": 3,
+  "pages": [
+   "013",
+   "048",
+   "053"
+  ],
+  "originals": [
+   "granada",
+   "gromata / Regnio d'gromata",
+   "gromata / jng(r)anda (Granata)"
+  ],
+  "roles": {
+   "market": 1,
+   "mentioned": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Burgundy",
+  "lat": 47.0,
+  "lon": 4.8,
+  "region": "France",
+  "kind": "region",
+  "count": 3,
+  "pages": [
+   "017",
+   "030",
+   "033"
+  ],
+  "originals": [
+   "Borghono",
+   "Burgogna",
+   "dalburghonea"
+  ],
+  "roles": {
+   "origin": 2,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Marseille",
+  "lat": 43.2965,
+  "lon": 5.3698,
+  "region": "Provence",
+  "kind": "city",
+  "count": 3,
+  "pages": [
+   "017",
+   "037",
+   "045"
+  ],
+  "originals": [
+   "damaresilca / amaresso",
+   "dim<a>rsilha / dim<a>ursia",
+   "marsilia"
+  ],
+  "roles": {
+   "market": 2,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Ibiza",
+  "lat": 38.9067,
+  "lon": 1.4206,
+  "region": "Balearics",
+  "kind": "island",
+  "count": 3,
+  "pages": [
+   "018",
+   "038"
+  ],
+  "originals": [
+   "Bya / di loya",
+   "Eviza",
+   "d'Iviza[?]"
+  ],
+  "roles": {
+   "market": 1,
+   "origin": 2
+  }
+ },
+ {
+  "name": "Sardinia",
+  "lat": 39.9,
+  "lon": 9.0,
+  "region": "Italy",
+  "kind": "island",
+  "count": 3,
+  "pages": [
+   "023",
+   "032",
+   "043"
+  ],
+  "originals": [
+   "Sardigna",
+   "sardesscho / disordegnia",
+   "sardigna"
+  ],
+  "roles": {
+   "market": 2,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Barletta",
+  "lat": 41.3206,
+  "lon": 16.2842,
+  "region": "Italy",
+  "kind": "city",
+  "count": 3,
+  "pages": [
+   "023",
+   "040",
+   "044"
+  ],
+  "originals": [
+   "abarletta",
+   "abolietta",
+   "dibarletta"
+  ],
+  "roles": {
+   "market": 1,
+   "origin": 1,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Ancona",
+  "lat": 43.6158,
+  "lon": 13.5189,
+  "region": "Italy",
+  "kind": "city",
+  "count": 3,
+  "pages": [
+   "023",
+   "034",
+   "039"
+  ],
+  "originals": [
+   "ancona",
+   "anghona",
+   "diasonona / dasona (Ancona)"
+  ],
+  "roles": {
+   "market": 3
+  }
+ },
+ {
+  "name": "Mantua",
+  "lat": 45.1564,
+  "lon": 10.7914,
+  "region": "Lombardy",
+  "kind": "city",
+  "count": 3,
+  "pages": [
+   "024",
+   "035",
+   "041"
+  ],
+  "originals": [
+   "Mantove[?]",
+   "mantova",
+   "mentova [?]"
+  ],
+  "roles": {
+   "mentioned": 1,
+   "market": 2
+  }
+ },
+ {
+  "name": "Malta",
+  "lat": 35.8997,
+  "lon": 14.5146,
+  "region": "Malta",
+  "kind": "island",
+  "count": 3,
+  "pages": [
+   "031",
+   "038",
+   "044"
+  ],
+  "originals": [
+   "di malta",
+   "malta"
+  ],
+  "roles": {
+   "origin": 2,
+   "market": 1
+  }
+ },
+ {
+  "name": "Holland",
+  "lat": 52.2,
+  "lon": 4.9,
+  "region": "Low Countries",
+  "kind": "region",
+  "count": 3,
+  "pages": [
+   "033",
+   "043",
+   "051"
+  ],
+  "originals": [
+   "Olanda[?]",
+   "d'ulanda (sara)",
+   "hollanchona[?]"
+  ],
+  "roles": {
+   "market": 1,
+   "mentioned": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Calabria",
+  "lat": 39.0,
+  "lon": 16.5,
+  "region": "Italy",
+  "kind": "region",
+  "count": 3,
+  "pages": [
+   "043",
+   "044",
+   "058"
+  ],
+  "originals": [
+   "Calabria / labra",
+   "chalavria / chalvria",
+   "dchalavria / jncalabria"
+  ],
+  "roles": {
+   "origin": 1,
+   "market": 1,
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Brussels",
+  "lat": 50.8503,
+  "lon": 4.3517,
+  "region": "Low Countries",
+  "kind": "city",
+  "count": 3,
+  "pages": [
+   "049",
+   "050",
+   "051"
+  ],
+  "originals": [
+   "borsella",
+   "brusella"
+  ],
+  "roles": {
+   "origin": 3
+  }
+ },
+ {
+  "name": "Savona",
+  "lat": 44.3091,
+  "lon": 8.4772,
+  "region": "Liguria",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "012",
+   "032"
+  ],
+  "originals": [
+   "Saona",
+   "d’saona"
+  ],
+  "roles": {
+   "market": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Minorca",
+  "lat": 39.9496,
+  "lon": 4.11,
+  "region": "Balearics",
+  "kind": "island",
+  "count": 2,
+  "pages": [
+   "017",
+   "038"
+  ],
+  "originals": [
+   "Minoricha[?]",
+   "minorgha / aminorgha"
+  ],
+  "roles": {
+   "pivot": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Tunis",
+  "lat": 36.8065,
+  "lon": 10.1815,
+  "region": "North Africa",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "017",
+   "033"
+  ],
+  "originals": [
+   "Tunizi[?]",
+   "dtunisi / datunisi"
+  ],
+  "roles": {
+   "origin": 1,
+   "market": 1
+  }
+ },
+ {
+  "name": "Arles",
+  "lat": 43.6766,
+  "lon": 4.6278,
+  "region": "Provence",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "023",
+   "038"
+  ],
+  "originals": [
+   "d'arbi[?]",
+   "dorli"
+  ],
+  "roles": {
+   "market": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Aigues-Mortes",
+  "lat": 43.5667,
+  "lon": 4.1917,
+  "region": "Provence",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "023",
+   "024"
+  ],
+  "originals": [
+   "dachuramoeta [?]",
+   "dasgnomonta"
+  ],
+  "roles": {
+   "market": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Aleppo",
+  "lat": 36.2021,
+  "lon": 37.1343,
+  "region": "Syria",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "025",
+   "038"
+  ],
+  "originals": [
+   "alepi",
+   "d'aleppi[?]"
+  ],
+  "roles": {
+   "origin": 2
+  }
+ },
+ {
+  "name": "Modena",
+  "lat": 44.6471,
+  "lon": 10.9252,
+  "region": "Italy",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "025",
+   "044"
+  ],
+  "originals": [
+   "dimoçena / Jndimoçena",
+   "modolesi"
+  ],
+  "roles": {
+   "origin": 1,
+   "market": 1
+  }
+ },
+ {
+  "name": "Carpentras",
+  "lat": 44.0556,
+  "lon": 5.0489,
+  "region": "Provence",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "027",
+   "054"
+  ],
+  "originals": [
+   "Carpentirghosta[?]",
+   "charpentirossa"
+  ],
+  "roles": {
+   "mentioned": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Brabant",
+  "lat": 51.0,
+  "lon": 4.6,
+  "region": "Low Countries",
+  "kind": "region",
+  "count": 2,
+  "pages": [
+   "028",
+   "050"
+  ],
+  "originals": [
+   "Prabant[?]",
+   "branzga"
+  ],
+  "roles": {
+   "mentioned": 2
+  }
+ },
+ {
+  "name": "Turkey",
+  "lat": 39.0,
+  "lon": 35.0,
+  "region": "Anatolia",
+  "kind": "region",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "turchescho",
+   "turchesco"
+  ],
+  "roles": {
+   "origin": 2
+  }
+ },
+ {
+  "name": "Tuscany",
+  "lat": 43.4,
+  "lon": 11.2,
+  "region": "Tuscany",
+  "kind": "region",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "toschano"
+  ],
+  "roles": {
+   "origin": 2
+  }
+ },
+ {
+  "name": "Portugal",
+  "lat": 39.5,
+  "lon": -8.0,
+  "region": "Portugal",
+  "kind": "region",
+  "count": 2,
+  "pages": [
+   "032",
+   "033"
+  ],
+  "originals": [
+   "Portoghallo",
+   "d’porto ghallo"
+  ],
+  "roles": {
+   "origin": 1,
+   "market": 1
+  }
+ },
+ {
+  "name": "Padua",
+  "lat": 45.4064,
+  "lon": 11.8768,
+  "region": "Italy",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "033",
+   "041"
+  ],
+  "originals": [
+   "Padova",
+   "padova"
+  ],
+  "roles": {
+   "market": 2
+  }
+ },
+ {
+  "name": "Barbary",
+  "lat": 34.0,
+  "lon": 5.0,
+  "region": "North Africa",
+  "kind": "region",
+  "count": 2,
+  "pages": [
+   "035",
+   "051"
+  ],
+  "originals": [
+   "barbarini (de spçi)",
+   "baruantk[?]"
+  ],
+  "roles": {
+   "origin": 2
+  }
+ },
+ {
+  "name": "Caffa (Feodosia)",
+  "lat": 45.0319,
+  "lon": 35.3824,
+  "region": "Black Sea",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "037",
+   "040"
+  ],
+  "originals": [
+   "In chaffa",
+   "chaffa"
+  ],
+  "roles": {
+   "market": 2
+  }
+ },
+ {
+  "name": "Syria",
+  "lat": 35.0,
+  "lon": 38.0,
+  "region": "Levant",
+  "kind": "region",
+  "count": 2,
+  "pages": [
+   "038",
+   "053"
+  ],
+  "originals": [
+   "soria",
+   "soriana"
+  ],
+  "roles": {
+   "origin": 1,
+   "market": 1
+  }
+ },
+ {
+  "name": "Monza",
+  "lat": 45.5845,
+  "lon": 9.2744,
+  "region": "Lombardy",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "045",
+   "054"
+  ],
+  "originals": [
+   "monsa"
+  ],
+  "roles": {
+   "origin": 2
+  }
+ },
+ {
+  "name": "Lisbon",
+  "lat": 38.7223,
+  "lon": -9.1393,
+  "region": "Portugal",
+  "kind": "city",
+  "count": 2,
+  "pages": [
+   "045",
+   "048"
+  ],
+  "originals": [
+   "Lismona",
+   "odlsbona (Lisbona)"
+  ],
+  "roles": {
+   "pivot": 1,
+   "origin": 1
+  }
+ },
+ {
+  "name": "Castellón de la Plana",
+  "lat": 39.9864,
+  "lon": -0.0513,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "Chastighone"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Vila-real (Villarreal)",
+  "lat": 39.9387,
+  "lon": -0.1014,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "villa reale"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Almenara",
+  "lat": 39.7547,
+  "lon": -0.2294,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "almenara"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Murcia",
+  "lat": 37.9922,
+  "lon": -1.1307,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "murya"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Nola",
+  "lat": 40.9265,
+  "lon": 14.5275,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "nola"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Pamplona",
+  "lat": 42.8125,
+  "lon": -1.6458,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "apanssola / pampisgola"
+  ],
+  "roles": {
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Navarre (valley)",
+  "lat": 42.7,
+  "lon": -1.6,
+  "region": "Spain",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "d'llovalle disnavarra"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Teruel",
+  "lat": 40.3456,
+  "lon": -1.1065,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "008"
+  ],
+  "originals": [
+   "gterunolo / terunolo / alterunino"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Biscay",
+  "lat": 43.2,
+  "lon": -2.9,
+  "region": "Spain",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "009"
+  ],
+  "originals": [
+   "biçava"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Zaragoza",
+  "lat": 41.6488,
+  "lon": -0.8891,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "009"
+  ],
+  "originals": [
+   "soraoghosa"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Tortona",
+  "lat": 44.8945,
+  "lon": 8.8643,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "009"
+  ],
+  "originals": [
+   "tortonda"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Almeria",
+  "lat": 36.8381,
+  "lon": -2.4597,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "012"
+  ],
+  "originals": [
+   "dalmuria[?] (d'Almeria?)"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Sfax",
+  "lat": 34.7406,
+  "lon": 10.7603,
+  "region": "North Africa",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "013"
+  ],
+  "originals": [
+   "ffaculo"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Salerno",
+  "lat": 40.6824,
+  "lon": 14.7681,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "014"
+  ],
+  "originals": [
+   "Salerno[?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Saragossa",
+  "lat": 41.6488,
+  "lon": -0.8891,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "015"
+  ],
+  "originals": [
+   "siragona[?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Annaba",
+  "lat": 36.9,
+  "lon": 7.7667,
+  "region": "North Africa",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "dbona / daouon"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Algiers",
+  "lat": 36.7538,
+  "lon": 3.0588,
+  "region": "North Africa",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "dalghune"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Bejaia (Bougie)",
+  "lat": 36.7509,
+  "lon": 5.0567,
+  "region": "North Africa",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "dbuggiea"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Treviso",
+  "lat": 45.6669,
+  "lon": 12.2433,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "datriuigi"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Languedoc",
+  "lat": 43.6,
+  "lon": 3.5,
+  "region": "France",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "dalgoram"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Brindisi",
+  "lat": 40.6327,
+  "lon": 17.9418,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "brundnisi"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Saluzzo",
+  "lat": 44.6469,
+  "lon": 7.4934,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "dalsaroessi"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Istanbul (Constantinople/Pera)",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "region": "Anatolia",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "missopontinopoli"
+  ],
+  "roles": {
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Thessaloniki (Salonika)",
+  "lat": 40.6401,
+  "lon": 22.9444,
+  "region": "Aegean",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "ssalomonchi"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Cordoba",
+  "lat": 37.8882,
+  "lon": -4.7794,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "dordovera"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Calais",
+  "lat": 50.9513,
+  "lon": 1.8587,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "gallesono / di gallo"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Cagliari",
+  "lat": 39.2238,
+  "lon": 9.1217,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "dicassero (cassero/Cagliari)"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Bonifacio",
+  "lat": 41.3873,
+  "lon": 9.1592,
+  "region": "Corsica",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "aboniffaro / abonsono"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Dubrovnik",
+  "lat": 42.6507,
+  "lon": 18.0944,
+  "region": "Adriatic",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "Ragona"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Baghdad",
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "region": "Iraq",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "bonghaddo"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Worcester",
+  "lat": 52.192,
+  "lon": -2.22,
+  "region": "England",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "028"
+  ],
+  "originals": [
+   "Guesfester[?]"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Slavonia (Dalmatia)",
+  "lat": 43.5,
+  "lon": 17.0,
+  "region": "Adriatic",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "schiavonia"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Amalfi",
+  "lat": 40.634,
+  "lon": 14.6027,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "amalicha"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Almería",
+  "lat": 36.8381,
+  "lon": -2.4597,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "almeri / almeria"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Champagne",
+  "lat": 48.5,
+  "lon": 4.3,
+  "region": "France",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "d’champagna"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Hungary",
+  "lat": 47.0,
+  "lon": 19.5,
+  "region": "Hungary",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "u(n)gheria"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Lübeck",
+  "lat": 53.8655,
+  "lon": 10.6866,
+  "region": "Germany",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "Lubessa[?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Ferrara",
+  "lat": 44.8381,
+  "lon": 11.6198,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "034"
+  ],
+  "originals": [
+   "Ferrara"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Urbino",
+  "lat": 43.7262,
+  "lon": 12.6365,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "034"
+  ],
+  "originals": [
+   "urbino"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Ravenna",
+  "lat": 44.4184,
+  "lon": 12.2035,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "034"
+  ],
+  "originals": [
+   "ravenna"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "India",
+  "lat": 21.0,
+  "lon": 78.0,
+  "region": "India",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "l'ondia/l'ondra[?]"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Beirut",
+  "lat": 33.8938,
+  "lon": 35.5018,
+  "region": "Levant",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "Beta[?]"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Empoli",
+  "lat": 43.7185,
+  "lon": 10.9468,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "036"
+  ],
+  "originals": [
+   "Enpoli / ampoli"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Volterra",
+  "lat": 43.4008,
+  "lon": 10.8606,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "037"
+  ],
+  "originals": [
+   "Vol[forte?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Western Mediterranean",
+  "lat": 40.0,
+  "lon": 5.0,
+  "region": "Mediterranean",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "037"
+  ],
+  "originals": [
+   "p(o)nente"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Arezzo",
+  "lat": 43.4633,
+  "lon": 11.8796,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "037"
+  ],
+  "originals": [
+   "hariso [Arezzo?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Arabia",
+  "lat": 24.0,
+  "lon": 45.0,
+  "region": "Arabia",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "d'ar[a]b(i)a[?]"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Barbary Coast",
+  "lat": 34.0,
+  "lon": 5.0,
+  "region": "North Africa",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "barberesche"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Cotswolds",
+  "lat": 51.8,
+  "lon": -1.8,
+  "region": "England",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "Cotisgualdo[?]"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Malaga",
+  "lat": 36.7213,
+  "lon": -4.4214,
+  "region": "Spain",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "michino / dmalicha[?]"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Trent",
+  "lat": 46.0667,
+  "lon": 11.1167,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "di trento"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Lezha (Alessio)",
+  "lat": 41.7836,
+  "lon": 19.6436,
+  "region": "Adriatic",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "di alesura[?]"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Sicily",
+  "lat": 37.5,
+  "lon": 14.0,
+  "region": "Sicily",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "sicilia"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Famagusta",
+  "lat": 35.1264,
+  "lon": 33.9416,
+  "region": "Levant",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "famagosta"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Feodosia (Caffa)",
+  "lat": 45.0319,
+  "lon": 35.3824,
+  "region": "Black Sea",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "gaffa"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Istanbul (Constantinople)",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "region": "Anatolia",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "costantinopoli"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Mytilene (Lesbos)",
+  "lat": 39.11,
+  "lon": 26.555,
+  "region": "Aegean",
+  "kind": "island",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "metellino"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Chios",
+  "lat": 38.368,
+  "lon": 26.136,
+  "region": "Aegean",
+  "kind": "island",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "asno"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Romagna",
+  "lat": 44.3,
+  "lon": 12.0,
+  "region": "Italy",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "romagna"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Sciacca",
+  "lat": 37.5096,
+  "lon": 13.0808,
+  "region": "Sicily",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "siagonone"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Verona",
+  "lat": 45.4384,
+  "lon": 10.9916,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "040"
+  ],
+  "originals": [
+   "verona"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Lugano",
+  "lat": 46.0037,
+  "lon": 8.9511,
+  "region": "Switzerland",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "040"
+  ],
+  "originals": [
+   "lughano"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Geneva",
+  "lat": 46.2044,
+  "lon": 6.1432,
+  "region": "Switzerland",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "040"
+  ],
+  "originals": [
+   "ginevra"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Western Europe / Ponente",
+  "lat": 45.0,
+  "lon": 2.0,
+  "region": "Western Europe",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "040"
+  ],
+  "originals": [
+   "diponente"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Crema",
+  "lat": 45.3606,
+  "lon": 9.6866,
+  "region": "Lombardy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "040"
+  ],
+  "originals": [
+   "dechrema"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Norway",
+  "lat": 60.5,
+  "lon": 8.5,
+  "region": "Scandinavia",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "041"
+  ],
+  "originals": [
+   "norvegia"
+  ],
+  "roles": {
+   "pivot": 1
+  }
+ },
+ {
+  "name": "Grenoble",
+  "lat": 45.1885,
+  "lon": 5.7245,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "041"
+  ],
+  "originals": [
+   "grenoba[?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Spoleto",
+  "lat": 42.7401,
+  "lon": 12.7356,
+  "region": "Italy",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "spronga[?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Scarperia",
+  "lat": 43.9933,
+  "lon": 11.3565,
+  "region": "Tuscany",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "discharpello[?]"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Tournai",
+  "lat": 50.6071,
+  "lon": 3.3892,
+  "region": "Low Countries",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "dironis"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Monferrato",
+  "lat": 45.0,
+  "lon": 8.3,
+  "region": "Italy",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "avonferrato"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Montivilliers",
+  "lat": 49.546,
+  "lon": 0.19,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "monsuvolany"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Chartres",
+  "lat": 48.4439,
+  "lon": 1.4893,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "ghattrar"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Provins",
+  "lat": 48.5582,
+  "lon": 3.2997,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "provno"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Reims",
+  "lat": 49.2583,
+  "lon": 4.0317,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "dranco"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Malines (Mechelen)",
+  "lat": 51.0259,
+  "lon": 4.4776,
+  "region": "Low Countries",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "mellina"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Hondschoote",
+  "lat": 50.975,
+  "lon": 2.5847,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "ghondisone"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Constantinople",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "region": "Anatolia",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "chostantinopoli"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Hormuz",
+  "lat": 27.059,
+  "lon": 56.4548,
+  "region": "Persia",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "ormoba"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Colombo (Ceylon)",
+  "lat": 6.9271,
+  "lon": 79.8612,
+  "region": "Indian Ocean",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "colonbino (verçino)"
+  ],
+  "roles": {
+   "origin": 1
+  }
+ },
+ {
+  "name": "Istanbul",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "region": "Anatolia",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "Chostantinopoli"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Bougie (Bejaia)",
+  "lat": 36.7509,
+  "lon": 5.0567,
+  "region": "North Africa",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "buggia"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Lyon",
+  "lat": 45.764,
+  "lon": 4.8357,
+  "region": "France",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "055"
+  ],
+  "originals": [
+   "lunga"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "Normandy",
+  "lat": 49.2,
+  "lon": 0.4,
+  "region": "France",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "055"
+  ],
+  "originals": [
+   "normda"
+  ],
+  "roles": {
+   "market": 1
+  }
+ },
+ {
+  "name": "West",
+  "lat": 43.0,
+  "lon": 0.0,
+  "region": "Western Europe",
+  "kind": "region",
+  "count": 1,
+  "pages": [
+   "058"
+  ],
+  "originals": [
+   "ponente"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ },
+ {
+  "name": "Methoni (Modon)",
+  "lat": 36.8197,
+  "lon": 21.7039,
+  "region": "Aegean",
+  "kind": "city",
+  "count": 1,
+  "pages": [
+   "059"
+  ],
+  "originals": [
+   "amo[?]done / Modone"
+  ],
+  "roles": {
+   "mentioned": 1
+  }
+ }
+]

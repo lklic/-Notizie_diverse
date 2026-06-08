@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trade-route map — Notizie diverse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="nav"></div>
+
+<div class="map-shell">
+  <div id="map"></div>
+  <div class="map-panel">
+    <h3>The trading world</h3>
+    <p class="muted" style="font-size:.92rem; margin:.2em 0 1em">Every marketplace named in the notebook, sized by
+      how often it appears. Lines are <em>ragguagli</em> — recorded conversions of weight, money or measure between two cities.</p>
+
+    <label class="eyebrow">Highlight a commodity</label>
+    <select id="commodity" class="searchbox" style="margin:6px 0 14px"></select>
+
+    <div class="legend-row"><input type="checkbox" id="showRoutes" checked> <label for="showRoutes">Show exchange lines</label></div>
+    <div class="legend-row"><input type="checkbox" id="showRegions" checked> <label for="showRegions">Show regions (not just cities)</label></div>
+
+    <div id="placeinfo" style="margin-top:16px"></div>
+  </div>
+  <div class="legend">
+    <div style="font-family:var(--mono); font-size:.7rem; letter-spacing:1px; text-transform:uppercase; color:var(--ink-faint); margin-bottom:6px">Marker size = mentions</div>
+    <div class="legend-row"><span class="cat-dot" style="background:var(--sienna); width:18px; height:18px"></span> marketplace</div>
+    <div class="legend-row"><span class="cat-dot" style="background:transparent; width:16px; height:16px; border:2px dashed var(--sea)"></span> region / area</div>
+    <div class="legend-row"><span style="display:inline-block;width:22px;border-top:3px solid var(--teal)"></span> exchange link</div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/map.js"></script>
+</body>
+</html>

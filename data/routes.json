@@ -1,0 +1,3460 @@
+[
+ {
+  "a": "Florence",
+  "b": "Genoa",
+  "count": 10,
+  "examples": [
+   {
+    "page": "023",
+    "from": "Genova",
+    "to": "Firenze",
+    "what": "weight: 150 lb garbo (cantaro, 6 rubbi x 25 lb)",
+    "value": "lb 138"
+   },
+   {
+    "page": "023",
+    "from": "Genova",
+    "to": "Firenze",
+    "what": "weight: argenuga, lb 40 Genoa",
+    "value": "lb ~130"
+   },
+   {
+    "page": "024",
+    "from": "Genova",
+    "to": "Fiorenza",
+    "what": "botte capacity (lb 1650 Genova = lb 1500 ours)",
+    "value": "1650 -> 1500"
+   },
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Fiorenza",
+    "what": "weight (lb 100 -> lb 92)",
+    "value": "92"
+   },
+   {
+    "page": "037",
+    "from": "Fiorenza",
+    "to": "Genova",
+    "what": "oil measure (ogno = staia 24)",
+    "value": "staia 24"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Florence",
+  "count": 9,
+  "examples": [
+   {
+    "page": "005",
+    "from": "Florence",
+    "to": "Barcelona",
+    "what": "price of Florentine cloth 'della pesa', in rotoli",
+    "value": "ro 17⅞"
+   },
+   {
+    "page": "012",
+    "from": "Florence",
+    "to": "Barcelona",
+    "what": "length (canna -> palms)",
+    "value": "1 = 3 palmi"
+   },
+   {
+    "page": "012",
+    "from": "Florence",
+    "to": "Barcelona",
+    "what": "weight (libbra)",
+    "value": "1⅕ lb fir = 1 lb Barcelona"
+   },
+   {
+    "page": "012",
+    "from": "Florence",
+    "to": "Barcelona",
+    "what": "weight of wool quintale",
+    "value": "lb 140 / 142 netta"
+   },
+   {
+    "page": "018",
+    "from": "Florence",
+    "to": "Barcelona",
+    "what": "measure conversion",
+    "value": "2¼"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Barcelona",
+  "count": 9,
+  "examples": [
+   {
+    "page": "011",
+    "from": "Avignone",
+    "to": "Barzalona",
+    "what": "weight (98 lb Avignon = 1 quintale Barcelona)",
+    "value": "lib 98 = quintale 1"
+   },
+   {
+    "page": "011",
+    "from": "Avignone",
+    "to": "Barzalona",
+    "what": "weight (arroba -> rove)",
+    "value": "arboma 1 = romo 1 ¼"
+   },
+   {
+    "page": "011",
+    "from": "Avignone",
+    "to": "Barzalona",
+    "what": "weight (marco -> oncia)",
+    "value": "marcho 1 = onçe 1"
+   },
+   {
+    "page": "011",
+    "from": "Avignone",
+    "to": "Barzalona",
+    "what": "length/measure of coarse cloth",
+    "value": "6 ¾ Avignon = romo 8 Barcelona (+~3 grossi)"
+   },
+   {
+    "page": "011",
+    "from": "Avignone",
+    "to": "Barzalona",
+    "what": "price of cloth sold at Barcelona",
+    "value": "~9 grosse"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Pisa",
+  "count": 8,
+  "examples": [
+   {
+    "page": "012",
+    "from": "Pisa",
+    "to": "Florence",
+    "what": "weight of wool quintale",
+    "value": "lb 140 / 142 netta"
+   },
+   {
+    "page": "024",
+    "from": "Pisa",
+    "to": "Fiorenza",
+    "what": "freight per moggio",
+    "value": "d. 11"
+   },
+   {
+    "page": "025",
+    "from": "Pisa",
+    "to": "Fiorenza",
+    "what": "silver/gold per migliaro (florins)",
+    "value": "fl 15-19¾"
+   },
+   {
+    "page": "036",
+    "from": "Firenze",
+    "to": "Pisa",
+    "what": "cloth width measure",
+    "value": "palmi 9 ⅖[?]"
+   },
+   {
+    "page": "039",
+    "from": "Firenze",
+    "to": "Pisa",
+    "what": "money/cambio",
+    "value": "25 d. (in oro?)"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Valencia",
+  "count": 8,
+  "examples": [
+   {
+    "page": "018",
+    "from": "Valenza",
+    "to": "Florence",
+    "what": "measure (carisso)",
+    "value": "otto (8)"
+   },
+   {
+    "page": "024",
+    "from": "Valenza",
+    "to": "Fiorenza",
+    "what": "weight of wool (lb 120 -> lb 125 in verga)",
+    "value": "120 -> 125"
+   },
+   {
+    "page": "024",
+    "from": "Valenza",
+    "to": "Fiorenza",
+    "what": "weight of wool (lb 150 -> lb 157 in verga)",
+    "value": "150 -> 157"
+   },
+   {
+    "page": "024",
+    "from": "Valenza",
+    "to": "Fiorenza",
+    "what": "net weight wool+bales",
+    "value": "190-192"
+   },
+   {
+    "page": "024",
+    "from": "Valenza",
+    "to": "Fiorenza",
+    "what": "grain measure (8 avtiare = 1 maggio)",
+    "value": "8 -> 1"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Granada",
+  "count": 7,
+  "examples": [
+   {
+    "page": "013",
+    "from": "Granata",
+    "to": "Barcelona",
+    "what": "length (100 cane carradori -> cane)",
+    "value": "157 ⁊ 155"
+   },
+   {
+    "page": "013",
+    "from": "Granata",
+    "to": "Barcelona",
+    "what": "length (cana -> palmi)",
+    "value": "9 palmi"
+   },
+   {
+    "page": "013",
+    "from": "Granata",
+    "to": "Barcelona",
+    "what": "length (100 donne -> donne; cana)",
+    "value": "175 donne; cana 1 7/20"
+   },
+   {
+    "page": "013",
+    "from": "Granata",
+    "to": "Barcelona",
+    "what": "weight (100 libbre -> )",
+    "value": "z 3 ⁊ 11 ... 19 ½ ⁊ ½"
+   },
+   {
+    "page": "013",
+    "from": "Granata",
+    "to": "Barcelona",
+    "what": "weight (archassa oro filato 60 -> once)",
+    "value": "54 once"
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Barcelona",
+  "count": 7,
+  "examples": [
+   {
+    "page": "019",
+    "from": "Alessandria",
+    "to": "Barzalona",
+    "what": "weight/price of pepper (900 rotoli)",
+    "value": "7 ⅛ rati"
+   },
+   {
+    "page": "019",
+    "from": "Alessandria",
+    "to": "Barzalona",
+    "what": "price of a commodity",
+    "value": "9"
+   },
+   {
+    "page": "019",
+    "from": "Alessandria",
+    "to": "Barzalona",
+    "what": "weight of a commodity",
+    "value": "4 r° e 4 lib"
+   },
+   {
+    "page": "019",
+    "from": "Alessandria",
+    "to": "Barzalona",
+    "what": "weight (amena)",
+    "value": "22 onze"
+   },
+   {
+    "page": "019",
+    "from": "Alessandria",
+    "to": "Barzalona",
+    "what": "weight (adina amena)",
+    "value": "lib 18 on 9"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Genoa",
+  "count": 7,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Avignona",
+    "what": "weight (lb 100 -> lb 80)",
+    "value": "80"
+   },
+   {
+    "page": "039",
+    "from": "Avignona",
+    "to": "Genova",
+    "what": "money (camera)",
+    "value": "5 d. (in oro?)"
+   },
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Avignon",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "75"
+   },
+   {
+    "page": "045",
+    "from": "Avignone",
+    "to": "Genova",
+    "what": "libbra weight conversion",
+    "value": "o(n)c(e) 16 ½"
+   },
+   {
+    "page": "045",
+    "from": "Avignone",
+    "to": "Genova",
+    "what": "weight (uuga/dyntare)",
+    "value": "lib(re) 7 s. 84"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Genoa",
+  "count": 6,
+  "examples": [
+   {
+    "page": "013",
+    "from": "Genova",
+    "to": "Barcelona",
+    "what": "weight (1 ½ barre, 56 + 1 tocco -> lb)",
+    "value": "63 lb"
+   },
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Barzalona",
+    "what": "weight (lb 100 -> lb 78)",
+    "value": "78"
+   },
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Barzalona",
+    "what": "cloth (benda di palmi -> gomma 1 5/9?)",
+    "value": "1 5/9?"
+   },
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Barcelona",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "73"
+   },
+   {
+    "page": "047",
+    "from": "Barcelona",
+    "to": "Genoa",
+    "what": "weight of oro filato (libbra)",
+    "value": "1 lb spent = Genoa lb returned; Genoa lb = 9 once at Barcelona"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Florence",
+  "count": 6,
+  "examples": [
+   {
+    "page": "023",
+    "from": "Bologna",
+    "to": "Firenze",
+    "what": "hides (cuoiame), use of Bologna",
+    "value": "lb 104"
+   },
+   {
+    "page": "033",
+    "from": "Bologna",
+    "to": "Firenze",
+    "what": "price of oro filato (per cassa)",
+    "value": "lb 14 l'achassa"
+   },
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Bologna",
+    "what": "weight (1 libbra di Firenze)",
+    "value": "on 11 d. 1/2"
+   },
+   {
+    "page": "044",
+    "from": "Bologna",
+    "to": "Firenze",
+    "what": "largoeba(?) / staio",
+    "value": "d. 3 ½"
+   },
+   {
+    "page": "044",
+    "from": "Bologna",
+    "to": "Firenze",
+    "what": "silver marco weight",
+    "value": "onçe 8 d. 11"
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Genoa",
+  "count": 6,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Alessandria",
+    "what": "silver (1 lb -> pesi/once 1/2, dirhem)",
+    "value": "onçe 1/2"
+   },
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Alessandria",
+    "what": "weight (1 lb -> dirhem 6, lba 7/4?)",
+    "value": "dirhem 6"
+   },
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Alessandria",
+    "what": "money/weight (bisante, carati)",
+    "value": "24 carati = 1 bisante; argento 13-18 d."
+   },
+   {
+    "page": "039",
+    "from": "Alessandria",
+    "to": "Genova",
+    "what": "money (bisante)",
+    "value": "argento 13-18"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Genova",
+    "what": "weight: lesser spice",
+    "value": "150 lb"
+   }
+  ]
+ },
+ {
+  "a": "Catalonia",
+  "b": "Genoa",
+  "count": 6,
+  "examples": [
+   {
+    "page": "047",
+    "from": "Catalonia",
+    "to": "Genoa",
+    "what": "weight (l'orto cintore standard)",
+    "value": "120 lb Catalonia = 137 lb Genoa"
+   },
+   {
+    "page": "047",
+    "from": "Catalonia",
+    "to": "Genoa",
+    "what": "weight (other l'orto cintore)",
+    "value": "returns 15 once"
+   },
+   {
+    "page": "047",
+    "from": "Catalonia",
+    "to": "Genoa",
+    "what": "Barbary silver argentini",
+    "value": "144 = lb 162-164"
+   },
+   {
+    "page": "047",
+    "from": "Catalonia",
+    "to": "Genoa",
+    "what": "weight (l'orto cintore grossa)",
+    "value": "1 grossa = lb 400"
+   },
+   {
+    "page": "047",
+    "from": "Catalonia",
+    "to": "Genoa",
+    "what": "weight of gold spun (libbra/oncia)",
+    "value": "8 Genoa = 10 Catalonia once"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Bologna",
+  "count": 5,
+  "examples": [
+   {
+    "page": "011",
+    "from": "Bologna",
+    "to": "Barzalona",
+    "what": "weight (libbra -> oncia)",
+    "value": "libra 1 = onçe 10 ¼"
+   },
+   {
+    "page": "011",
+    "from": "Bologna",
+    "to": "Barzalona",
+    "what": "length (rove -> palmi)",
+    "value": "romo 1 = palmi 2 ¾ ; 6 ¾ ; palmi 5 ⅙"
+   },
+   {
+    "page": "011",
+    "from": "Bologna",
+    "to": "Barzalona",
+    "what": "length of affitta/taffeta",
+    "value": "romo 6 ¾ ; palmi 5 ⅙"
+   },
+   {
+    "page": "046",
+    "from": "Barzalona",
+    "to": "Bologna",
+    "what": "money (scudo d'oro / grossi)",
+    "value": "¾ di Firenze; grossi 33"
+   },
+   {
+    "page": "056",
+    "from": "Bologna",
+    "to": "Barzalona",
+    "what": "usance",
+    "value": "mesi due alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Seville",
+  "count": 5,
+  "examples": [
+   {
+    "page": "018",
+    "from": "Sibilia",
+    "to": "Florence",
+    "what": "measure",
+    "value": "torna ventidue (22)"
+   },
+   {
+    "page": "023",
+    "from": "Sibilia",
+    "to": "Firenze",
+    "what": "grain: 23 harfissi",
+    "value": "staio 25 (Alfonsine); 4 3/4"
+   },
+   {
+    "page": "023",
+    "from": "Sibilia",
+    "to": "Firenze",
+    "what": "hides (cuoiame), use of Seville",
+    "value": "lb 190"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Seville",
+    "what": "exchange usance",
+    "value": "g xpc̄ vista"
+   },
+   {
+    "page": "055",
+    "from": "Seville",
+    "to": "Firenze",
+    "what": "exchange usance",
+    "value": "g xpp̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Valencia",
+  "count": 5,
+  "examples": [
+   {
+    "page": "018",
+    "from": "Valenza",
+    "to": "Barcelona",
+    "what": "capacity measure (robe / arroba)",
+    "value": "12 robe ch(e) 30; larger by 12"
+   },
+   {
+    "page": "018",
+    "from": "Valenza",
+    "to": "Barcelona",
+    "what": "large measure",
+    "value": "ch(e) 36 allardo"
+   },
+   {
+    "page": "018",
+    "from": "Valenza",
+    "to": "Barcelona",
+    "what": "measure (carisso) to convert",
+    "value": "quartetti 2½"
+   },
+   {
+    "page": "018",
+    "from": "Valenza",
+    "to": "Barcelona",
+    "what": "freight/charge on goods up to delivery",
+    "value": null
+   },
+   {
+    "page": "031",
+    "from": "balanza",
+    "to": "Barzalona",
+    "what": "weight",
+    "value": "lb 300"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Florence",
+  "count": 5,
+  "examples": [
+   {
+    "page": "025",
+    "from": "Avignona",
+    "to": "Fiorenza",
+    "what": "argento doppio (silver) value",
+    "value": "lb [...] 2 ⅌"
+   },
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Avignone",
+    "what": "exchange per conto di Camera",
+    "value": null
+   },
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Avignone",
+    "what": "weight (1 libbra di Firenze)",
+    "value": "on 11 d. 6"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Avignon",
+    "what": "exchange usance",
+    "value": "g xc̄ / xp̄ fatta"
+   },
+   {
+    "page": "055",
+    "from": "Avignon",
+    "to": "Firenze",
+    "what": "exchange usance",
+    "value": "g 5 fatta"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Genoa",
+  "count": 5,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Bologna",
+    "what": "weight (lb 100 -> lb 88)",
+    "value": "88"
+   },
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Bologna",
+    "what": "money/cambio",
+    "value": null
+   },
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Bologna",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "89"
+   },
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Bologna",
+    "what": "silver/gold mark assay (oncia/denari)",
+    "value": "oz 7 d. 21"
+   },
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Bologna",
+    "what": "exchange usance",
+    "value": "g 15 fatta, a dbolectina"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Milan",
+  "count": 5,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Melano",
+    "what": "weight (lb 100 -> lb 94)",
+    "value": "94"
+   },
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Milano",
+    "what": "money (fiorini imperiali)",
+    "value": "fl. 32(?); 1-30 per cent(?)"
+   },
+   {
+    "page": "039",
+    "from": "Milano",
+    "to": "Genova",
+    "what": "money (fiorini imperiali)",
+    "value": "fl. 32"
+   },
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Milano",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "90"
+   },
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Milan",
+    "what": "exchange usance",
+    "value": "g xc̄ vista, s'à pancese"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Paris",
+  "count": 5,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Paris",
+    "what": "exchange per conto (franchi?)",
+    "value": null
+   },
+   {
+    "page": "049",
+    "from": "Parigi",
+    "to": "Fiorenza",
+    "what": "cantaro/rotolo weight",
+    "value": "lb 169"
+   },
+   {
+    "page": "049",
+    "from": "Parigi",
+    "to": "Fiorenza",
+    "what": "cantaro weight",
+    "value": "lb 160"
+   },
+   {
+    "page": "049",
+    "from": "Parigi",
+    "to": "Fiorenza",
+    "what": "silk per pound (once)",
+    "value": "16¾ once"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Paris",
+    "what": "exchange usance",
+    "value": "g xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Majorca",
+  "count": 4,
+  "examples": [
+   {
+    "page": "015",
+    "from": "Maiolicha",
+    "to": "Barzalona",
+    "what": "weight (quintar of 100 lb = 117 at Barcelona)",
+    "value": "lb 100 = 117"
+   },
+   {
+    "page": "015",
+    "from": "Maiolicha",
+    "to": "Barzalona",
+    "what": "price of wax (cera): p 15 lb 82 at Majorca = p 16 lb 5 at Barcelona",
+    "value": "p 15 lb 82 -> p 16 lb 5"
+   },
+   {
+    "page": "015",
+    "from": "Maiolicha",
+    "to": "Barzalona",
+    "what": "count of goods (100 of Majorca = 102 at Barcelona)",
+    "value": "100 = 102"
+   },
+   {
+    "page": "017",
+    "from": "Maiolica",
+    "to": "Barzalona",
+    "what": "weight reckoning",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Pisa",
+  "count": 4,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Pisa",
+    "what": "weight (lb 100 -> lb 96)",
+    "value": "96"
+   },
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Pisa",
+    "what": "money/cambio",
+    "value": null
+   },
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Pisa",
+    "what": "exchange usance",
+    "value": "g xpc̄ fatta, s'à padovese"
+   },
+   {
+    "page": "058",
+    "from": "Pisa",
+    "to": "Genova",
+    "what": "re-export route by sea, gabella exemption",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "Florence",
+  "count": 4,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Bruges",
+    "what": "exchange per conto in grossi",
+    "value": null
+   },
+   {
+    "page": "049",
+    "from": "Bruggia",
+    "to": "Fiorenza",
+    "what": "weight: 100 lb Bruges",
+    "value": "137¼ lb"
+   },
+   {
+    "page": "049",
+    "from": "Fiorenza",
+    "to": "Bruggia",
+    "what": "franchi di Fiorenza in muda money",
+    "value": "23½ grossi"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Bruges",
+    "what": "exchange usance",
+    "value": "g xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Constantinople",
+  "count": 4,
+  "examples": [
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Costantinopoli",
+    "what": "weight: cantaro grossa",
+    "value": "82 lb grosse; 196 lb sottili"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Costantinopoli",
+    "what": "weight: lesser spice",
+    "value": "195-196 lb"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Costantinopoli",
+    "what": "weight: cantaro querni",
+    "value": "190 lb grosse"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Costantinopoli",
+    "what": "weight: cantaro of wool at peso grosso",
+    "value": "120 lb"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Milan",
+  "count": 3,
+  "examples": [
+   {
+    "page": "005",
+    "from": "Milan",
+    "to": "Barcelona",
+    "what": "price of Milanese yarn (usani/cremgi), in rotoli",
+    "value": "ro 19½"
+   },
+   {
+    "page": "005",
+    "from": "Milan",
+    "to": "Barcelona",
+    "what": "price of new usani yarn, in rotoli",
+    "value": "ro(b)mi 18½"
+   },
+   {
+    "page": "005",
+    "from": "Milan",
+    "to": "Barcelona",
+    "what": "price of Milanese cloth, in rotoli",
+    "value": "ro(b)mi 15"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Perpignan",
+  "count": 3,
+  "examples": [
+   {
+    "page": "010",
+    "from": "Perpignano",
+    "to": "Barcelona",
+    "what": "weight (quintale to lb)",
+    "value": "lb 1 ¼"
+   },
+   {
+    "page": "010",
+    "from": "Perpignano",
+    "to": "Barcelona",
+    "what": "weight (100 lb grosse to lb)",
+    "value": "129"
+   },
+   {
+    "page": "010",
+    "from": "Perpignano",
+    "to": "Barcelona",
+    "what": "export duty on cloth",
+    "value": "¼ p(er)c(ento)"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "France",
+  "count": 3,
+  "examples": [
+   {
+    "page": "010",
+    "from": "Barcelona",
+    "to": "France",
+    "what": "charge per cloth sold",
+    "value": "fp 2 ⅛ – 2 ¼"
+   },
+   {
+    "page": "010",
+    "from": "France",
+    "to": "Barcelona",
+    "what": "coin (signori) value",
+    "value": "76 of 100"
+   },
+   {
+    "page": "010",
+    "from": "France",
+    "to": "Barcelona",
+    "what": "coin (114 signori)",
+    "value": "80"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Savona",
+  "count": 3,
+  "examples": [
+   {
+    "page": "012",
+    "from": "Savona",
+    "to": "Barcelona",
+    "what": "weight (100 -> 190 rotoli grossi)",
+    "value": "100 = 190 rotoli grossi"
+   },
+   {
+    "page": "012",
+    "from": "Savona",
+    "to": "Barcelona",
+    "what": "length (canna -> canne di verga)",
+    "value": "1 canna = ⅔ ⅕ canne"
+   },
+   {
+    "page": "012",
+    "from": "Savona",
+    "to": "Barcelona",
+    "what": "weight (chondom -> rotoli)",
+    "value": "1 = ⅔ ⅞ rotoli[?]"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Venice",
+  "count": 3,
+  "examples": [
+   {
+    "page": "014",
+    "from": "Vinegra",
+    "to": "Barzalona",
+    "what": "weight (libra 140 sottil = 1 quintale)",
+    "value": "140 lb = 1 quintale"
+   },
+   {
+    "page": "014",
+    "from": "Vinegra",
+    "to": "Barzalona",
+    "what": "weight (16 once = 1 libbra)",
+    "value": "16 once = 1 lb"
+   },
+   {
+    "page": "014",
+    "from": "Vinegra",
+    "to": "Barzalona",
+    "what": "weight (peso greater by 12½%)",
+    "value": "+12½%"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Bruges",
+  "count": 3,
+  "examples": [
+   {
+    "page": "015",
+    "from": "Bruggia",
+    "to": "Barzalona",
+    "what": "weight (lb 95 of Bruges = 1 quintar of Barcelona)",
+    "value": "lb 95 = 1 quintaro"
+   },
+   {
+    "page": "015",
+    "from": "Bruggia",
+    "to": "Barzalona",
+    "what": "charge by land per pond",
+    "value": "ß 65"
+   },
+   {
+    "page": "015",
+    "from": "Bruggia",
+    "to": "Barzalona",
+    "what": "charge by sea per pound",
+    "value": "ß 41"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Montpellier",
+  "count": 3,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Monpolieri",
+    "what": "weight (lb 100 -> lb 80)",
+    "value": "80"
+   },
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Montpellier",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "75"
+   },
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Montpellier",
+    "what": "exchange usance",
+    "value": "mesi due fatta, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Seville",
+  "count": 3,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Sibilia",
+    "what": "weight (lb 100 -> lb 83)",
+    "value": "83"
+   },
+   {
+    "page": "037",
+    "from": "Sibilia",
+    "to": "Genova",
+    "what": "measure (hariso -> ony g 5/4)",
+    "value": "g 5/4"
+   },
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Seville",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "87"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Norway",
+  "count": 3,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Florence",
+    "what": "grain staio weight",
+    "value": "lb 133 grosse = lb 109 sottili[?]"
+   },
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Florence",
+    "what": "pearl/caratto weight equivalent",
+    "value": "onne 8 d(en) 12"
+   },
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Florence",
+    "what": "money (lira di grossi)",
+    "value": "15 in 15¼"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Milan",
+  "count": 3,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Milano",
+    "what": "exchange per conto (32 imperiali)",
+    "value": "32 imperiali"
+   },
+   {
+    "page": "045",
+    "from": "Milano",
+    "to": "Firenze",
+    "what": "weight (100 lb Milan)",
+    "value": "lib(re) 98"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Milan",
+    "what": "exchange usance",
+    "value": "g 5 / xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Messina",
+  "count": 3,
+  "examples": [
+   {
+    "page": "044",
+    "from": "Messina",
+    "to": "Firenze",
+    "what": "silver marco weight",
+    "value": "onçe 7 d. 12"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Messina",
+    "what": "exchange usance",
+    "value": "g 5 vista, a dapnagia"
+   },
+   {
+    "page": "055",
+    "from": "Messina",
+    "to": "Firenze",
+    "what": "exchange usance",
+    "value": "g xp̄ fatta"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Milan",
+  "count": 3,
+  "examples": [
+   {
+    "page": "044",
+    "from": "Melano",
+    "to": "Bologna",
+    "what": "money (cambio at cassa)",
+    "value": "d. 32 imperiali per lira"
+   },
+   {
+    "page": "044",
+    "from": "Bologna",
+    "to": "Melano",
+    "what": "money (cambio)",
+    "value": "simile"
+   },
+   {
+    "page": "056",
+    "from": "Milano",
+    "to": "Bologna",
+    "what": "usance",
+    "value": "dì x vista"
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "Paris",
+  "count": 3,
+  "examples": [
+   {
+    "page": "049",
+    "from": "Bruggia",
+    "to": "Parigi",
+    "what": "noble in carlini",
+    "value": "n° 202"
+   },
+   {
+    "page": "056",
+    "from": "Parigi",
+    "to": "Bruggia",
+    "what": "usance",
+    "value": "dì x vista"
+   },
+   {
+    "page": "056",
+    "from": "Bruggia",
+    "to": "Parigi",
+    "what": "usance (return)",
+    "value": "mesi j alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "London",
+  "count": 3,
+  "examples": [
+   {
+    "page": "049",
+    "from": "Bruggia",
+    "to": "Londra",
+    "what": "corona in moneta",
+    "value": "n° 54"
+   },
+   {
+    "page": "049",
+    "from": "Bruggia",
+    "to": "Londra",
+    "what": "scudo/gigli d'oro",
+    "value": "58½ s."
+   },
+   {
+    "page": "049",
+    "from": "Bruggia",
+    "to": "Londra",
+    "what": "franco exchanged at London in grossi",
+    "value": "24 grossi"
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Romania (Byzantine Levant)",
+  "count": 3,
+  "examples": [
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Romania",
+    "what": "weight: sporta sgudellata",
+    "value": "666⅔ lb"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Romania",
+    "what": "weight: cantaro of coarse spice",
+    "value": "133½ lb / 196 lb"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Romania",
+    "what": "weight: cantaro querni",
+    "value": "218 lb"
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Messina",
+  "count": 3,
+  "examples": [
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Messina",
+    "what": "weight: cantaro at peso sottile",
+    "value": "53 lb"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Messina",
+    "what": "weight: cantaro querni (n° 15)",
+    "value": "1 / n° 15"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Messina",
+    "what": "weight: cantaro of wool (schatch)",
+    "value": "n° 79⅓"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Montpellier",
+  "count": 2,
+  "examples": [
+   {
+    "page": "010",
+    "from": "Montpellier",
+    "to": "Barcelona",
+    "what": "cloth fair charges / advantage",
+    "value": "6 p(er)c(ento)"
+   },
+   {
+    "page": "056",
+    "from": "Monpolieri",
+    "to": "Barzalona",
+    "what": "usance",
+    "value": "dì xx vista"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Palermo",
+  "count": 2,
+  "examples": [
+   {
+    "page": "013",
+    "from": "Palermo",
+    "to": "Barcelona",
+    "what": "weight (cantaro -> cantara)",
+    "value": "1 ½"
+   },
+   {
+    "page": "013",
+    "from": "Palermo",
+    "to": "Barcelona",
+    "what": "weight (quintale 100 lb; 1 ⅗ -> coverga 12 lb)",
+    "value": "1 ⅗ = coverga 12 lb"
+   }
+  ]
+ },
+ {
+  "a": "Valencia",
+  "b": "Venice",
+  "count": 2,
+  "examples": [
+   {
+    "page": "014",
+    "from": "Valenza",
+    "to": "Vinegra",
+    "what": "weight (36 of Valencia per migliaio)",
+    "value": "36"
+   },
+   {
+    "page": "031",
+    "from": "balanza",
+    "to": "Vinegia",
+    "what": "weight",
+    "value": "lb 4[2]5"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Ibiza",
+  "count": 2,
+  "examples": [
+   {
+    "page": "018",
+    "from": "Iviza",
+    "to": "Florence",
+    "what": "salt measure via Pisa",
+    "value": "90 e 92 di sale (80)"
+   },
+   {
+    "page": "018",
+    "from": "Iviza",
+    "to": "Florence",
+    "what": "freight/price of salt (nolo)",
+    "value": "due di firenze"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Lucca",
+  "count": 2,
+  "examples": [
+   {
+    "page": "023",
+    "from": "Lucca",
+    "to": "Firenze",
+    "what": "weight: 102 lb Lucca",
+    "value": "lb 100"
+   },
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Lucca",
+    "what": "exchange (cambio per conto)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "England",
+  "b": "Florence",
+  "count": 2,
+  "examples": [
+   {
+    "page": "024",
+    "from": "Inghilterra",
+    "to": "Fiorenza",
+    "what": "weight/price of English wool, net in verga",
+    "value": "480"
+   },
+   {
+    "page": "030",
+    "from": "Inghilterra",
+    "to": "Firenze",
+    "what": "price of white English woolen cloth",
+    "value": "ff. 91⅛–93 panno"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Germany",
+  "count": 2,
+  "examples": [
+   {
+    "page": "024",
+    "from": "Alemagna",
+    "to": "Fiorenza",
+    "what": "weight (pound standard)",
+    "value": "1 lb -> 95¼"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Germany",
+    "what": "exchange usance",
+    "value": "g xc̄ vista, s'à pancese"
+   }
+  ]
+ },
+ {
+  "a": "England",
+  "b": "France",
+  "count": 2,
+  "examples": [
+   {
+    "page": "028",
+    "from": "Inghilterra",
+    "to": "Francia",
+    "what": "comparative price-list of wools and cloths (English vs French)",
+    "value": null
+   },
+   {
+    "page": "028",
+    "from": "Francia",
+    "to": "Inghilterra",
+    "what": "cloths (pomasl di Francia e d'Inghilterra)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Palermo",
+  "count": 2,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Palermo",
+    "what": "weight (lb 100 -> lb 106)",
+    "value": "106"
+   },
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Palermo",
+    "what": "money/cambio (bisanti)",
+    "value": "1 : 12(?)"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Paris",
+  "count": 2,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Parigi",
+    "what": "weight (lb 100 -> lb 6?)",
+    "value": "6?"
+   },
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Paris",
+    "what": "exchange usance",
+    "value": "mesi ... alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Venice",
+  "count": 2,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Genova",
+    "to": "Vinegia",
+    "what": "weight (lb 100 -> lb 72)",
+    "value": "72"
+   },
+   {
+    "page": "039",
+    "from": "Vinegia",
+    "to": "Genova",
+    "what": "money (grossi)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Constantinople",
+  "b": "Genoa",
+  "count": 2,
+  "examples": [
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Costantinopoli",
+    "what": "money (aspri)",
+    "value": null
+   },
+   {
+    "page": "053",
+    "from": "Costantinopoli",
+    "to": "Genova",
+    "what": "weight (cantaro grosso 140 lb sottile = 160 lb)",
+    "value": "140 lb sottile = lib. 160"
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "Genoa",
+  "count": 2,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Bruges",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "67"
+   },
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Bruges",
+    "what": "exchange usance",
+    "value": "mesi ... alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Perugia",
+  "count": 2,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Perugia",
+    "what": "exchange (cambio per conto)",
+    "value": null
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Perugia",
+    "what": "exchange usance",
+    "value": "g 5 vista, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Palermo",
+  "count": 2,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Palermo",
+    "what": "exchange (cambio per conto)",
+    "value": null
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Palermo",
+    "what": "exchange usance",
+    "value": "g xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Montpellier",
+  "count": 2,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Montpellier",
+    "what": "exchange per conto (franchi?)",
+    "value": null
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Montpellier",
+    "what": "exchange usance",
+    "value": "g xc̄ vista / g 5 fatta"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "London",
+  "count": 2,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "London",
+    "what": "exchange per conto in sterlings",
+    "value": "36-40 sterlini"
+   },
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "London",
+    "what": "exchange usance",
+    "value": "3 mesi fatta / tre fatta"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Paris",
+  "count": 2,
+  "examples": [
+   {
+    "page": "044",
+    "from": "Parigi",
+    "to": "Bologna",
+    "what": "money (cambio at cassa)",
+    "value": "in franchi"
+   },
+   {
+    "page": "056",
+    "from": "Bologna",
+    "to": "Parigi/Bruggia",
+    "what": "usance",
+    "value": "mesi due alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Venice",
+  "count": 2,
+  "examples": [
+   {
+    "page": "045",
+    "from": "Avignone",
+    "to": "Vinegia",
+    "what": "gross weight conversion",
+    "value": "lib(re) 137"
+   },
+   {
+    "page": "045",
+    "from": "Avignone",
+    "to": "Vinegia",
+    "what": "weight (barensa, ter gentory)",
+    "value": "lib(re) 7 s. 755 e 760"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Lisbon",
+  "count": 2,
+  "examples": [
+   {
+    "page": "045",
+    "from": "Lisbona",
+    "to": "Genova",
+    "what": "gross dyntare weight",
+    "value": "lib(re) 7 s. 37"
+   },
+   {
+    "page": "045",
+    "from": "Lisbona",
+    "to": "Genova",
+    "what": "ortunto amaverzo weight",
+    "value": "o(n)c(e) 8 d(enari) 13"
+   }
+  ]
+ },
+ {
+  "a": "Montpellier",
+  "b": "Paris",
+  "count": 2,
+  "examples": [
+   {
+    "page": "046",
+    "from": "Monpolieri",
+    "to": "Parigi",
+    "what": "money (florin vs French money)",
+    "value": "fiorino conteo a franco"
+   },
+   {
+    "page": "056",
+    "from": "Monpolieri",
+    "to": "Parigi",
+    "what": "usance",
+    "value": "mese uno fatta"
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Flanders",
+  "count": 2,
+  "examples": [
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Fiandra",
+    "what": "weight: sporta = 670 lb",
+    "value": "670 lb"
+   },
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Fiandra",
+    "what": "weight: lesser spice",
+    "value": "264 lb"
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "Flanders",
+  "count": 2,
+  "examples": [
+   {
+    "page": "050",
+    "from": "Bruggia",
+    "to": "Fiandra",
+    "what": "wool load reckoning of 60",
+    "value": "lb (illegible)"
+   },
+   {
+    "page": "050",
+    "from": "Bruggia",
+    "to": "Fiandra",
+    "what": "length: alla (ell) to braccio",
+    "value": "braccia 1⅙"
+   }
+  ]
+ },
+ {
+  "a": "Levant",
+  "b": "Pisa",
+  "count": 2,
+  "examples": [
+   {
+    "page": "058",
+    "from": "Levante (Roma)",
+    "to": "Pisa",
+    "what": "import route, gabella exemption",
+    "value": null
+   },
+   {
+    "page": "059",
+    "from": "Levante",
+    "to": "Pisa",
+    "what": "price of Levant salt per staio (same weight)",
+    "value": "9"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Como",
+  "count": 1,
+  "examples": [
+   {
+    "page": "005",
+    "from": "Como",
+    "to": "Barcelona",
+    "what": "price of Como muslin(?), in rotoli",
+    "value": "ro(b)mi 7½"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Brescia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "005",
+    "from": "Brescia",
+    "to": "Barcelona",
+    "what": "price of Brescia(?) goods, in rotoli",
+    "value": "ro 15 / ro 20"
+   }
+  ]
+ },
+ {
+  "a": "Teruel",
+  "b": "Valencia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "008",
+    "from": "Teruel",
+    "to": "Valencia",
+    "what": "freight/charge of wool",
+    "value": "f 2"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "France",
+  "count": 1,
+  "examples": [
+   {
+    "page": "010",
+    "from": "France",
+    "to": "Bologna",
+    "what": "coin (114 signori)",
+    "value": "31"
+   }
+  ]
+ },
+ {
+  "a": "Montpellier",
+  "b": "Palermo",
+  "count": 1,
+  "examples": [
+   {
+    "page": "010",
+    "from": "Palermo",
+    "to": "Montpellier",
+    "what": "coin/weight (oro)",
+    "value": "1 ⅗"
+   }
+  ]
+ },
+ {
+  "a": "Montpellier",
+  "b": "Venice",
+  "count": 1,
+  "examples": [
+   {
+    "page": "014",
+    "from": "Vinegra",
+    "to": "Monpolieri",
+    "what": "weight (marscio greater by 2%)",
+    "value": "+2%"
+   }
+  ]
+ },
+ {
+  "a": "Majorca",
+  "b": "Tortosa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "017",
+    "from": "Tortosa",
+    "to": "Maiolica",
+    "what": "weight (cantar)",
+    "value": "7 1/4"
+   }
+  ]
+ },
+ {
+  "a": "Majorca",
+  "b": "Marseille",
+  "count": 1,
+  "examples": [
+   {
+    "page": "017",
+    "from": "Marsilia",
+    "to": "Maiolica",
+    "what": "weight (cantar)",
+    "value": "7 1/4"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Minorca",
+  "count": 1,
+  "examples": [
+   {
+    "page": "017",
+    "from": "Minorca",
+    "to": "Fiorenza",
+    "what": "weight (quintale -> libbre)",
+    "value": "lib. 100 netto"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Ibiza",
+  "count": 1,
+  "examples": [
+   {
+    "page": "018",
+    "from": "Iviza",
+    "to": "Barcelona",
+    "what": "salt measure (modno)",
+    "value": "quaretmi 12"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Seville",
+  "count": 1,
+  "examples": [
+   {
+    "page": "018",
+    "from": "Sibilia",
+    "to": "Barcelona",
+    "what": "dry measure (fanega/selemini)",
+    "value": "12 fanega; 1 fanega = 12 selemini"
+   }
+  ]
+ },
+ {
+  "a": "Constantinople",
+  "b": "Romania (Byzantine Levant)",
+  "count": 1,
+  "examples": [
+   {
+    "page": "021",
+    "from": "Romania",
+    "to": "Costantinopoli",
+    "what": "goods that sell well",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Barletta",
+  "b": "Florence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "023",
+    "from": "Barletta",
+    "to": "Firenze",
+    "what": "grain: 7 1/2 salme",
+    "value": "moggia 3"
+   }
+  ]
+ },
+ {
+  "a": "Cagliari",
+  "b": "Florence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "023",
+    "from": "Cagliari",
+    "to": "Firenze",
+    "what": "grain: rasiere = mina garbo",
+    "value": "sona 3 1/8"
+   }
+  ]
+ },
+ {
+  "a": "Ancona",
+  "b": "Florence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "023",
+    "from": "Ancona",
+    "to": "Firenze",
+    "what": "hides (cuoiame), use of Florence at Ancona/Perugia/Siena/Gubbio",
+    "value": "lb 102-104"
+   }
+  ]
+ },
+ {
+  "a": "Flanders",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "024",
+    "from": "Fiandra",
+    "to": "Genova",
+    "what": "barrel weight",
+    "value": "+1¼"
+   }
+  ]
+ },
+ {
+  "a": "Burgundy",
+  "b": "Florence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "033",
+    "from": "Burgundy",
+    "to": "Firenze",
+    "what": "price of oro filato (per doina/mazzo)",
+    "value": "s 12 ¼ la doyna; s 9 i(n) 10½ al mazzo"
+   }
+  ]
+ },
+ {
+  "a": "Barbary (North Africa)",
+  "b": "Bruges",
+  "count": 1,
+  "examples": [
+   {
+    "page": "035",
+    "from": "Barberia",
+    "to": "Bruggia",
+    "what": "spice cargo valuation",
+    "value": "September 1419"
+   }
+  ]
+ },
+ {
+  "a": "Barbary (North Africa)",
+  "b": "Venice",
+  "count": 1,
+  "examples": [
+   {
+    "page": "035",
+    "from": "Barberia",
+    "to": "Vinegia",
+    "what": "spice/cotton cargo valuation",
+    "value": "December 1419"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Empoli",
+  "count": 1,
+  "examples": [
+   {
+    "page": "036",
+    "from": "Barceloneta",
+    "to": "Empoli",
+    "what": "price of grain/wool per staio",
+    "value": "lb 2 d 3, staio d[..] 84[?]"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Empoli",
+  "count": 1,
+  "examples": [
+   {
+    "page": "036",
+    "from": "Empoli",
+    "to": "Avignone[?] (asegua)",
+    "what": "freight (nolo)",
+    "value": "lb 20"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Marseille",
+  "count": 1,
+  "examples": [
+   {
+    "page": "037",
+    "from": "Marsilia",
+    "to": "Genova",
+    "what": "oil measure (ogno -> ony 3 1/8)",
+    "value": "3 1/8"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Lucca",
+  "count": 1,
+  "examples": [
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Lucca",
+    "what": "money/cambio",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Ancona",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Ancona",
+    "what": "money/cambio",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Famagusta",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Famagosta",
+    "what": "money/cambio",
+    "value": "5¾ bisanti = 1 ducato"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Mytilene (Lesbos)",
+  "count": 1,
+  "examples": [
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Metellino",
+    "what": "money/cambio",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Romagna",
+  "count": 1,
+  "examples": [
+   {
+    "page": "039",
+    "from": "Genova",
+    "to": "Romagna",
+    "what": "money (grossi)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Verona",
+  "count": 1,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Verona",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "89"
+   }
+  ]
+ },
+ {
+  "a": "Cremona",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Cremona/Brescia",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "92"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Lugano",
+  "count": 1,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Lugano",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "88"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Provence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Provence",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "58"
+   }
+  ]
+ },
+ {
+  "a": "Geneva",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Geneva",
+    "what": "weight (lb 100 fine -> lb)",
+    "value": "95"
+   }
+  ]
+ },
+ {
+  "a": "Barletta",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Barletta",
+    "to": "Genova",
+    "what": "weight of saffron (lb 100 -> lb)",
+    "value": "106"
+   }
+  ]
+ },
+ {
+  "a": "Damascus",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "040",
+    "from": "Genova",
+    "to": "Damascus",
+    "what": "weight (migliaio grosso -> cantaro)",
+    "value": "2.5"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Bologna",
+    "what": "money (ducat exchange)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Mantua",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Mantua",
+    "what": "money (ducat exchange)",
+    "value": "pari[?]"
+   }
+  ]
+ },
+ {
+  "a": "Norway",
+  "b": "Padua",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Padua",
+    "what": "money (ducat exchange)",
+    "value": "pari[?]"
+   }
+  ]
+ },
+ {
+  "a": "Norway",
+  "b": "Rome",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Rome",
+    "what": "money (ducats vs fiorini di camera)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Naples",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Naples",
+    "what": "money (grossi per oncia)",
+    "value": "60 carlini = 1 oncia, … in 12 grossi"
+   }
+  ]
+ },
+ {
+  "a": "Milan",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Milan",
+    "what": "money (vs imperiali)",
+    "value": "22 lire"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Avignon",
+    "what": "money (vs fiorini di camera)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Montpellier",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Montpellier",
+    "what": "money (ducat / franchi)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Barcelona",
+    "what": "money (vs barzalonesi)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Norway",
+  "b": "Valencia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Valencia",
+    "what": "money (vs barzalonesi)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Norway",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Paris",
+    "what": "money (grossi vs franco)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "Bruges",
+    "what": "money (grossi vs franco)",
+    "value": "33 grossi = 1 franco; 34 in 38"
+   }
+  ]
+ },
+ {
+  "a": "London",
+  "b": "Norway",
+  "count": 1,
+  "examples": [
+   {
+    "page": "041",
+    "from": "Norway",
+    "to": "London",
+    "what": "money (ducat vs sterling)",
+    "value": "36 in 40 starlini = 1 ducato"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Siena",
+  "count": 1,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Siena",
+    "what": "exchange (cambio per conto)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Florence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "042",
+    "from": "Firenze",
+    "to": "Alexandria",
+    "what": "weight (1 libbra di Firenze)",
+    "value": "pesi 112 (mochoresi)"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Messina",
+  "count": 1,
+  "examples": [
+   {
+    "page": "044",
+    "from": "Messina",
+    "to": "Genova",
+    "what": "silver marco weight",
+    "value": "onçe 8 d. 1"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Modena",
+  "count": 1,
+  "examples": [
+   {
+    "page": "044",
+    "from": "Bologna",
+    "to": "Modena",
+    "what": "silver marco weight",
+    "value": "onçe 8 d. 2"
+   }
+  ]
+ },
+ {
+  "a": "Lisbon",
+  "b": "Montpellier",
+  "count": 1,
+  "examples": [
+   {
+    "page": "045",
+    "from": "Lisbona",
+    "to": "Montpellier",
+    "what": "money exchange (affranzio)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Lisbon",
+  "count": 1,
+  "examples": [
+   {
+    "page": "045",
+    "from": "Lisbona",
+    "to": "Barcelona",
+    "what": "money exchange (soldi barzalonesi)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Lisbon",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "045",
+    "from": "Lisbona",
+    "to": "Parigi",
+    "what": "money exchange (franzio)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Montpellier",
+  "count": 1,
+  "examples": [
+   {
+    "page": "046",
+    "from": "Monpolieri",
+    "to": "Bologna",
+    "what": "money (florin vs grossi)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Aragon",
+  "b": "Barcelona",
+  "count": 1,
+  "examples": [
+   {
+    "page": "046",
+    "from": "Barzalona",
+    "to": "Aragona",
+    "what": "weight/measure of merchandise (calibra)",
+    "value": "ß per 7 abarzalonesi"
+   }
+  ]
+ },
+ {
+  "a": "Catalonia",
+  "b": "Florence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "047",
+    "from": "Catalonia",
+    "to": "Florence",
+    "what": "cafisso of grain",
+    "value": "1 cafisso = ca. 8½ staia (mr 30)"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Catalonia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "047",
+    "from": "Catalonia",
+    "to": "Barcelona",
+    "what": "pound (weight standard)",
+    "value": "11 Barcelona lb = 1 Aragon lb"
+   }
+  ]
+ },
+ {
+  "a": "Flanders",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "049",
+    "from": "Parigi",
+    "to": "Fiandra",
+    "what": "silk per pound (once)",
+    "value": "16¼ once"
+   }
+  ]
+ },
+ {
+  "a": "Alexandria",
+  "b": "Venice",
+  "count": 1,
+  "examples": [
+   {
+    "page": "050",
+    "from": "Alessandria",
+    "to": "Vinegia",
+    "what": "weight: cantaro querni",
+    "value": "700 lb"
+   }
+  ]
+ },
+ {
+  "a": "England",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "050",
+    "from": "Inghilterra",
+    "to": "Genova",
+    "what": "weight: 12 lb England",
+    "value": "g (illegible)"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "Venice",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Venice",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 750"
+   }
+  ]
+ },
+ {
+  "a": "Cremona",
+  "b": "Cyprus",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Cremona",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 720"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "France",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "France",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 656"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "Rome",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Rome",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 631"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "Naples",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Naples",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 661"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Cyprus",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Bologna",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 627"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "Milan",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Milan",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 668"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Cyprus",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Avignon",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 670"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "Montpellier",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Montpellier",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 670"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Cyprus",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Barcelona",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 554"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "Seville",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Seville",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 590"
+   }
+  ]
+ },
+ {
+  "a": "Cyprus",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "052",
+    "from": "Cipri",
+    "to": "Paris",
+    "what": "weight (centenaro of argi)",
+    "value": "lb 948"
+   }
+  ]
+ },
+ {
+  "a": "Constantinople",
+  "b": "Florence",
+  "count": 1,
+  "examples": [
+   {
+    "page": "053",
+    "from": "Costantinopoli",
+    "to": "Firenze",
+    "what": "weight (cantaro grosso = Florence pounds)",
+    "value": "lib. 145"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Valencia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "053",
+    "from": "Genova",
+    "to": "Valenza",
+    "what": "money (proceeding danari)",
+    "value": "da 18 in 24"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Carpentras",
+  "count": 1,
+  "examples": [
+   {
+    "page": "054",
+    "from": "Carpentras",
+    "to": "Avignon",
+    "what": "saffron (origin to market)",
+    "value": null
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Lyon",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Lyon",
+    "what": "exchange usance",
+    "value": "g 5 vista, s'à pancese"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Rome",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Rome",
+    "what": "exchange usance",
+    "value": "g xc̄ vista, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Naples",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Naples",
+    "what": "exchange usance",
+    "value": "g xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Gaeta",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Gaeta",
+    "what": "exchange usance",
+    "value": "g xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Milan",
+  "b": "Palermo",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Palermo",
+    "to": "Milan",
+    "what": "exchange usance",
+    "value": "g xpc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Milan",
+  "b": "Montpellier",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Montpellier",
+    "to": "Milan",
+    "what": "exchange usance",
+    "value": "per mese, la fatta"
+   }
+  ]
+ },
+ {
+  "a": "Florence",
+  "b": "Normandy",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Firenze",
+    "to": "Normandy",
+    "what": "exchange usance",
+    "value": "mesi [..] alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Perugia",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Perugia",
+    "what": "exchange usance",
+    "value": "g 3 vista, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Bologna",
+    "what": "exchange usance",
+    "value": "g 5 vista, s'à dla"
+   }
+  ]
+ },
+ {
+  "a": "Milan",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Milan",
+    "what": "exchange usance",
+    "value": "g xc̄ vista, s'à pancese"
+   }
+  ]
+ },
+ {
+  "a": "Pisa",
+  "b": "Rome",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Rome",
+    "what": "exchange usance",
+    "value": "g xc̄ vista, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Montpellier",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Montpellier",
+    "what": "exchange usance",
+    "value": "mesi ... fatta"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Avignon",
+    "what": "exchange usance",
+    "value": "mesi ... fatta"
+   }
+  ]
+ },
+ {
+  "a": "Naples",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Naples",
+    "what": "exchange usance",
+    "value": "g xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Gaeta",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Gaeta",
+    "what": "exchange usance",
+    "value": "g xc̄ vista"
+   }
+  ]
+ },
+ {
+  "a": "Paris",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Paris",
+    "what": "exchange usance",
+    "value": "mesi ... fatta"
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Bruges",
+    "what": "exchange usance",
+    "value": "mesi ... fatta"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "Barcelona",
+    "what": "exchange usance",
+    "value": "g xpp̄ vista, s'à dla"
+   }
+  ]
+ },
+ {
+  "a": "London",
+  "b": "Pisa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Pisa",
+    "to": "London",
+    "what": "exchange usance",
+    "value": "mesi tre alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Lyon",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Lyon",
+    "what": "exchange usance",
+    "value": "g xpc̄ fatta, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Rome",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Rome",
+    "what": "exchange usance",
+    "value": "g xc̄ vista, s'à pancese"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Perugia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Perugia",
+    "what": "exchange usance",
+    "value": "g xc̄ vista, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "London",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "London",
+    "what": "exchange usance",
+    "value": "mesi tre fatta, s'à pancese"
+   }
+  ]
+ },
+ {
+  "a": "Gaeta",
+  "b": "Genoa",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Gaeta",
+    "what": "exchange usance",
+    "value": "g 15 vista, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Genoa",
+  "b": "Naples",
+  "count": 1,
+  "examples": [
+   {
+    "page": "055",
+    "from": "Genova",
+    "to": "Naples",
+    "what": "exchange usance",
+    "value": "g 15 vista, s'à padovese"
+   }
+  ]
+ },
+ {
+  "a": "Milan",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Milano",
+    "to": "Parigi/Bruggia",
+    "what": "usance (term) of bill of exchange",
+    "value": "mesi due alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Milan",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Milano",
+    "to": "Avignone/Monpolieri",
+    "what": "usance",
+    "value": "dì x vista"
+   }
+  ]
+ },
+ {
+  "a": "Milan",
+  "b": "Perugia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Milano",
+    "to": "Perugia/Siena",
+    "what": "usance",
+    "value": "dì x vista"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Perugia",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Bologna",
+    "to": "Perugia",
+    "what": "usance",
+    "value": "dì x vista"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Siena",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Bologna",
+    "to": "Siena",
+    "what": "usance",
+    "value": "dì 3 vista"
+   }
+  ]
+ },
+ {
+  "a": "Bologna",
+  "b": "Lucca",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Bologna",
+    "to": "Lucca",
+    "what": "usance",
+    "value": "dì 5 vista"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Montpellier",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Avignone",
+    "to": "Monpolieri",
+    "what": "usance",
+    "value": "dì 2 vista"
+   }
+  ]
+ },
+ {
+  "a": "Avignon",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Avignone",
+    "to": "Parigi/Bruggia",
+    "what": "usance",
+    "value": "mese uno alla fatta"
+   }
+  ]
+ },
+ {
+  "a": "Bruges",
+  "b": "Montpellier",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Monpolieri",
+    "to": "Bruggia",
+    "what": "usance",
+    "value": "dì 40 fatta"
+   }
+  ]
+ },
+ {
+  "a": "London",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Parigi",
+    "to": "Londra",
+    "what": "usance",
+    "value": "mese uno fatta"
+   }
+  ]
+ },
+ {
+  "a": "Barcelona",
+  "b": "Paris",
+  "count": 1,
+  "examples": [
+   {
+    "page": "056",
+    "from": "Barzalona",
+    "to": "Parigi/Bruggia",
+    "what": "usance",
+    "value": "dì xxx[?] vista"
+   }
+  ]
+ }
+]

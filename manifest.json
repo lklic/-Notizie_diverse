@@ -1,0 +1,2873 @@
+{
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@id": "https://lklic.github.io/-Notizie_diverse/manifest.json",
+ "@type": "sc:Manifest",
+ "label": "Notizie diverse raccolte nell'esercizio della mercatura — Stoldo di Lionardo Frescobaldi (c. 1417–1429)",
+ "metadata": [
+  {
+   "label": "Author",
+   "value": "Frescobaldi, Stoldo di Leonardo"
+  },
+  {
+   "label": "Title",
+   "value": "Notizie diverse raccolte nell'esercizio della mercatura circa i generi, pesi, misure, valore e Ragguagli da una Piazza all'altra"
+  },
+  {
+   "label": "Date",
+   "value": "1417–1429"
+  },
+  {
+   "label": "Repository",
+   "value": "Harvard Library"
+  },
+  {
+   "label": "Catalog",
+   "value": "https://hollis.harvard.edu/discovery/fulldisplay?docid=alma990150284390203941&context=L&vid=01HVD_INST:HVD2"
+  },
+  {
+   "label": "Barcode",
+   "value": "32044103438974"
+  }
+ ],
+ "description": "A Florentine merchant's reference notebook: commodities, weights, measures, monetary values, and exchange-rates (ragguagli) between Mediterranean and European marketplaces. Self-hosted IIIF; diplomatic transcription and English translation in this digital edition.",
+ "attribution": "Harvard Library · digital edition by the Notizie diverse project",
+ "viewingDirection": "left-to-right",
+ "viewingHint": "paged",
+ "sequences": [
+  {
+   "@id": "https://lklic.github.io/-Notizie_diverse/sequence/normal",
+   "@type": "sc:Sequence",
+   "canvases": [
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/001",
+     "@type": "sc:Canvas",
+     "label": "Image 001",
+     "width": 3751,
+     "height": 4731,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Title page: descriptive title and shelf-number of the Frescobaldi merchant manual"
+      },
+      {
+       "label": "Section",
+       "value": "front-matter"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/001/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/001",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/001/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3751,
+        "height": 4731,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/001",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/002",
+     "@type": "sc:Canvas",
+     "label": "Image 002",
+     "width": 3520,
+     "height": 4818,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Blank parchment binding leaf with repairs"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/002/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/002",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/002/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3520,
+        "height": 4818,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/002",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/003",
+     "@type": "sc:Canvas",
+     "label": "Image 003 — f. 1r",
+     "width": 3606,
+     "height": 4789,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "1r"
+      },
+      {
+       "label": "Content",
+       "value": "Title page / ownership inscription: \"Questo libro X di Stoldo di Lionardo Frescobaldi\""
+      },
+      {
+       "label": "Section",
+       "value": "front-matter"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/003/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/003",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/003/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3606,
+        "height": 4789,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/003",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/004",
+     "@type": "sc:Canvas",
+     "label": "Image 004",
+     "width": 3535,
+     "height": 4843,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Blank leaf"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/004/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/004",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/004/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3535,
+        "height": 4843,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/004",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/005",
+     "@type": "sc:Canvas",
+     "label": "Image 005 — f. c.2",
+     "width": 3545,
+     "height": 4795,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "c.2"
+      },
+      {
+       "label": "Content",
+       "value": "Barcelona/Catalonia gazetteer: spice & goods weights, ragguagli and duties"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/005/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/005",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/005/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3545,
+        "height": 4795,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/005",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/006",
+     "@type": "sc:Canvas",
+     "label": "Image 006 — f. 2v",
+     "width": 3536,
+     "height": 4867,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "2v"
+      },
+      {
+       "label": "Content",
+       "value": "Gazetteer of Catalan/Aragonese wool towns with quality, weight and export charge to Pisa"
+      },
+      {
+       "label": "Section",
+       "value": "wool-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/006/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/006",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/006/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3536,
+        "height": 4867,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/006",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/007",
+     "@type": "sc:Canvas",
+     "label": "Image 007 — f. 3r",
+     "width": 3570,
+     "height": 4823,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "3r"
+      },
+      {
+       "label": "Content",
+       "value": "Gazetteer of Spanish/Aragonese-Navarrese wools by origin, with quantities, qualities and delivered prices to Valencia and Pamplona"
+      },
+      {
+       "label": "Section",
+       "value": "wool-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/007/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/007",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/007/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3570,
+        "height": 4823,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/007",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/008",
+     "@type": "sc:Canvas",
+     "label": "Image 008",
+     "width": 3599,
+     "height": 4916,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Gazetteer of Spanish/Aragonese wools by district, with weights, qualities, freight to Valencia, and duties"
+      },
+      {
+       "label": "Section",
+       "value": "wool-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/008/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/008",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/008/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3599,
+        "height": 4916,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/008",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/009",
+     "@type": "sc:Canvas",
+     "label": "Image 009 — f. 4r",
+     "width": 3613,
+     "height": 4843,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "4r"
+      },
+      {
+       "label": "Content",
+       "value": "Gazetteer of Iberian (Spanish/Aragonese/Catalan/Valencian) wool-producing localities with quality verdicts"
+      },
+      {
+       "label": "Section",
+       "value": "wool-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/009/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/009",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/009/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3613,
+        "height": 4843,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/009",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/010",
+     "@type": "sc:Canvas",
+     "label": "Image 010",
+     "width": 3574,
+     "height": 4867,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli of weights, cloth prices and charges: Perpignan & Montpellier vs. Barcelona"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/010/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/010",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/010/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3574,
+        "height": 4867,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/010",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/011",
+     "@type": "sc:Canvas",
+     "label": "Image 011 — f. 65r",
+     "width": 3642,
+     "height": 4862,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "65r"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli: Avignon, Paris[?], hides, Cremona[?] and Bologna converted with Barcelona"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/011/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/011",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/011/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3642,
+        "height": 4862,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/011",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/012",
+     "@type": "sc:Canvas",
+     "label": "Image 012",
+     "width": 3596,
+     "height": 4974,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli of Savona, Pisa and Florence with Barcelona (wool, cloth, silk; weights, freight, profit)"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/012/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/012",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/012/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3596,
+        "height": 4974,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/012",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/013",
+     "@type": "sc:Canvas",
+     "label": "Image 013 — f. 16r",
+     "width": 3623,
+     "height": 4838,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "16r"
+      },
+      {
+       "label": "Content",
+       "value": "Barcelona ragguagli: weights/measures vs Granada, Palermo; charges and duties"
+      },
+      {
+       "label": "Section",
+       "value": "metrology-cambio"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/013/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/013",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/013/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3623,
+        "height": 4838,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/013",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/014",
+     "@type": "sc:Canvas",
+     "label": "Image 014",
+     "width": 3595,
+     "height": 4883,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Venice/Naples–Barcelona weight, coinage and fair conversions"
+      },
+      {
+       "label": "Section",
+       "value": "metrology-cambio"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/014/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/014",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/014/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3595,
+        "height": 4883,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/014",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/015",
+     "@type": "sc:Canvas",
+     "label": "Image 015 — f. 7r",
+     "width": 3586,
+     "height": 4778,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "7r"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli: Bruges and Majorca with Barcelona (weights, money, charges on cotton, wax, tin)"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/015/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/015",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/015/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3586,
+        "height": 4778,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/015",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/016",
+     "@type": "sc:Canvas",
+     "label": "Image 016",
+     "width": 3587,
+     "height": 4872,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Gazetteer of Mallorca wool districts: places, qualities, weights and prices"
+      },
+      {
+       "label": "Section",
+       "value": "wool-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/016/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/016",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/016/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3587,
+        "height": 4872,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/016",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/017",
+     "@type": "sc:Canvas",
+     "label": "Image 017 — f. 8r",
+     "width": 3625,
+     "height": 4930,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "8r"
+      },
+      {
+       "label": "Content",
+       "value": "Majorca hides/silks gazetteer (from Barbary) and Minorca wool, with weight ragguagli"
+      },
+      {
+       "label": "Section",
+       "value": "wool-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/017/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/017",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/017/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3625,
+        "height": 4930,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/017",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/018",
+     "@type": "sc:Canvas",
+     "label": "Image 018 — f. 8v",
+     "width": 3593,
+     "height": 4891,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "8v"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli of Ibiza, Seville, San Matteo and Valencia with Barcelona (salt, leather, furs, alum, oil)"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/018/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/018",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/018/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3593,
+        "height": 4891,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/018",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/019",
+     "@type": "sc:Canvas",
+     "label": "Image 019 — f. 9r",
+     "width": 3699,
+     "height": 4981,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "9r"
+      },
+      {
+       "label": "Content",
+       "value": "Alexandria-Barcelona spice ragguaglio, Alexandria merchandise list, and swords for Catalonia"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/019/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/019",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/019/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3699,
+        "height": 4981,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/019",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/020",
+     "@type": "sc:Canvas",
+     "label": "Image 020",
+     "width": 3597,
+     "height": 4881,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Damascus weights/measures, entry-gabella and export charges, with Barcelona conversions"
+      },
+      {
+       "label": "Section",
+       "value": "metrology-cambio"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/020/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/020",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/020/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3597,
+        "height": 4881,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/020",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/021",
+     "@type": "sc:Canvas",
+     "label": "Image 021 — f. 10r",
+     "width": 3659,
+     "height": 4899,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "10r"
+      },
+      {
+       "label": "Content",
+       "value": "Trade of Romania / Constantinople: imports, exports and sailing advice"
+      },
+      {
+       "label": "Section",
+       "value": "regional-survey"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/021/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/021",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/021/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3659,
+        "height": 4899,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/021",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/022",
+     "@type": "sc:Canvas",
+     "label": "Image 022",
+     "width": 3619,
+     "height": 4899,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "London commodity prices (1415) and Flanders–Alexandria cog voyages"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/022/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/022",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/022/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3619,
+        "height": 4899,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/022",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/023",
+     "@type": "sc:Canvas",
+     "label": "Image 023 — f. 11r",
+     "width": 3579,
+     "height": 4811,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "11r"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli of weights and dry measures (grain, salt, hides) of many marketplaces vs. Florence/Pisa"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/023/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/023",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/023/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3579,
+        "height": 4811,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/023",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/024",
+     "@type": "sc:Canvas",
+     "label": "Image 024",
+     "width": 3626,
+     "height": 4927,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli and freight charges for Valencian/Catalan wool to Florence"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/024/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/024",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/024/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3626,
+        "height": 4927,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/024",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/025",
+     "@type": "sc:Canvas",
+     "label": "Image 025 — f. 12r",
+     "width": 5244,
+     "height": 4891,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "12r"
+      },
+      {
+       "label": "Content",
+       "value": "Silver/gold assay and dye-grade price list with cross-market conversions (Salute di Spagna)"
+      },
+      {
+       "label": "Section",
+       "value": "coinage-assay"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/025/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/025",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/025/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 5244,
+        "height": 4891,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/025",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/026",
+     "@type": "sc:Canvas",
+     "label": "Image 026",
+     "width": 3638,
+     "height": 4906,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Cloth bales for Perpignan + Perpignan price tariff (Nov–Dec 1418)"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/026/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/026",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/026/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3638,
+        "height": 4906,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/026",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/027",
+     "@type": "sc:Canvas",
+     "label": "Image 027 — f. 12r",
+     "width": 3533,
+     "height": 4859,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "12r"
+      },
+      {
+       "label": "Content",
+       "value": "Price-list of silk and cloth grades by origin (Toulouse, Avignon, Bologna), with florin prices"
+      },
+      {
+       "label": "Section",
+       "value": "cloth-dye"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/027/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/027",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/027/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3533,
+        "height": 4859,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/027",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/028",
+     "@type": "sc:Canvas",
+     "label": "Image 028",
+     "width": 3655,
+     "height": 4878,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Price-list of English and French wools, cloths, skins, alum and sulphur"
+      },
+      {
+       "label": "Section",
+       "value": "wool-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/028/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/028",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/028/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3655,
+        "height": 4878,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/028",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/029",
+     "@type": "sc:Canvas",
+     "label": "Image 029 — f. 19r[?]",
+     "width": 3465,
+     "height": 4776,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "19r[?]"
+      },
+      {
+       "label": "Content",
+       "value": "Pisan cloth bale-manifests (1419) and a commodity price-list (caps, brass thread, wax, gum, ambergris)"
+      },
+      {
+       "label": "Section",
+       "value": "cloth-dye"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/029/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/029",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/029/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3465,
+        "height": 4776,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/029",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/030",
+     "@type": "sc:Canvas",
+     "label": "Image 030",
+     "width": 3656,
+     "height": 4860,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Price list of woolen cloths, coloured wools, worsteds, and Florentine silks by colour/quality"
+      },
+      {
+       "label": "Section",
+       "value": "cloth-dye"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/030/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/030",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/030/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3656,
+        "height": 4860,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/030",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/031",
+     "@type": "sc:Canvas",
+     "label": "Image 031 — f. 15r",
+     "width": 3505,
+     "height": 4783,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "15r"
+      },
+      {
+       "label": "Content",
+       "value": "Gazetteer of merchandise classified by unit of sale (balance / gross pound / ounce), with a Barcelona–Florence–Venice weight conversion"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/031/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/031",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/031/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3505,
+        "height": 4783,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/031",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/032",
+     "@type": "sc:Canvas",
+     "label": "Image 032",
+     "width": 3670,
+     "height": 4833,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Units-of-sale glossary: goods classified by cantaro, dozen, piece, bale, hundred-count, gaffio, weight"
+      },
+      {
+       "label": "Section",
+       "value": "metrology-cambio"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/032/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/032",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/032/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3670,
+        "height": 4833,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/032",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/033",
+     "@type": "sc:Canvas",
+     "label": "Image 033 — f. 16r",
+     "width": 3504,
+     "height": 4792,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "16r"
+      },
+      {
+       "label": "Content",
+       "value": "Assay table of gold coinage (carati) with gold-thread and cotton notes"
+      },
+      {
+       "label": "Section",
+       "value": "coinage-assay"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/033/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/033",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/033/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3504,
+        "height": 4792,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/033",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/034",
+     "@type": "sc:Canvas",
+     "label": "Image 034 — f. 16v",
+     "width": 3654,
+     "height": 4865,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "16v"
+      },
+      {
+       "label": "Content",
+       "value": "Assay table of silver coinage fineness by mint, and silver standards by marketplace"
+      },
+      {
+       "label": "Section",
+       "value": "coinage-assay"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/034/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/034",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/034/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3654,
+        "height": 4865,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/034",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/035",
+     "@type": "sc:Canvas",
+     "label": "Image 035 — f. 17r",
+     "width": 3484,
+     "height": 4799,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "17r"
+      },
+      {
+       "label": "Content",
+       "value": "Comparative spice/cotton cargo-price ratings (charatio) of 1419 galleys across markets"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/035/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/035",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/035/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3484,
+        "height": 4799,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/035",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/036",
+     "@type": "sc:Canvas",
+     "label": "Image 036",
+     "width": 3664,
+     "height": 4824,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Charges, freight and per-staio conversions on grain/wool between Barceloneta, Empoli, Firenze and Avignone; later note on cloth width in palmi"
+      },
+      {
+       "label": "Section",
+       "value": "metrology-cambio"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/036/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/036",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/036/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3664,
+        "height": 4824,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/036",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/037",
+     "@type": "sc:Canvas",
+     "label": "Image 037 — f. 18r",
+     "width": 3474,
+     "height": 4802,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "18r"
+      },
+      {
+       "label": "Content",
+       "value": "Genoa weights/measures gazetteer with lb-100 conversion table"
+      },
+      {
+       "label": "Section",
+       "value": "metrology-cambio"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/037/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/037",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/037/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3474,
+        "height": 4802,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/037",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/038",
+     "@type": "sc:Canvas",
+     "label": "Image 038",
+     "width": 3647,
+     "height": 4834,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Three-block duty/merchandise checklist of goods and spezierie reckoned in Florence by weight (lb 138, lb 92, a libbra)"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/038/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/038",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/038/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3647,
+        "height": 4834,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/038",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/039",
+     "@type": "sc:Canvas",
+     "label": "Image 039 — f. 19r",
+     "width": 3496,
+     "height": 4818,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "19r"
+      },
+      {
+       "label": "Content",
+       "value": "Genoa exchange/usance (ragguagli) table vs Mediterranean markets"
+      },
+      {
+       "label": "Section",
+       "value": "fairs-usances"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/039/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/039",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/039/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3496,
+        "height": 4818,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/039",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/040",
+     "@type": "sc:Canvas",
+     "label": "Image 040",
+     "width": 3656,
+     "height": 4852,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Spice/exchange practice by market and Genoa weight & coin ragguagli"
+      },
+      {
+       "label": "Section",
+       "value": "metrology-cambio"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/040/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/040",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/040/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3656,
+        "height": 4852,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/040",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/041",
+     "@type": "sc:Canvas",
+     "label": "Image 041 — f. 120r",
+     "width": 3563,
+     "height": 4969,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "120r"
+      },
+      {
+       "label": "Content",
+       "value": "Norway/Bruges metrology and assay, then city-by-city cambio (exchange) gazetteer"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/041/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/041",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/041/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3563,
+        "height": 4969,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/041",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/042",
+     "@type": "sc:Canvas",
+     "label": "Image 042",
+     "width": 3669,
+     "height": 4806,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Florence re-exchange (cambio) rates with major markets; pound/ounce conversions; Pisa imports"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/042/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/042",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/042/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3669,
+        "height": 4806,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/042",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/043",
+     "@type": "sc:Canvas",
+     "label": "Image 043 — f. 21",
+     "width": 3496,
+     "height": 4808,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "21"
+      },
+      {
+       "label": "Content",
+       "value": "Commodity and money-exchange survey of Sardinia, Rome, and Naples/Gaeta"
+      },
+      {
+       "label": "Section",
+       "value": "regional-survey"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/043/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/043",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/043/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3496,
+        "height": 4808,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/043",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/044",
+     "@type": "sc:Canvas",
+     "label": "Image 044",
+     "width": 3697,
+     "height": 4855,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli and commodity survey: Messina/Calabria wares, Bologna and Milan exchange usances"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/044/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/044",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/044/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3697,
+        "height": 4855,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/044",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/045",
+     "@type": "sc:Canvas",
+     "label": "Image 045 — f. 72r",
+     "width": 3541,
+     "height": 5006,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "72r"
+      },
+      {
+       "label": "Content",
+       "value": "Milan and Lisbon market notes: weights, coinage, exchange usances and traded commodities"
+      },
+      {
+       "label": "Section",
+       "value": "regional-survey"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/045/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/045",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/045/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3541,
+        "height": 5006,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/045",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/046",
+     "@type": "sc:Canvas",
+     "label": "Image 046 — f. 22v",
+     "width": 3692,
+     "height": 4825,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "22v"
+      },
+      {
+       "label": "Content",
+       "value": "Exchange (ragguagli/cambio) and weight-assay conventions for Montpellier and Barcelona"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/046/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/046",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/046/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3692,
+        "height": 4825,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/046",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/047",
+     "@type": "sc:Canvas",
+     "label": "Image 047 — f. 23",
+     "width": 3522,
+     "height": 4862,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "23"
+      },
+      {
+       "label": "Content",
+       "value": "Market gazetteer of Barcelona and Catalonia: goods, silver assay, weight conversions"
+      },
+      {
+       "label": "Section",
+       "value": "regional-survey"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/047/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/047",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/047/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3522,
+        "height": 4862,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/047",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/048",
+     "@type": "sc:Canvas",
+     "label": "Image 048",
+     "width": 3667,
+     "height": 4861,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Market gazetteer of Seville and Montpellier: sales, weight/money conversions to Florence, tolls, and export goods"
+      },
+      {
+       "label": "Section",
+       "value": "regional-survey"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/048/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/048",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/048/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3667,
+        "height": 4861,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/048",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/049",
+     "@type": "sc:Canvas",
+     "label": "Image 049 — f. 29r",
+     "width": 3463,
+     "height": 4845,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "29r"
+      },
+      {
+       "label": "Content",
+       "value": "Ragguagli of Paris and Bruges: coinage exchange, spice/silk weights, French cloth and spice exports"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/049/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/049",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/049/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3463,
+        "height": 4845,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/049",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/050",
+     "@type": "sc:Canvas",
+     "label": "Image 050",
+     "width": 3679,
+     "height": 4878,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Weight conversions and commodity lists for Bruges, London and Alexandria"
+      },
+      {
+       "label": "Section",
+       "value": "ragguagli"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/050/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/050",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/050/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3679,
+        "height": 4878,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/050",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/051",
+     "@type": "sc:Canvas",
+     "label": "Image 051 — f. 25r",
+     "width": 3501,
+     "height": 4896,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "25r"
+      },
+      {
+       "label": "Content",
+       "value": "Alexandria weights/exchange and exports; Damascus commodity catalogue by unit of sale"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/051/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/051",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/051/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3501,
+        "height": 4896,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/051",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/052",
+     "@type": "sc:Canvas",
+     "label": "Image 052",
+     "width": 3666,
+     "height": 4861,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Damascus and Cyprus market gazetteer: money, spice weights, exports/imports, and conversion table"
+      },
+      {
+       "label": "Section",
+       "value": "spice-gazetteer"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/052/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/052",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/052/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3666,
+        "height": 4861,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/052",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/053",
+     "@type": "sc:Canvas",
+     "label": "Image 053 — f. 26",
+     "width": 3481,
+     "height": 4843,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "26"
+      },
+      {
+       "label": "Content",
+       "value": "Marketplace weights/conversions and a calendar of trade fairs (Constantinople, Granada, Valencia, Genoa, Germany, Rome, Naples, Barcelona)"
+      },
+      {
+       "label": "Section",
+       "value": "regional-survey"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/053/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/053",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/053/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3481,
+        "height": 4843,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/053",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/054",
+     "@type": "sc:Canvas",
+     "label": "Image 054 — f. 53",
+     "width": 3672,
+     "height": 4848,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "53"
+      },
+      {
+       "label": "Content",
+       "value": "Saffron fairs of Provence/Languedoc and Florentine silk-cloth price-list"
+      },
+      {
+       "label": "Section",
+       "value": "fairs-usances"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/054/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/054",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/054/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3672,
+        "height": 4848,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/054",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/055",
+     "@type": "sc:Canvas",
+     "label": "Image 055 — f. 27r",
+     "width": 3649,
+     "height": 5071,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "27r"
+      },
+      {
+       "label": "Content",
+       "value": "Table of exchange usances (maturities of bills of exchange) from Florence, Pisa, Genoa, Naples"
+      },
+      {
+       "label": "Section",
+       "value": "fairs-usances"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/055/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/055",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/055/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3649,
+        "height": 5071,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/055",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/056",
+     "@type": "sc:Canvas",
+     "label": "Image 056",
+     "width": 3674,
+     "height": 4847,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Usances (maturity terms) for bills of exchange between marketplaces, by drawing place"
+      },
+      {
+       "label": "Section",
+       "value": "fairs-usances"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/056/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/056",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/056/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3674,
+        "height": 4847,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/056",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/057",
+     "@type": "sc:Canvas",
+     "label": "Image 057 — f. 28r",
+     "width": 3507,
+     "height": 4894,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "28r"
+      },
+      {
+       "label": "Content",
+       "value": "Blank leaf (foliation 28)"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/057/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/057",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/057/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3507,
+        "height": 4894,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/057",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/058",
+     "@type": "sc:Canvas",
+     "label": "Image 058",
+     "width": 3667,
+     "height": 4853,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Pisan customs law of 1420 (gabella on import/export), 7 chapters"
+      },
+      {
+       "label": "Section",
+       "value": "statute"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/058/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/058",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/058/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3667,
+        "height": 4853,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/058",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/059",
+     "@type": "sc:Canvas",
+     "label": "Image 059 — f. 29r",
+     "width": 3549,
+     "height": 4898,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "29r"
+      },
+      {
+       "label": "Content",
+       "value": "Statute on the gabella delle porte (gate-customs) and gabella del sale (salt monopoly) of Florence, with Pisa salt delivery rules"
+      },
+      {
+       "label": "Section",
+       "value": "statute"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/059/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/059",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/059/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3549,
+        "height": 4898,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/059",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/060",
+     "@type": "sc:Canvas",
+     "label": "Image 060",
+     "width": 3670,
+     "height": 4809,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Statute clauses (13-18): twenty-year tax exemption for foreign merchants settling in Pisa, dated 1414"
+      },
+      {
+       "label": "Section",
+       "value": "statute"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/060/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/060",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/060/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3670,
+        "height": 4809,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/060",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/061",
+     "@type": "sc:Canvas",
+     "label": "Image 061 — f. 30r",
+     "width": 3517,
+     "height": 4882,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "30r"
+      },
+      {
+       "label": "Content",
+       "value": "Wage roster and victualling of a galley crew (soldamento d'una galea)"
+      },
+      {
+       "label": "Section",
+       "value": "maritime-galley"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/061/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/061",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/061/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3517,
+        "height": 4882,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/061",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/062",
+     "@type": "sc:Canvas",
+     "label": "Image 062",
+     "width": 3662,
+     "height": 4822,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Memorandum on the manning and outfitting of a galley (officers, crew, banners, oath)"
+      },
+      {
+       "label": "Section",
+       "value": "maritime-galley"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/062/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/062",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/062/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3662,
+        "height": 4822,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/062",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/063",
+     "@type": "sc:Canvas",
+     "label": "Image 063",
+     "width": 3458,
+     "height": 4836,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Galley provisioning/equipment checklist (\"Provedimento alla galea\")"
+      },
+      {
+       "label": "Section",
+       "value": "maritime-galley"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/063/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/063",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/063/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3458,
+        "height": 4836,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/063",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/064",
+     "@type": "sc:Canvas",
+     "label": "Image 064",
+     "width": 3670,
+     "height": 4814,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Blank leaf with bleed-through"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/064/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/064",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/064/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3670,
+        "height": 4814,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/064",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/065",
+     "@type": "sc:Canvas",
+     "label": "Image 065",
+     "width": 3452,
+     "height": 4786,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Blank leaf"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/065/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/065",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/065/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3452,
+        "height": 4786,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/065",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/066",
+     "@type": "sc:Canvas",
+     "label": "Image 066",
+     "width": 3658,
+     "height": 4804,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Blank leaf"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/066/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/066",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/066/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3658,
+        "height": 4804,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/066",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/067",
+     "@type": "sc:Canvas",
+     "label": "Image 067",
+     "width": 3395,
+     "height": 4791,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Blank flyleaf"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/067/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/067",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/067/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3395,
+        "height": 4791,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/067",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/068",
+     "@type": "sc:Canvas",
+     "label": "Image 068",
+     "width": 4115,
+     "height": 4778,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Blank flyleaf / rear pastedown"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/068/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/068",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/068/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 4115,
+        "height": 4778,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/068",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/069",
+     "@type": "sc:Canvas",
+     "label": "Image 069",
+     "width": 293,
+     "height": 5260,
+     "metadata": [
+      {
+       "label": "Folio",
+       "value": "—"
+      },
+      {
+       "label": "Content",
+       "value": "Binding spine of the volume"
+      },
+      {
+       "label": "Section",
+       "value": "blank-binding"
+      }
+     ],
+     "images": [
+      {
+       "@id": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/069/image",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lklic.github.io/-Notizie_diverse/iiif/canvas/069",
+       "resource": {
+        "@id": "https://lklic.github.io/-Notizie_diverse/iiif/069/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 293,
+        "height": 5260,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lklic.github.io/-Notizie_diverse/iiif/069",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

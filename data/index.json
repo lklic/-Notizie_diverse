@@ -1,0 +1,692 @@
+[
+ {
+  "image": "001",
+  "folio": null,
+  "topic": "Title page: descriptive title and shelf-number of the Frescobaldi merchant manual",
+  "section": "front-matter",
+  "is_blank": false,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "002",
+  "folio": null,
+  "topic": "Blank parchment binding leaf with repairs",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "003",
+  "folio": "1r",
+  "topic": "Title page / ownership inscription: \"Questo libro X di Stoldo di Lionardo Frescobaldi\"",
+  "section": "front-matter",
+  "is_blank": false,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "004",
+  "folio": null,
+  "topic": "Blank leaf",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "005",
+  "folio": "c.2",
+  "topic": "Barcelona/Catalonia gazetteer: spice & goods weights, ragguagli and duties",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 14,
+  "n_commodities": 19,
+  "n_conversions": 7
+ },
+ {
+  "image": "006",
+  "folio": "2v",
+  "topic": "Gazetteer of Catalan/Aragonese wool towns with quality, weight and export charge to Pisa",
+  "section": "wool-gazetteer",
+  "is_blank": false,
+  "n_places": 38,
+  "n_commodities": 2,
+  "n_conversions": 28
+ },
+ {
+  "image": "007",
+  "folio": "3r",
+  "topic": "Gazetteer of Spanish/Aragonese-Navarrese wools by origin, with quantities, qualities and delivered prices to Valencia and Pamplona",
+  "section": "wool-gazetteer",
+  "is_blank": false,
+  "n_places": 16,
+  "n_commodities": 4,
+  "n_conversions": 21
+ },
+ {
+  "image": "008",
+  "folio": null,
+  "topic": "Gazetteer of Spanish/Aragonese wools by district, with weights, qualities, freight to Valencia, and duties",
+  "section": "wool-gazetteer",
+  "is_blank": false,
+  "n_places": 12,
+  "n_commodities": 3,
+  "n_conversions": 8
+ },
+ {
+  "image": "009",
+  "folio": "4r",
+  "topic": "Gazetteer of Iberian (Spanish/Aragonese/Catalan/Valencian) wool-producing localities with quality verdicts",
+  "section": "wool-gazetteer",
+  "is_blank": false,
+  "n_places": 27,
+  "n_commodities": 2,
+  "n_conversions": 0
+ },
+ {
+  "image": "010",
+  "folio": null,
+  "topic": "Ragguagli of weights, cloth prices and charges: Perpignan & Montpellier vs. Barcelona",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 7,
+  "n_commodities": 5,
+  "n_conversions": 9
+ },
+ {
+  "image": "011",
+  "folio": "65r",
+  "topic": "Ragguagli: Avignon, Paris[?], hides, Cremona[?] and Bologna converted with Barcelona",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 7,
+  "n_commodities": 8,
+  "n_conversions": 15
+ },
+ {
+  "image": "012",
+  "folio": null,
+  "topic": "Ragguagli of Savona, Pisa and Florence with Barcelona (wool, cloth, silk; weights, freight, profit)",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 7,
+  "n_commodities": 7,
+  "n_conversions": 10
+ },
+ {
+  "image": "013",
+  "folio": "16r",
+  "topic": "Barcelona ragguagli: weights/measures vs Granada, Palermo; charges and duties",
+  "section": "metrology-cambio",
+  "is_blank": false,
+  "n_places": 6,
+  "n_commodities": 5,
+  "n_conversions": 11
+ },
+ {
+  "image": "014",
+  "folio": null,
+  "topic": "Venice/Naples–Barcelona weight, coinage and fair conversions",
+  "section": "metrology-cambio",
+  "is_blank": false,
+  "n_places": 11,
+  "n_commodities": 3,
+  "n_conversions": 9
+ },
+ {
+  "image": "015",
+  "folio": "7r",
+  "topic": "Ragguagli: Bruges and Majorca with Barcelona (weights, money, charges on cotton, wax, tin)",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 4,
+  "n_commodities": 5,
+  "n_conversions": 6
+ },
+ {
+  "image": "016",
+  "folio": null,
+  "topic": "Gazetteer of Mallorca wool districts: places, qualities, weights and prices",
+  "section": "wool-gazetteer",
+  "is_blank": false,
+  "n_places": 27,
+  "n_commodities": 3,
+  "n_conversions": 4
+ },
+ {
+  "image": "017",
+  "folio": "8r",
+  "topic": "Majorca hides/silks gazetteer (from Barbary) and Minorca wool, with weight ragguagli",
+  "section": "wool-gazetteer",
+  "is_blank": false,
+  "n_places": 20,
+  "n_commodities": 4,
+  "n_conversions": 6
+ },
+ {
+  "image": "018",
+  "folio": "8v",
+  "topic": "Ragguagli of Ibiza, Seville, San Matteo and Valencia with Barcelona (salt, leather, furs, alum, oil)",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 9,
+  "n_commodities": 8,
+  "n_conversions": 12
+ },
+ {
+  "image": "019",
+  "folio": "9r",
+  "topic": "Alexandria-Barcelona spice ragguaglio, Alexandria merchandise list, and swords for Catalonia",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 5,
+  "n_commodities": 26,
+  "n_conversions": 7
+ },
+ {
+  "image": "020",
+  "folio": null,
+  "topic": "Damascus weights/measures, entry-gabella and export charges, with Barcelona conversions",
+  "section": "metrology-cambio",
+  "is_blank": false,
+  "n_places": 4,
+  "n_commodities": 3,
+  "n_conversions": 5
+ },
+ {
+  "image": "021",
+  "folio": "10r",
+  "topic": "Trade of Romania / Constantinople: imports, exports and sailing advice",
+  "section": "regional-survey",
+  "is_blank": false,
+  "n_places": 15,
+  "n_commodities": 30,
+  "n_conversions": 4
+ },
+ {
+  "image": "022",
+  "folio": null,
+  "topic": "London commodity prices (1415) and Flanders–Alexandria cog voyages",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 8,
+  "n_commodities": 24,
+  "n_conversions": 6
+ },
+ {
+  "image": "023",
+  "folio": "11r",
+  "topic": "Ragguagli of weights and dry measures (grain, salt, hides) of many marketplaces vs. Florence/Pisa",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 22,
+  "n_commodities": 9,
+  "n_conversions": 18
+ },
+ {
+  "image": "024",
+  "folio": null,
+  "topic": "Ragguagli and freight charges for Valencian/Catalan wool to Florence",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 17,
+  "n_commodities": 8,
+  "n_conversions": 11
+ },
+ {
+  "image": "025",
+  "folio": "12r",
+  "topic": "Silver/gold assay and dye-grade price list with cross-market conversions (Salute di Spagna)",
+  "section": "coinage-assay",
+  "is_blank": false,
+  "n_places": 21,
+  "n_commodities": 12,
+  "n_conversions": 4
+ },
+ {
+  "image": "026",
+  "folio": null,
+  "topic": "Cloth bales for Perpignan + Perpignan price tariff (Nov–Dec 1418)",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 9,
+  "n_commodities": 33,
+  "n_conversions": 3
+ },
+ {
+  "image": "027",
+  "folio": "12r",
+  "topic": "Price-list of silk and cloth grades by origin (Toulouse, Avignon, Bologna), with florin prices",
+  "section": "cloth-dye",
+  "is_blank": false,
+  "n_places": 9,
+  "n_commodities": 9,
+  "n_conversions": 0
+ },
+ {
+  "image": "028",
+  "folio": null,
+  "topic": "Price-list of English and French wools, cloths, skins, alum and sulphur",
+  "section": "wool-gazetteer",
+  "is_blank": false,
+  "n_places": 8,
+  "n_commodities": 13,
+  "n_conversions": 2
+ },
+ {
+  "image": "029",
+  "folio": "19r[?]",
+  "topic": "Pisan cloth bale-manifests (1419) and a commodity price-list (caps, brass thread, wax, gum, ambergris)",
+  "section": "cloth-dye",
+  "is_blank": false,
+  "n_places": 10,
+  "n_commodities": 21,
+  "n_conversions": 2
+ },
+ {
+  "image": "030",
+  "folio": null,
+  "topic": "Price list of woolen cloths, coloured wools, worsteds, and Florentine silks by colour/quality",
+  "section": "cloth-dye",
+  "is_blank": false,
+  "n_places": 9,
+  "n_commodities": 24,
+  "n_conversions": 10
+ },
+ {
+  "image": "031",
+  "folio": "15r",
+  "topic": "Gazetteer of merchandise classified by unit of sale (balance / gross pound / ounce), with a Barcelona–Florence–Venice weight conversion",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 23,
+  "n_commodities": 64,
+  "n_conversions": 4
+ },
+ {
+  "image": "032",
+  "folio": null,
+  "topic": "Units-of-sale glossary: goods classified by cantaro, dozen, piece, bale, hundred-count, gaffio, weight",
+  "section": "metrology-cambio",
+  "is_blank": false,
+  "n_places": 15,
+  "n_commodities": 38,
+  "n_conversions": 3
+ },
+ {
+  "image": "033",
+  "folio": "16r",
+  "topic": "Assay table of gold coinage (carati) with gold-thread and cotton notes",
+  "section": "coinage-assay",
+  "is_blank": false,
+  "n_places": 18,
+  "n_commodities": 7,
+  "n_conversions": 2
+ },
+ {
+  "image": "034",
+  "folio": "16v",
+  "topic": "Assay table of silver coinage fineness by mint, and silver standards by marketplace",
+  "section": "coinage-assay",
+  "is_blank": false,
+  "n_places": 23,
+  "n_commodities": 2,
+  "n_conversions": 17
+ },
+ {
+  "image": "035",
+  "folio": "17r",
+  "topic": "Comparative spice/cotton cargo-price ratings (charatio) of 1419 galleys across markets",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 11,
+  "n_commodities": 30,
+  "n_conversions": 3
+ },
+ {
+  "image": "036",
+  "folio": null,
+  "topic": "Charges, freight and per-staio conversions on grain/wool between Barceloneta, Empoli, Firenze and Avignone; later note on cloth width in palmi",
+  "section": "metrology-cambio",
+  "is_blank": false,
+  "n_places": 8,
+  "n_commodities": 4,
+  "n_conversions": 6
+ },
+ {
+  "image": "037",
+  "folio": "18r",
+  "topic": "Genoa weights/measures gazetteer with lb-100 conversion table",
+  "section": "metrology-cambio",
+  "is_blank": false,
+  "n_places": 21,
+  "n_commodities": 13,
+  "n_conversions": 21
+ },
+ {
+  "image": "038",
+  "folio": null,
+  "topic": "Three-block duty/merchandise checklist of goods and spezierie reckoned in Florence by weight (lb 138, lb 92, a libbra)",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 28,
+  "n_commodities": 72,
+  "n_conversions": 0
+ },
+ {
+  "image": "039",
+  "folio": "19r",
+  "topic": "Genoa exchange/usance (ragguagli) table vs Mediterranean markets",
+  "section": "fairs-usances",
+  "is_blank": false,
+  "n_places": 27,
+  "n_commodities": 9,
+  "n_conversions": 22
+ },
+ {
+  "image": "040",
+  "folio": null,
+  "topic": "Spice/exchange practice by market and Genoa weight & coin ragguagli",
+  "section": "metrology-cambio",
+  "is_blank": false,
+  "n_places": 32,
+  "n_commodities": 6,
+  "n_conversions": 21
+ },
+ {
+  "image": "041",
+  "folio": "120r",
+  "topic": "Norway/Bruges metrology and assay, then city-by-city cambio (exchange) gazetteer",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 18,
+  "n_commodities": 5,
+  "n_conversions": 16
+ },
+ {
+  "image": "042",
+  "folio": null,
+  "topic": "Florence re-exchange (cambio) rates with major markets; pound/ounce conversions; Pisa imports",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 28,
+  "n_commodities": 8,
+  "n_conversions": 20
+ },
+ {
+  "image": "043",
+  "folio": "21",
+  "topic": "Commodity and money-exchange survey of Sardinia, Rome, and Naples/Gaeta",
+  "section": "regional-survey",
+  "is_blank": false,
+  "n_places": 15,
+  "n_commodities": 15,
+  "n_conversions": 9
+ },
+ {
+  "image": "044",
+  "folio": null,
+  "topic": "Ragguagli and commodity survey: Messina/Calabria wares, Bologna and Milan exchange usances",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 19,
+  "n_commodities": 18,
+  "n_conversions": 11
+ },
+ {
+  "image": "045",
+  "folio": "72r",
+  "topic": "Milan and Lisbon market notes: weights, coinage, exchange usances and traded commodities",
+  "section": "regional-survey",
+  "is_blank": false,
+  "n_places": 20,
+  "n_commodities": 23,
+  "n_conversions": 13
+ },
+ {
+  "image": "046",
+  "folio": "22v",
+  "topic": "Exchange (ragguagli/cambio) and weight-assay conventions for Montpellier and Barcelona",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 7,
+  "n_commodities": 6,
+  "n_conversions": 6
+ },
+ {
+  "image": "047",
+  "folio": "23",
+  "topic": "Market gazetteer of Barcelona and Catalonia: goods, silver assay, weight conversions",
+  "section": "regional-survey",
+  "is_blank": false,
+  "n_places": 9,
+  "n_commodities": 30,
+  "n_conversions": 9
+ },
+ {
+  "image": "048",
+  "folio": null,
+  "topic": "Market gazetteer of Seville and Montpellier: sales, weight/money conversions to Florence, tolls, and export goods",
+  "section": "regional-survey",
+  "is_blank": false,
+  "n_places": 10,
+  "n_commodities": 22,
+  "n_conversions": 8
+ },
+ {
+  "image": "049",
+  "folio": "29r",
+  "topic": "Ragguagli of Paris and Bruges: coinage exchange, spice/silk weights, French cloth and spice exports",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 13,
+  "n_commodities": 15,
+  "n_conversions": 11
+ },
+ {
+  "image": "050",
+  "folio": null,
+  "topic": "Weight conversions and commodity lists for Bruges, London and Alexandria",
+  "section": "ragguagli",
+  "is_blank": false,
+  "n_places": 19,
+  "n_commodities": 12,
+  "n_conversions": 23
+ },
+ {
+  "image": "051",
+  "folio": "25r",
+  "topic": "Alexandria weights/exchange and exports; Damascus commodity catalogue by unit of sale",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 18,
+  "n_commodities": 45,
+  "n_conversions": 4
+ },
+ {
+  "image": "052",
+  "folio": null,
+  "topic": "Damascus and Cyprus market gazetteer: money, spice weights, exports/imports, and conversion table",
+  "section": "spice-gazetteer",
+  "is_blank": false,
+  "n_places": 18,
+  "n_commodities": 23,
+  "n_conversions": 20
+ },
+ {
+  "image": "053",
+  "folio": "26",
+  "topic": "Marketplace weights/conversions and a calendar of trade fairs (Constantinople, Granada, Valencia, Genoa, Germany, Rome, Naples, Barcelona)",
+  "section": "regional-survey",
+  "is_blank": false,
+  "n_places": 18,
+  "n_commodities": 19,
+  "n_conversions": 3
+ },
+ {
+  "image": "054",
+  "folio": "53",
+  "topic": "Saffron fairs of Provence/Languedoc and Florentine silk-cloth price-list",
+  "section": "fairs-usances",
+  "is_blank": false,
+  "n_places": 6,
+  "n_commodities": 10,
+  "n_conversions": 2
+ },
+ {
+  "image": "055",
+  "folio": "27r",
+  "topic": "Table of exchange usances (maturities of bills of exchange) from Florence, Pisa, Genoa, Naples",
+  "section": "fairs-usances",
+  "is_blank": false,
+  "n_places": 25,
+  "n_commodities": 0,
+  "n_conversions": 56
+ },
+ {
+  "image": "056",
+  "folio": null,
+  "topic": "Usances (maturity terms) for bills of exchange between marketplaces, by drawing place",
+  "section": "fairs-usances",
+  "is_blank": false,
+  "n_places": 13,
+  "n_commodities": 0,
+  "n_conversions": 23
+ },
+ {
+  "image": "057",
+  "folio": "28r",
+  "topic": "Blank leaf (foliation 28)",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "058",
+  "folio": null,
+  "topic": "Pisan customs law of 1420 (gabella on import/export), 7 chapters",
+  "section": "statute",
+  "is_blank": false,
+  "n_places": 9,
+  "n_commodities": 0,
+  "n_conversions": 5
+ },
+ {
+  "image": "059",
+  "folio": "29r",
+  "topic": "Statute on the gabella delle porte (gate-customs) and gabella del sale (salt monopoly) of Florence, with Pisa salt delivery rules",
+  "section": "statute",
+  "is_blank": false,
+  "n_places": 6,
+  "n_commodities": 4,
+  "n_conversions": 3
+ },
+ {
+  "image": "060",
+  "folio": null,
+  "topic": "Statute clauses (13-18): twenty-year tax exemption for foreign merchants settling in Pisa, dated 1414",
+  "section": "statute",
+  "is_blank": false,
+  "n_places": 2,
+  "n_commodities": 1,
+  "n_conversions": 0
+ },
+ {
+  "image": "061",
+  "folio": "30r",
+  "topic": "Wage roster and victualling of a galley crew (soldamento d'una galea)",
+  "section": "maritime-galley",
+  "is_blank": false,
+  "n_places": 0,
+  "n_commodities": 5,
+  "n_conversions": 0
+ },
+ {
+  "image": "062",
+  "folio": null,
+  "topic": "Memorandum on the manning and outfitting of a galley (officers, crew, banners, oath)",
+  "section": "maritime-galley",
+  "is_blank": false,
+  "n_places": 0,
+  "n_commodities": 4,
+  "n_conversions": 0
+ },
+ {
+  "image": "063",
+  "folio": null,
+  "topic": "Galley provisioning/equipment checklist (\"Provedimento alla galea\")",
+  "section": "maritime-galley",
+  "is_blank": false,
+  "n_places": 3,
+  "n_commodities": 12,
+  "n_conversions": 0
+ },
+ {
+  "image": "064",
+  "folio": null,
+  "topic": "Blank leaf with bleed-through",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "065",
+  "folio": null,
+  "topic": "Blank leaf",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "066",
+  "folio": null,
+  "topic": "Blank leaf",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "067",
+  "folio": null,
+  "topic": "Blank flyleaf",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "068",
+  "folio": null,
+  "topic": "Blank flyleaf / rear pastedown",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ },
+ {
+  "image": "069",
+  "folio": null,
+  "topic": "Binding spine of the volume",
+  "section": "blank-binding",
+  "is_blank": true,
+  "n_places": 0,
+  "n_commodities": 0,
+  "n_conversions": 0
+ }
+]

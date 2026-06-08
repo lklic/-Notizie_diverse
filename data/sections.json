@@ -1,0 +1,143 @@
+[
+ {
+  "key": "front-matter",
+  "label": "Front matter",
+  "pages": [
+   "001",
+   "003"
+  ]
+ },
+ {
+  "key": "blank-binding",
+  "label": "Blanks & binding",
+  "pages": [
+   "002",
+   "004",
+   "057",
+   "064",
+   "065",
+   "066",
+   "067",
+   "068",
+   "069"
+  ]
+ },
+ {
+  "key": "spice-gazetteer",
+  "label": "Spice & drug notes",
+  "pages": [
+   "005",
+   "019",
+   "022",
+   "026",
+   "031",
+   "038",
+   "051",
+   "052"
+  ]
+ },
+ {
+  "key": "wool-gazetteer",
+  "label": "Wool gazetteers",
+  "pages": [
+   "006",
+   "007",
+   "008",
+   "009",
+   "016",
+   "017",
+   "028"
+  ]
+ },
+ {
+  "key": "ragguagli",
+  "label": "Ragguagli (exchange tables)",
+  "pages": [
+   "010",
+   "011",
+   "012",
+   "015",
+   "018",
+   "023",
+   "024",
+   "035",
+   "041",
+   "042",
+   "044",
+   "046",
+   "049",
+   "050"
+  ]
+ },
+ {
+  "key": "metrology-cambio",
+  "label": "Metrology & cambio",
+  "pages": [
+   "013",
+   "014",
+   "020",
+   "032",
+   "036",
+   "037",
+   "040"
+  ]
+ },
+ {
+  "key": "regional-survey",
+  "label": "Italian regional survey",
+  "pages": [
+   "021",
+   "043",
+   "045",
+   "047",
+   "048",
+   "053"
+  ]
+ },
+ {
+  "key": "coinage-assay",
+  "label": "Coinage assays",
+  "pages": [
+   "025",
+   "033",
+   "034"
+  ]
+ },
+ {
+  "key": "cloth-dye",
+  "label": "Cloth & dye references",
+  "pages": [
+   "027",
+   "029",
+   "030"
+  ]
+ },
+ {
+  "key": "fairs-usances",
+  "label": "Fairs & bill usances",
+  "pages": [
+   "039",
+   "054",
+   "055",
+   "056"
+  ]
+ },
+ {
+  "key": "statute",
+  "label": "Pisan customs statute",
+  "pages": [
+   "058",
+   "059",
+   "060"
+  ]
+ },
+ {
+  "key": "maritime-galley",
+  "label": "Galley memoranda",
+  "pages": [
+   "061",
+   "062",
+   "063"
+  ]
+ }
+]

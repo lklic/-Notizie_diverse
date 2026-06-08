@@ -1,0 +1,8 @@
+# Large source & scratch (derivable; kept out of the published repo)
+jpeg-small/
+.crops/
+site-data/
+transcriptions/_prior_cursor_run/
+# OS / misc
+.DS_Store
+*.log

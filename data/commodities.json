@@ -1,0 +1,6569 @@
+[
+ {
+  "name": "wool",
+  "category": "wool",
+  "count": 15,
+  "pages": [
+   "005",
+   "006",
+   "007",
+   "008",
+   "009",
+   "012",
+   "013",
+   "016",
+   "017",
+   "028",
+   "036",
+   "038",
+   "042",
+   "044",
+   "050"
+  ],
+  "originals": [
+   "Lana",
+   "l(an)a[?]",
+   "lana",
+   "lana / dilana",
+   "lana / lane",
+   "lana / lany / lane"
+  ]
+ },
+ {
+  "name": "wax",
+  "category": "other",
+  "count": 9,
+  "pages": [
+   "005",
+   "015",
+   "021",
+   "022",
+   "029",
+   "034",
+   "035",
+   "038",
+   "053"
+  ],
+  "originals": [
+   "cera",
+   "cerd(u)ra (Camslory)",
+   "ciera"
+  ]
+ },
+ {
+  "name": "cloths",
+  "category": "cloth",
+  "count": 9,
+  "pages": [
+   "011",
+   "012",
+   "025",
+   "027",
+   "028",
+   "032",
+   "037",
+   "048",
+   "050"
+  ],
+  "originals": [
+   "panni",
+   "panni / panne",
+   "panny",
+   "panny / panni",
+   "pany (panni)",
+   "pany / panni"
+  ]
+ },
+ {
+  "name": "oil",
+  "category": "foodstuff",
+  "count": 9,
+  "pages": [
+   "018",
+   "019",
+   "022",
+   "031",
+   "045",
+   "048",
+   "049",
+   "051",
+   "052"
+  ],
+  "originals": [
+   "olio",
+   "oolro",
+   "oslio (olio)",
+   "oçho / oltio"
+  ]
+ },
+ {
+  "name": "saffron",
+  "category": "spice",
+  "count": 9,
+  "pages": [
+   "019",
+   "021",
+   "035",
+   "038",
+   "040",
+   "045",
+   "046",
+   "047",
+   "054"
+  ],
+  "originals": [
+   "afferano",
+   "zaffarano",
+   "zafferano",
+   "zafrana / azafrana"
+  ]
+ },
+ {
+  "name": "silver",
+  "category": "metal",
+  "count": 8,
+  "pages": [
+   "005",
+   "010",
+   "034",
+   "037",
+   "041",
+   "044",
+   "045",
+   "059"
+  ],
+  "originals": [
+   "a(r)gent[i]",
+   "arie(n)to",
+   "ariento",
+   "ariento / arigento",
+   "arvento (ariento)",
+   "c[ar]g[i]nta (argento?)"
+  ]
+ },
+ {
+  "name": "silk",
+  "category": "silk",
+  "count": 8,
+  "pages": [
+   "017",
+   "019",
+   "035",
+   "038",
+   "040",
+   "045",
+   "049",
+   "053"
+  ],
+  "originals": [
+   "seda",
+   "seta",
+   "seta / sete",
+   "sete"
+  ]
+ },
+ {
+  "name": "alum",
+  "category": "other",
+  "count": 8,
+  "pages": [
+   "028",
+   "032",
+   "035",
+   "042",
+   "043",
+   "045",
+   "047",
+   "050"
+  ],
+  "originals": [
+   "allume",
+   "allume / acale[?]",
+   "aludi",
+   "alume",
+   "lume"
+  ]
+ },
+ {
+  "name": "spices",
+  "category": "spice",
+  "count": 8,
+  "pages": [
+   "037",
+   "042",
+   "043",
+   "044",
+   "046",
+   "047",
+   "049",
+   "050"
+  ],
+  "originals": [
+   "sp<e>çye / spory",
+   "spagie / spegierie / sprigione",
+   "speza / spezia",
+   "spezerie",
+   "spezie / spazie",
+   "spezierie"
+  ]
+ },
+ {
+  "name": "tin",
+  "category": "metal",
+  "count": 7,
+  "pages": [
+   "015",
+   "019",
+   "021",
+   "031",
+   "038",
+   "051",
+   "052"
+  ],
+  "originals": [
+   "stagni",
+   "stagnio",
+   "stagno",
+   "sto[g]no"
+  ]
+ },
+ {
+  "name": "iron",
+  "category": "metal",
+  "count": 7,
+  "pages": [
+   "025",
+   "038",
+   "045",
+   "047",
+   "048",
+   "052",
+   "053"
+  ],
+  "originals": [
+   "ferri / ferro",
+   "ferro"
+  ]
+ },
+ {
+  "name": "dates",
+  "category": "foodstuff",
+  "count": 6,
+  "pages": [
+   "005",
+   "019",
+   "032",
+   "035",
+   "038",
+   "047"
+  ],
+  "originals": [
+   "dalle",
+   "datteri",
+   "dattery",
+   "dattory"
+  ]
+ },
+ {
+  "name": "salt",
+  "category": "other",
+  "count": 6,
+  "pages": [
+   "018",
+   "022",
+   "023",
+   "024",
+   "049",
+   "059"
+  ],
+  "originals": [
+   "chale / dichale (sale)",
+   "oyole",
+   "sale"
+  ]
+ },
+ {
+  "name": "pepper",
+  "category": "spice",
+  "count": 6,
+  "pages": [
+   "019",
+   "021",
+   "026",
+   "031",
+   "035",
+   "051"
+  ],
+  "originals": [
+   "il pepe",
+   "pape / pepe",
+   "paper (pepe)",
+   "pepe"
+  ]
+ },
+ {
+  "name": "ginger",
+  "category": "spice",
+  "count": 6,
+  "pages": [
+   "019",
+   "021",
+   "026",
+   "031",
+   "038",
+   "049"
+  ],
+  "originals": [
+   "gengiovo",
+   "gengiovo saunolo",
+   "ghonelyrona",
+   "gunghouy (gengiovi)",
+   "zinghoro / zingoro",
+   "zunghero"
+  ]
+ },
+ {
+  "name": "pearls",
+  "category": "other",
+  "count": 6,
+  "pages": [
+   "021",
+   "031",
+   "039",
+   "041",
+   "051",
+   "052"
+  ],
+  "originals": [
+   "perle",
+   "porli d(i) 300"
+  ]
+ },
+ {
+  "name": "copper",
+  "category": "metal",
+  "count": 6,
+  "pages": [
+   "022",
+   "026",
+   "031",
+   "032",
+   "051",
+   "052"
+  ],
+  "originals": [
+   "ame / rame",
+   "rame",
+   "rami"
+  ]
+ },
+ {
+  "name": "fustians",
+  "category": "cloth",
+  "count": 6,
+  "pages": [
+   "037",
+   "044",
+   "045",
+   "047",
+   "048",
+   "053"
+  ],
+  "originals": [
+   "fustani",
+   "fustanj",
+   "fustany"
+  ]
+ },
+ {
+  "name": "almonds",
+  "category": "foodstuff",
+  "count": 6,
+  "pages": [
+   "038",
+   "045",
+   "047",
+   "051",
+   "052",
+   "053"
+  ],
+  "originals": [
+   "amandoule",
+   "mandorle",
+   "mandrele",
+   "mandula"
+  ]
+ },
+ {
+  "name": "cloth",
+  "category": "cloth",
+  "count": 5,
+  "pages": [
+   "013",
+   "036",
+   "040",
+   "044",
+   "053"
+  ],
+  "originals": [
+   "padno",
+   "pani",
+   "panni",
+   "panno / palmo (cloth width)",
+   "pany"
+  ]
+ },
+ {
+  "name": "cotton",
+  "category": "other",
+  "count": 5,
+  "pages": [
+   "015",
+   "033",
+   "035",
+   "045"
+  ],
+  "originals": [
+   "abonbarga / bambagia",
+   "banbere / bambagia",
+   "bombasi",
+   "chotonj/cotone",
+   "cotone"
+  ]
+ },
+ {
+  "name": "cinnamon",
+  "category": "spice",
+  "count": 5,
+  "pages": [
+   "019",
+   "021",
+   "035",
+   "037",
+   "038"
+  ],
+  "originals": [
+   "chanella",
+   "channella",
+   "dachynamonta",
+   "nanomomo (canamomo)"
+  ]
+ },
+ {
+  "name": "honey",
+  "category": "foodstuff",
+  "count": 5,
+  "pages": [
+   "019",
+   "038",
+   "047",
+   "051",
+   "052"
+  ],
+  "originals": [
+   "e mele",
+   "mele"
+  ]
+ },
+ {
+  "name": "lead",
+  "category": "metal",
+  "count": 5,
+  "pages": [
+   "019",
+   "032",
+   "038",
+   "043",
+   "047"
+  ],
+  "originals": [
+   "piombi / piombo",
+   "piombo",
+   "pionbo"
+  ]
+ },
+ {
+  "name": "rhubarb",
+  "category": "spice",
+  "count": 5,
+  "pages": [
+   "021",
+   "026",
+   "029",
+   "038",
+   "051"
+  ],
+  "originals": [
+   "rabarba",
+   "rabarbero",
+   "rabeba[?]",
+   "reobo[?]",
+   "uvbarbero (rubarbero)"
+  ]
+ },
+ {
+  "name": "sulphur",
+  "category": "metal",
+  "count": 5,
+  "pages": [
+   "022",
+   "026",
+   "028",
+   "032",
+   "052"
+  ],
+  "originals": [
+   "olfo / zolfo",
+   "zolfo",
+   "zolfo dischamoni"
+  ]
+ },
+ {
+  "name": "spun gold thread",
+  "category": "metal",
+  "count": 4,
+  "pages": [
+   "013",
+   "039",
+   "047",
+   "049"
+  ],
+  "originals": [
+   "oro carcento filato",
+   "oro filato"
+  ]
+ },
+ {
+  "name": "camphor",
+  "category": "spice",
+  "count": 4,
+  "pages": [
+   "019",
+   "035",
+   "038",
+   "051"
+  ],
+  "originals": [
+   "camfora",
+   "canfora",
+   "ghanfora"
+  ]
+ },
+ {
+  "name": "cloves",
+  "category": "spice",
+  "count": 4,
+  "pages": [
+   "019",
+   "026",
+   "035",
+   "051"
+  ],
+  "originals": [
+   "charofani",
+   "charofany",
+   "garofani"
+  ]
+ },
+ {
+  "name": "zedoary",
+  "category": "spice",
+  "count": 4,
+  "pages": [
+   "019",
+   "035",
+   "038",
+   "051"
+  ],
+  "originals": [
+   "zasalviga[?]",
+   "zettoaria",
+   "zettobarra",
+   "zettovaria"
+  ]
+ },
+ {
+  "name": "gum",
+  "category": "other",
+  "count": 4,
+  "pages": [
+   "022",
+   "026",
+   "029",
+   "035"
+  ],
+  "originals": [
+   "golla / gum[?]",
+   "goma/goms",
+   "gomma",
+   "gomm̄"
+  ]
+ },
+ {
+  "name": "cheese",
+  "category": "foodstuff",
+  "count": 4,
+  "pages": [
+   "032",
+   "043",
+   "061",
+   "063"
+  ],
+  "originals": [
+   "formaggio"
+  ]
+ },
+ {
+  "name": "wine",
+  "category": "foodstuff",
+  "count": 4,
+  "pages": [
+   "037",
+   "043",
+   "049",
+   "050"
+  ],
+  "originals": [
+   "vinj",
+   "vino",
+   "vono"
+  ]
+ },
+ {
+  "name": "sugar",
+  "category": "spice",
+  "count": 4,
+  "pages": [
+   "038",
+   "042",
+   "044",
+   "049"
+  ],
+  "originals": [
+   "zovronto",
+   "zucchero",
+   "zucharj"
+  ]
+ },
+ {
+  "name": "wheat",
+  "category": "foodstuff",
+  "count": 3,
+  "pages": [
+   "010",
+   "043",
+   "063"
+  ],
+  "originals": [
+   "formento",
+   "fro(me)nto"
+  ]
+ },
+ {
+  "name": "merchandise",
+  "category": "other",
+  "count": 3,
+  "pages": [
+   "013",
+   "059",
+   "060"
+  ],
+  "originals": [
+   "m(er)cantia / m(er)candita",
+   "mercatantia",
+   "merchatantia / merchant[i]a"
+  ]
+ },
+ {
+  "name": "rice",
+  "category": "foodstuff",
+  "count": 3,
+  "pages": [
+   "018",
+   "038",
+   "047"
+  ],
+  "originals": [
+   "risj",
+   "riso",
+   "riso[?]"
+  ]
+ },
+ {
+  "name": "long pepper",
+  "category": "spice",
+  "count": 3,
+  "pages": [
+   "019",
+   "026",
+   "031"
+  ],
+  "originals": [
+   "pepe lungho",
+   "pepe lungo"
+  ]
+ },
+ {
+  "name": "indigo",
+  "category": "dye",
+  "count": 3,
+  "pages": [
+   "019",
+   "021",
+   "035"
+  ],
+  "originals": [
+   "Jndaco",
+   "indacho",
+   "mdorso (indaco?)"
+  ]
+ },
+ {
+  "name": "scammony",
+  "category": "spice",
+  "count": 3,
+  "pages": [
+   "021",
+   "038",
+   "051"
+  ],
+  "originals": [
+   "scimonea",
+   "shamonaza",
+   "shamonoa[?]"
+  ]
+ },
+ {
+  "name": "grain",
+  "category": "foodstuff",
+  "count": 3,
+  "pages": [
+   "024",
+   "037",
+   "047"
+  ],
+  "originals": [
+   "grano",
+   "grano / grome",
+   "gromo / grano"
+  ]
+ },
+ {
+  "name": "gold",
+  "category": "metal",
+  "count": 3,
+  "pages": [
+   "025",
+   "041",
+   "045"
+  ],
+  "originals": [
+   "oro"
+  ]
+ },
+ {
+  "name": "white cloths",
+  "category": "cloth",
+  "count": 3,
+  "pages": [
+   "028",
+   "029",
+   "039"
+  ],
+  "originals": [
+   "bianchi",
+   "panni biamghetti",
+   "panni bianchetti"
+  ]
+ },
+ {
+  "name": "taffeta",
+  "category": "cloth",
+  "count": 3,
+  "pages": [
+   "030",
+   "047",
+   "048"
+  ],
+  "originals": [
+   "taffetta",
+   "toffeta (taffetà)"
+  ]
+ },
+ {
+  "name": "verdigris",
+  "category": "dye",
+  "count": 3,
+  "pages": [
+   "031",
+   "038",
+   "040"
+  ],
+  "originals": [
+   "verdarame",
+   "verderame"
+  ]
+ },
+ {
+  "name": "mastic",
+  "category": "spice",
+  "count": 3,
+  "pages": [
+   "031",
+   "038",
+   "051"
+  ],
+  "originals": [
+   "mastice",
+   "mastici",
+   "mastico"
+  ]
+ },
+ {
+  "name": "nutmeg",
+  "category": "spice",
+  "count": 3,
+  "pages": [
+   "031",
+   "035",
+   "051"
+  ],
+  "originals": [
+   "noce (mosstarde)",
+   "noce mosc[ade]",
+   "noce moschada"
+  ]
+ },
+ {
+  "name": "gum arabic",
+  "category": "spice",
+  "count": 3,
+  "pages": [
+   "038",
+   "039",
+   "051"
+  ],
+  "originals": [
+   "ghomme d'ar[a]b(i)a[?]",
+   "gomma arabica",
+   "gomma gromata"
+  ]
+ },
+ {
+  "name": "woollen cloths",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "010",
+   "029"
+  ],
+  "originals": [
+   "drappi / panni",
+   "pany d[i] llana"
+  ]
+ },
+ {
+  "name": "coarse wool",
+  "category": "wool",
+  "count": 2,
+  "pages": [
+   "010",
+   "045"
+  ],
+  "originals": [
+   "lana grossa",
+   "llano g[r]oso"
+  ]
+ },
+ {
+  "name": "hides",
+  "category": "hide-leather",
+  "count": 2,
+  "pages": [
+   "011",
+   "021"
+  ],
+  "originals": [
+   "chuoia",
+   "guoy (cuoi)"
+  ]
+ },
+ {
+  "name": "lambskins",
+  "category": "hide-leather",
+  "count": 2,
+  "pages": [
+   "016",
+   "047"
+  ],
+  "originals": [
+   "agnine",
+   "pelly dagniellotty"
+  ]
+ },
+ {
+  "name": "hides / leather",
+  "category": "hide-leather",
+  "count": 2,
+  "pages": [
+   "017",
+   "023"
+  ],
+  "originals": [
+   "chuoia / chibr (cuoiame)",
+   "chuoia / dchuoia / ghuora"
+  ]
+ },
+ {
+  "name": "incense",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "019",
+   "035"
+  ],
+  "originals": [
+   "Jncenso",
+   "incenso"
+  ]
+ },
+ {
+  "name": "sandalwood",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "019",
+   "051"
+  ],
+  "originals": [
+   "sandali",
+   "sandoli"
+  ]
+ },
+ {
+  "name": "cardamom",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "019",
+   "051"
+  ],
+  "originals": [
+   "chardamomi",
+   "chondamomy[?]"
+  ]
+ },
+ {
+  "name": "cassia fistula",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "019",
+   "038"
+  ],
+  "originals": [
+   "chassafistola",
+   "chassia fistola"
+  ]
+ },
+ {
+  "name": "soap",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "019",
+   "038"
+  ],
+  "originals": [
+   "sapone"
+  ]
+ },
+ {
+  "name": "swords",
+  "category": "metal",
+  "count": 2,
+  "pages": [
+   "019",
+   "032"
+  ],
+  "originals": [
+   "spade"
+  ]
+ },
+ {
+  "name": "grain/wheat",
+  "category": "foodstuff",
+  "count": 2,
+  "pages": [
+   "021",
+   "044"
+  ],
+  "originals": [
+   "forumento / formento",
+   "grano"
+  ]
+ },
+ {
+  "name": "florentine cloths",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "021",
+   "052"
+  ],
+  "originals": [
+   "p(ann)i fiorentini",
+   "panni di firenza"
+  ]
+ },
+ {
+  "name": "barley",
+  "category": "foodstuff",
+  "count": 2,
+  "pages": [
+   "023",
+   "029"
+  ],
+  "originals": [
+   "orzo / dellorzo",
+   "orzo[?]"
+  ]
+ },
+ {
+  "name": "turkish cotton",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "026",
+   "031"
+  ],
+  "originals": [
+   "chotone turchesco",
+   "cotone turcheschi"
+  ]
+ },
+ {
+  "name": "spikenard",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "026",
+   "038"
+  ],
+  "originals": [
+   "spigo",
+   "spigonardi"
+  ]
+ },
+ {
+  "name": "fine scammony",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "026",
+   "031"
+  ],
+  "originals": [
+   "schamonea fine",
+   "schomonea fine"
+  ]
+ },
+ {
+  "name": "scarlet cloth",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "026",
+   "030"
+  ],
+  "originals": [
+   "scharlattino",
+   "sharlattino / sharlattino senza cremisi"
+  ]
+ },
+ {
+  "name": "grey cloths",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "028",
+   "029"
+  ],
+  "originals": [
+   "grigi / bigi",
+   "panni bigi"
+  ]
+ },
+ {
+  "name": "rock alum",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "028",
+   "031"
+  ],
+  "originals": [
+   "alume di rocha",
+   "alume diroccha"
+  ]
+ },
+ {
+  "name": "fine cinnamon",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "031",
+   "049"
+  ],
+  "originals": [
+   "chamella fine",
+   "ghanella fine"
+  ]
+ },
+ {
+  "name": "cloves / clove-stalks",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "garofani / fusti d(i) garofani",
+   "gharofani / fusti"
+  ]
+ },
+ {
+  "name": "turbith",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "turbiti"
+  ]
+ },
+ {
+  "name": "cardamoms",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "chardamomi"
+  ]
+ },
+ {
+  "name": "cubebs",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "ghubebe",
+   "gubebe"
+  ]
+ },
+ {
+  "name": "tamarinds",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "tamarena",
+   "tamericon"
+  ]
+ },
+ {
+  "name": "tutty (zinc oxide)",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "031",
+   "038"
+  ],
+  "originals": [
+   "tussia",
+   "tuzia"
+  ]
+ },
+ {
+  "name": "spun silver",
+  "category": "metal",
+  "count": 2,
+  "pages": [
+   "031",
+   "047"
+  ],
+  "originals": [
+   "ariento filimato",
+   "avemto / argento filato"
+  ]
+ },
+ {
+  "name": "figs",
+  "category": "foodstuff",
+  "count": 2,
+  "pages": [
+   "032",
+   "053"
+  ],
+  "originals": [
+   "fichi / fichi",
+   "fighi"
+  ]
+ },
+ {
+  "name": "flax/linen",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "032",
+   "045"
+  ],
+  "originals": [
+   "lino"
+  ]
+ },
+ {
+  "name": "raisins",
+  "category": "foodstuff",
+  "count": 2,
+  "pages": [
+   "035",
+   "053"
+  ],
+  "originals": [
+   "uve passe",
+   "zibibbo"
+  ]
+ },
+ {
+  "name": "capers",
+  "category": "foodstuff",
+  "count": 2,
+  "pages": [
+   "035",
+   "038"
+  ],
+  "originals": [
+   "chappori",
+   "ghapparj"
+  ]
+ },
+ {
+  "name": "english cloths",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "037",
+   "039"
+  ],
+  "originals": [
+   "panni inghilesi",
+   "pany Ingelesi"
+  ]
+ },
+ {
+  "name": "linen cloth",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "037",
+   "045"
+  ],
+  "originals": [
+   "tela",
+   "tele / tela lino"
+  ]
+ },
+ {
+  "name": "bronze",
+  "category": "metal",
+  "count": 2,
+  "pages": [
+   "038",
+   "048"
+  ],
+  "originals": [
+   "bronso",
+   "bronza"
+  ]
+ },
+ {
+  "name": "orpiment",
+  "category": "dye",
+  "count": 2,
+  "pages": [
+   "038",
+   "051"
+  ],
+  "originals": [
+   "orpimento"
+  ]
+ },
+ {
+  "name": "saltpetre",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "038",
+   "051"
+  ],
+  "originals": [
+   "salnitre",
+   "salnitro"
+  ]
+ },
+ {
+  "name": "cumin",
+  "category": "spice",
+  "count": 2,
+  "pages": [
+   "038",
+   "045"
+  ],
+  "originals": [
+   "chomino",
+   "cumino"
+  ]
+ },
+ {
+  "name": "sheepskins",
+  "category": "hide-leather",
+  "count": 2,
+  "pages": [
+   "038",
+   "047"
+  ],
+  "originals": [
+   "boldroni",
+   "montoni"
+  ]
+ },
+ {
+  "name": "hides/skins",
+  "category": "hide-leather",
+  "count": 2,
+  "pages": [
+   "042",
+   "043"
+  ],
+  "originals": [
+   "pellame",
+   "pellamj"
+  ]
+ },
+ {
+  "name": "hazelnuts",
+  "category": "foodstuff",
+  "count": 2,
+  "pages": [
+   "043",
+   "047"
+  ],
+  "originals": [
+   "nodola",
+   "novelle / nocelle"
+  ]
+ },
+ {
+  "name": "chestnuts",
+  "category": "foodstuff",
+  "count": 2,
+  "pages": [
+   "043",
+   "051"
+  ],
+  "originals": [
+   "chastagne",
+   "chastagnia"
+  ]
+ },
+ {
+  "name": "cottons",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "044",
+   "050"
+  ],
+  "originals": [
+   "chotoni",
+   "cotoni"
+  ]
+ },
+ {
+  "name": "linens",
+  "category": "cloth",
+  "count": 2,
+  "pages": [
+   "047",
+   "052"
+  ],
+  "originals": [
+   "tele"
+  ]
+ },
+ {
+  "name": "silk cloths",
+  "category": "silk",
+  "count": 2,
+  "pages": [
+   "051",
+   "052"
+  ],
+  "originals": [
+   "drapi d'seta",
+   "drappora di seta"
+  ]
+ },
+ {
+  "name": "corals",
+  "category": "other",
+  "count": 2,
+  "pages": [
+   "051",
+   "052"
+  ],
+  "originals": [
+   "chorali",
+   "choroili / corali"
+  ]
+ },
+ {
+  "name": "maroba goods (unidentified)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "Maroba"
+  ]
+ },
+ {
+  "name": "coarse coral",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "oreola grossa"
+  ]
+ },
+ {
+  "name": "yarn/skeins of milan (cloth goods)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "us(a)ni / cremgi (dmelano)"
+  ]
+ },
+ {
+  "name": "muslin(?) of como",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "moshelovi a como"
+  ]
+ },
+ {
+  "name": "florentine cloth 'della pesa'",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "fioren(t)ini dholla pesa"
+  ]
+ },
+ {
+  "name": "alfadilla (drug/spice, unidentified)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "alfadilla"
+  ]
+ },
+ {
+  "name": "zedoary(?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "esheonna / cetovaro[?]"
+  ]
+ },
+ {
+  "name": "camlet",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "amsherlot"
+  ]
+ },
+ {
+  "name": "galls (gallnuts)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "galsy / galle"
+  ]
+ },
+ {
+  "name": "agroma (unidentified)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "agroma"
+  ]
+ },
+ {
+  "name": "caghera (unidentified)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "caghera"
+  ]
+ },
+ {
+  "name": "harmeto (unidentified)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "h(a)rmeto"
+  ]
+ },
+ {
+  "name": "cerch (unidentified)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "cerch"
+  ]
+ },
+ {
+  "name": "godorolo (unidentified)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "godorsolo"
+  ]
+ },
+ {
+  "name": "cumin(?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "005"
+  ],
+  "originals": [
+   "cromle (gangolo)"
+  ]
+ },
+ {
+  "name": "medium-grade wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "006"
+  ],
+  "originals": [
+   "sommonali"
+  ]
+ },
+ {
+  "name": "medium-staple wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "lane d'pelo morsorte"
+  ]
+ },
+ {
+  "name": "first-prepared/combed wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "lane chonzaprime"
+  ]
+ },
+ {
+  "name": "gum/grease wool (greasy fleece)",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "007"
+  ],
+  "originals": [
+   "ghommale / ghommali"
+  ]
+ },
+ {
+  "name": "teruel-grade wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "008"
+  ],
+  "originals": [
+   "terunolo (lana)"
+  ]
+ },
+ {
+  "name": "argiento (a wool/place)",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "008"
+  ],
+  "originals": [
+   "argiento"
+  ]
+ },
+ {
+  "name": "washed wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "009"
+  ],
+  "originals": [
+   "lana alla seura"
+  ]
+ },
+ {
+  "name": "rye",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "010"
+  ],
+  "originals": [
+   "S[ig]ale (segale)"
+  ]
+ },
+ {
+  "name": "camel-hair[?]",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "011"
+  ],
+  "originals": [
+   "chamilla[?]"
+  ]
+ },
+ {
+  "name": "coarse linen cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "011"
+  ],
+  "originals": [
+   "tela orghorda (tela grossa)"
+  ]
+ },
+ {
+  "name": "white fustians",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "011"
+  ],
+  "originals": [
+   "ustany bianchi (fustagni bianchi)"
+  ]
+ },
+ {
+  "name": "leather hides",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "011"
+  ],
+  "originals": [
+   "d'amory chuoia (cuoia di ...)"
+  ]
+ },
+ {
+  "name": "wool[?]",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "011"
+  ],
+  "originals": [
+   "lalona[?] (lana?)"
+  ]
+ },
+ {
+  "name": "taffeta[?]",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "011"
+  ],
+  "originals": [
+   "affitta[?] (taffettà?)"
+  ]
+ },
+ {
+  "name": "lambs'-wool goods",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "012"
+  ],
+  "originals": [
+   "agnine"
+  ]
+ },
+ {
+  "name": "spun thread",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "012"
+  ],
+  "originals": [
+   "filato"
+  ]
+ },
+ {
+  "name": "tow (coarse hemp/flax)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "012"
+  ],
+  "originals": [
+   "stoppa"
+  ]
+ },
+ {
+  "name": "silk (of almeria?)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "012"
+  ],
+  "originals": [
+   "seta[?] dalmuria[?]"
+  ]
+ },
+ {
+  "name": "marolicha (mallorcan goods?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "012"
+  ],
+  "originals": [
+   "marolicha[?]"
+  ]
+ },
+ {
+  "name": "rough/coarse cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "013"
+  ],
+  "originals": [
+   "arbasa"
+  ]
+ },
+ {
+  "name": "wax and candles (probable subject)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "014"
+  ],
+  "originals": [
+   "cera / linde e mandrele[?]"
+  ]
+ },
+ {
+  "name": "spices/wares",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "014"
+  ],
+  "originals": [
+   "spezie"
+  ]
+ },
+ {
+  "name": "sealed wax (pope's/leaded wax?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "014"
+  ],
+  "originals": [
+   "papa[?] piombante"
+  ]
+ },
+ {
+  "name": "quicksilver / archavecha (uncertain)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "015"
+  ],
+  "originals": [
+   "arghoueza[?]"
+  ]
+ },
+ {
+  "name": "goods (general)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "015"
+  ],
+  "originals": [
+   "robe"
+  ]
+ },
+ {
+  "name": "lamb-wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "016"
+  ],
+  "originals": [
+   "agnielli / agniellme / agnelline"
+  ]
+ },
+ {
+  "name": "crimson royal rose silk",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "017"
+  ],
+  "originals": [
+   "carmosino reale rosa"
+  ]
+ },
+ {
+  "name": "leather/hides",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "018"
+  ],
+  "originals": [
+   "pellame"
+  ]
+ },
+ {
+  "name": "furs/skins of purple",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "018"
+  ],
+  "originals": [
+   "pene di sgonpora (porpora)"
+  ]
+ },
+ {
+  "name": "raw hides",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "018"
+  ],
+  "originals": [
+   "cuoia / ony cua[?]"
+  ]
+ },
+ {
+  "name": "alum (or wool) for purple",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "018"
+  ],
+  "originals": [
+   "alana / alume[?] sugonpora"
+  ]
+ },
+ {
+  "name": "balsam (or argomo)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "018"
+  ],
+  "originals": [
+   "arsamo[?]"
+  ]
+ },
+ {
+  "name": "cotton (raw and spun/thread)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "019"
+  ],
+  "originals": [
+   "sotony soda / sotony filah"
+  ]
+ },
+ {
+  "name": "rhubarb (medicinal)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "019"
+  ],
+  "originals": [
+   "sherbebe[?]"
+  ]
+ },
+ {
+  "name": "yarn / worsted",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "019"
+  ],
+  "originals": [
+   "stame"
+  ]
+ },
+ {
+  "name": "pine-nuts / pignoni",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "019"
+  ],
+  "originals": [
+   "pignoni"
+  ]
+ },
+ {
+  "name": "ointment",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "019"
+  ],
+  "originals": [
+   "ungonento"
+  ]
+ },
+ {
+  "name": "goods/merchandise",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "020"
+  ],
+  "originals": [
+   "robe"
+  ]
+ },
+ {
+  "name": "catalan cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "020"
+  ],
+  "originals": [
+   "ghatalognia (panni)"
+  ]
+ },
+ {
+  "name": "paper",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "020"
+  ],
+  "originals": [
+   "pape (paper, as packing)"
+  ]
+ },
+ {
+  "name": "wheat/fodder grain",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "bla[n]e (biada)"
+  ]
+ },
+ {
+  "name": "chario (iron-ware?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "chario"
+  ]
+ },
+ {
+  "name": "linens/cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "telnashe / telaolnole"
+  ]
+ },
+ {
+  "name": "tow/oakum",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "stoppa"
+  ]
+ },
+ {
+  "name": "quicksilver/mercury",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "aresento (argento vivo)"
+  ]
+ },
+ {
+  "name": "catalan cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "p(ann)i chatalameschi"
+  ]
+ },
+ {
+  "name": "perpignan/brunetti cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "ppanony brionelli"
+  ]
+ },
+ {
+  "name": "white soap",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "sapone biancho"
+  ]
+ },
+ {
+  "name": "garbo/coarse wool?",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "garghonazza"
+  ]
+ },
+ {
+  "name": "turchino (dark-blue dyed)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "tuerghino"
+  ]
+ },
+ {
+  "name": "camel hide",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "d(i)chamello"
+  ]
+ },
+ {
+  "name": "cotton (moneshi grade)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "chotony moneshj"
+  ]
+ },
+ {
+  "name": "cotton (tuerspessi grade)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "chotony tuerspessi"
+  ]
+ },
+ {
+  "name": "grenguesi (galangal?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "grenguesj"
+  ]
+ },
+ {
+  "name": "precious stones/gems",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "pietre"
+  ]
+ },
+ {
+  "name": "cassia",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "chassia"
+  ]
+ },
+ {
+  "name": "camlets/rombellotti",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "021"
+  ],
+  "originals": [
+   "rombellotti"
+  ]
+ },
+ {
+  "name": "hides of the warehouse",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "guoia di fondacho"
+  ]
+ },
+ {
+  "name": "lead/tin (uncertain)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "ponte"
+  ]
+ },
+ {
+  "name": "florentine cloth, undyed",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "pani fiorentini onfolorati"
+  ]
+ },
+ {
+  "name": "fine cloth, undyed",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "pani belli onfolorati"
+  ]
+ },
+ {
+  "name": "spun wax",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "ciera filata"
+  ]
+ },
+ {
+  "name": "local saffron",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "affirono / zafferano nostrale"
+  ]
+ },
+ {
+  "name": "cumin (uncertain)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "chrome pisone"
+  ]
+ },
+ {
+  "name": "white ginger",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "chongiamini biancho"
+  ]
+ },
+ {
+  "name": "cinnamon of alexandria",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "chino alessandrino"
+  ]
+ },
+ {
+  "name": "cassia (uncertain)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "gasse pinasse"
+  ]
+ },
+ {
+  "name": "cinnamon, local, sifted",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "chroma nostrale sgarbellata"
+  ]
+ },
+ {
+  "name": "orpiment (uncertain)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "aterbolo"
+  ]
+ },
+ {
+  "name": "milanese fustians/raspings (uncertain)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "ruspany melanesi"
+  ]
+ },
+ {
+  "name": "galbanum (uncertain)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "gabuzga"
+  ]
+ },
+ {
+  "name": "tin/copper (uncertain)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "chonte"
+  ]
+ },
+ {
+  "name": "iron wire",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "ilo di fero"
+  ]
+ },
+ {
+  "name": "otter pelts (uncertain)",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "attory"
+  ]
+ },
+ {
+  "name": "zedoary (uncertain)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "022"
+  ],
+  "originals": [
+   "ctole"
+  ]
+ },
+ {
+  "name": "grain (wheat)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "grano / digrano"
+  ]
+ },
+ {
+  "name": "taffeta silk",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "taffito (taffeta)"
+  ]
+ },
+ {
+  "name": "green (dyed cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "verde"
+  ]
+ },
+ {
+  "name": "vermilion (dyed cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "vermolj (vermiglio)"
+  ]
+ },
+ {
+  "name": "tawny/pale (dyed cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "biado/biabo"
+  ]
+ },
+ {
+  "name": "black (dyed cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "023"
+  ],
+  "originals": [
+   "nero"
+  ]
+ },
+ {
+  "name": "wool of valencia",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "024"
+  ],
+  "originals": [
+   "lana di Vall(e)nza"
+  ]
+ },
+ {
+  "name": "pisan wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "024"
+  ],
+  "originals": [
+   "lana Pisa[na]"
+  ]
+ },
+ {
+  "name": "english wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "024"
+  ],
+  "originals": [
+   "lana Anghilterra"
+  ]
+ },
+ {
+  "name": "catalan wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "024"
+  ],
+  "originals": [
+   "lana di chatalogna"
+  ]
+ },
+ {
+  "name": "barbary wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "024"
+  ],
+  "originals": [
+   "lana Barbarescha"
+  ]
+ },
+ {
+  "name": "rams / sheepskins",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "024"
+  ],
+  "originals": [
+   "montony [?]"
+  ]
+ },
+ {
+  "name": "silver / refined (double) silver",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "argento / argentaro / argento douhia"
+  ]
+ },
+ {
+  "name": "dark green (cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "verde schuro"
+  ]
+ },
+ {
+  "name": "dark purple (cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "porpora[gg]io schuri"
+  ]
+ },
+ {
+  "name": "dark vermilion (cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "vermigli schuri"
+  ]
+ },
+ {
+  "name": "black (cloth)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "nero"
+  ]
+ },
+ {
+  "name": "aleppo-grade (saffron/dye?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "alepri"
+  ]
+ },
+ {
+  "name": "ferrotti (grade)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "ferrotti"
+  ]
+ },
+ {
+  "name": "anaspoli (skeined?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "anaspoli"
+  ]
+ },
+ {
+  "name": "carlini (coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "025"
+  ],
+  "originals": [
+   "charlini"
+  ]
+ },
+ {
+  "name": "boiled/refined sugar",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "amidori bollati"
+  ]
+ },
+ {
+  "name": "brazilwood (dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "verzini"
+  ]
+ },
+ {
+  "name": "cotton (asnamo)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "cotone asnamo"
+  ]
+ },
+ {
+  "name": "candles",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "candelle"
+  ]
+ },
+ {
+  "name": "ivory (colombine)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "avorio rgolonbino"
+  ]
+ },
+ {
+  "name": "ivory (almuri)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "avorio almuri"
+  ]
+ },
+ {
+  "name": "clean refined alum",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "alume neto rifatto"
+  ]
+ },
+ {
+  "name": "alum (nitro), not refined",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "alume nitro non rifatto"
+  ]
+ },
+ {
+  "name": "borgo linens",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "tele aboregio"
+  ]
+ },
+ {
+  "name": "veils",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "veli passanti"
+  ]
+ },
+ {
+  "name": "baghdad indigo",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "indacho bonghaddo"
+  ]
+ },
+ {
+  "name": "fine galingale",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "galinga fine"
+  ]
+ },
+ {
+  "name": "gum (gromata)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "comma gromata"
+  ]
+ },
+ {
+  "name": "broken camphor",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "canfora disfatta"
+  ]
+ },
+ {
+  "name": "boveana (hepatic?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "boveana ipparte"
+  ]
+ },
+ {
+  "name": "greasy pine-resin",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "pinea zgrasso"
+  ]
+ },
+ {
+  "name": "fine cilandino",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "cilandino fine"
+  ]
+ },
+ {
+  "name": "grains of paradise (?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "romo paradisa"
+  ]
+ },
+ {
+  "name": "camphor of germa",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "champora di germa"
+  ]
+ },
+ {
+  "name": "peacock-purple cloth, finest",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "pagonazo dolpremo"
+  ]
+ },
+ {
+  "name": "turquoise cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "026"
+  ],
+  "originals": [
+   "borse di turchino"
+  ]
+ },
+ {
+  "name": "palmella (silk/cloth grade)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "palmella / almella"
+  ]
+ },
+ {
+  "name": "orsoglio (raw silk grade)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "ony (orsoglio)"
+  ]
+ },
+ {
+  "name": "mixed-colour cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "mischi"
+  ]
+ },
+ {
+  "name": "azure cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "azurry"
+  ]
+ },
+ {
+  "name": "blue cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "biavo"
+  ]
+ },
+ {
+  "name": "grey cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "biggi"
+  ]
+ },
+ {
+  "name": "tunny (large), amalfi/amiens grade [?]",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "tonno grosso amigiano[?]"
+  ]
+ },
+ {
+  "name": "uncertain commodity",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "027"
+  ],
+  "originals": [
+   "x oltora[?]"
+  ]
+ },
+ {
+  "name": "abada wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "028"
+  ],
+  "originals": [
+   "lana abada"
+  ]
+ },
+ {
+  "name": "ghohatte (coarse wool/collettes?)",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "028"
+  ],
+  "originals": [
+   "ghohatte[?]"
+  ]
+ },
+ {
+  "name": "coloured cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "028"
+  ],
+  "originals": [
+   "panni cholorati"
+  ]
+ },
+ {
+  "name": "skins/hides",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "028"
+  ],
+  "originals": [
+   "pelli"
+  ]
+ },
+ {
+  "name": "obba (cloth/skin grade?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "028"
+  ],
+  "originals": [
+   "obba[?]"
+  ]
+ },
+ {
+  "name": "tagnio (cloth grade?)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "028"
+  ],
+  "originals": [
+   "tagnio[?]"
+  ]
+ },
+ {
+  "name": "scarlet cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "scharlattini"
+  ]
+ },
+ {
+  "name": "blue cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "azzurri"
+  ]
+ },
+ {
+  "name": "turquoise cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "turchini"
+  ]
+ },
+ {
+  "name": "violet cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "violati"
+  ]
+ },
+ {
+  "name": "purple cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "paonazzi"
+  ]
+ },
+ {
+  "name": "coarse green cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "verdi grossi"
+  ]
+ },
+ {
+  "name": "pale-blue cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "[s]biadati"
+  ]
+ },
+ {
+  "name": "kermes (scarlet dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "grana"
+  ]
+ },
+ {
+  "name": "caps / bonnets",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "berette / barini"
+  ]
+ },
+ {
+  "name": "brass thread / wire",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "filo d'ottone"
+  ]
+ },
+ {
+  "name": "brass cords",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "corde d'ottone"
+  ]
+ },
+ {
+  "name": "iron thread / wire",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "filo d[i] ferro"
+  ]
+ },
+ {
+  "name": "black ambergris",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "a(m)bra nery"
+  ]
+ },
+ {
+  "name": "carob",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "029"
+  ],
+  "originals": [
+   "carobo[?]"
+  ]
+ },
+ {
+  "name": "english woolen cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "Panni d'lana d'Inghilterra"
+  ]
+ },
+ {
+  "name": "coloured/dyed wools",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "tintilani d'lana"
+  ]
+ },
+ {
+  "name": "worsteds (stametti)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "Stametti"
+  ]
+ },
+ {
+  "name": "crimson (kermes dye/colour)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "cremisi"
+  ]
+ },
+ {
+  "name": "azure-dyed cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "azurro"
+  ]
+ },
+ {
+  "name": "sky-blue cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "cilestro"
+  ]
+ },
+ {
+  "name": "turquoise/blue cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "turchino"
+  ]
+ },
+ {
+  "name": "peacock-purple cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "paghonazzo"
+  ]
+ },
+ {
+  "name": "tawny cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "tane"
+  ]
+ },
+ {
+  "name": "saffron-coloured cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "sharofanato"
+  ]
+ },
+ {
+  "name": "ebradato (cloth grade)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "ebradato"
+  ]
+ },
+ {
+  "name": "ghupo (cloth grade)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "ghupo"
+  ]
+ },
+ {
+  "name": "biada (blue-grey)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "biada"
+  ]
+ },
+ {
+  "name": "zetani (heavy silk/satin)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "zetanj"
+  ]
+ },
+ {
+  "name": "velvet / velveted silk",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "avelutato"
+  ]
+ },
+ {
+  "name": "brocaded with gold",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "bronchato d'oro"
+  ]
+ },
+ {
+  "name": "damask",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "damaschino"
+  ]
+ },
+ {
+  "name": "damask dyed in grain (scarlet)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "damaschino d'grana"
+  ]
+ },
+ {
+  "name": "taffeta dyed in grain (scarlet)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "taffetta d'grana"
+  ]
+ },
+ {
+  "name": "tena cloth of rubomah",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "tena d'rubomah"
+  ]
+ },
+ {
+  "name": "zperrah (textile, uncertain)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "zperrah"
+  ]
+ },
+ {
+  "name": "grain/kermes scarlet dye",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "030"
+  ],
+  "originals": [
+   "grana"
+  ]
+ },
+ {
+  "name": "starch",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "amido"
+  ]
+ },
+ {
+  "name": "matured lac",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "lacha mattura"
+  ]
+ },
+ {
+  "name": "lac",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "lacha biruda"
+  ]
+ },
+ {
+  "name": "refined sugar of two/three boilings",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "zucchero amalicha d(i) due/tre cotte"
+  ]
+ },
+ {
+  "name": "columbine brazilwood (dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "verzino cholonbino"
+  ]
+ },
+ {
+  "name": "brazilwood of almería",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "verzino almeri"
+  ]
+ },
+ {
+  "name": "tortosa incense/frankincense",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "Incenso tortosino"
+  ]
+ },
+ {
+  "name": "alexandrian incense",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "Incenso alessandrino"
+  ]
+ },
+ {
+  "name": "red alum",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "allume rosso"
+  ]
+ },
+ {
+  "name": "alum (apurino)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "alume apurino"
+  ]
+ },
+ {
+  "name": "gallnut of rome",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "ghalla d(i) romana"
+  ]
+ },
+ {
+  "name": "gallnut of slavonia",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "ghalla d(i) schiavonia"
+  ]
+ },
+ {
+  "name": "dobbia gum, coarse / common",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "dobbia grossa / chomune"
+  ]
+ },
+ {
+  "name": "woad of 6/8/10 pani (grades)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "ghuado che 6/8/10 pani"
+  ]
+ },
+ {
+  "name": "barbary cotton",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "chotone barbaresco"
+  ]
+ },
+ {
+  "name": "alexandrine cotton",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "chotone alessandrino"
+  ]
+ },
+ {
+  "name": "cotton of malta",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "chotone d(i) malta"
+  ]
+ },
+ {
+  "name": "barbary wax",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "cera barbaresca"
+  ]
+ },
+ {
+  "name": "arsenic(?)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "arse nigo"
+  ]
+ },
+ {
+  "name": "orpiment, coarse / green / adulterated",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "oripimento grosso / verso / ag(i)unto"
+  ]
+ },
+ {
+  "name": "refined saltpetre",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "salnitro rifatto"
+  ]
+ },
+ {
+  "name": "kermes grain (dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "vermini di grana"
+  ]
+ },
+ {
+  "name": "thread (enamel-cut / red / 'porto')",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "filo di smalto secto / filo rosso / filo ditto porto"
+  ]
+ },
+ {
+  "name": "dragon's-blood",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "sangue d(i) draco"
+  ]
+ },
+ {
+  "name": "aloes (varieties)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "aloe sanghuvy / aloe patriso"
+  ]
+ },
+ {
+  "name": "refined camphor",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "ghenfara rifatta"
+  ]
+ },
+ {
+  "name": "sublimated silver (mercuric)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "ariento solimato"
+  ]
+ },
+ {
+  "name": "red / white sandalwood",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "sandali rossi / bianchi"
+  ]
+ },
+ {
+  "name": "live sulphur / quicksilver(?)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "zolfo vivo"
+  ]
+ },
+ {
+  "name": "rose-water",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "aqua rosa"
+  ]
+ },
+ {
+  "name": "garden / merchant's saffron",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "zafferano d'orta / mercadante"
+  ]
+ },
+ {
+  "name": "mandrake bark",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "schorza d'mandragola"
+  ]
+ },
+ {
+  "name": "storax calamita",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "storace chalmistrata"
+  ]
+ },
+ {
+  "name": "capers(?)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "loppi cavavy"
+  ]
+ },
+ {
+  "name": "balsam oil(?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "oro balsimo"
+  ]
+ },
+ {
+  "name": "aloeswood",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "legno aloe"
+  ]
+ },
+ {
+  "name": "taffeta of bologna",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "taffetà a bologna"
+  ]
+ },
+ {
+  "name": "silk of la torera / almería",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "seta della torera / d'almeria"
+  ]
+ },
+ {
+  "name": "pisan twisted thread",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "filo torto pisamo"
+  ]
+ },
+ {
+  "name": "spun cotton of barcelona, dyed",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "chotone filato d'barzalona tinto"
+  ]
+ },
+ {
+  "name": "spun gold of genoa / germany / bologna / lucca",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "oro filato di genova / d'alemagna / d'bologna / di lucha"
+  ]
+ },
+ {
+  "name": "amber",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "anbra"
+  ]
+ },
+ {
+  "name": "barbary kermes-grain / powder of the said grana",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "031"
+  ],
+  "originals": [
+   "grana barbaresca / polvere detta grana"
+  ]
+ },
+ {
+  "name": "iron / iron sheet",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "ferro / fero / foglie d’ferro"
+  ]
+ },
+ {
+  "name": "red tartar (cream of tartar)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "taritaro rosso"
+  ]
+ },
+ {
+  "name": "soft soap / hard soap",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "sapone molle / saponi duri"
+  ]
+ },
+ {
+  "name": "sinopia (red ochre)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "sinopia"
+  ]
+ },
+ {
+  "name": "tallow",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "sebo"
+  ]
+ },
+ {
+  "name": "soda (alkali)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "soda"
+  ]
+ },
+ {
+  "name": "sheepskins (boldroni)",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "boldroni"
+  ]
+ },
+ {
+  "name": "cordovan leathers",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "chordovany / chorpelli"
+  ]
+ },
+ {
+  "name": "parchment",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "pergamene"
+  ]
+ },
+ {
+  "name": "fish-glue",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "cholla d’pesci"
+  ]
+ },
+ {
+  "name": "white/black fustians",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "fustani bianchi / fustani neri"
+  ]
+ },
+ {
+  "name": "terzanelli (silk cloth)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "terzanelli"
+  ]
+ },
+ {
+  "name": "satins of spain",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "zetani d’spagna"
+  ]
+ },
+ {
+  "name": "damascene cottons",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "chotonine domaschine"
+  ]
+ },
+ {
+  "name": "veils / fine vair (squirrel fur)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "vali / vaj fini"
+  ]
+ },
+ {
+  "name": "sables",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "zibellini"
+  ]
+ },
+ {
+  "name": "martens",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "faine"
+  ]
+ },
+ {
+  "name": "wild cats (fur)",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "ghatti salvatichi"
+  ]
+ },
+ {
+  "name": "rabbits (fur)",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "chongli"
+  ]
+ },
+ {
+  "name": "linen cloths / linens",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "panni lini / tele"
+  ]
+ },
+ {
+  "name": "greens (dyed cloth/dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "verde chomune / verde di loreosa"
+  ]
+ },
+ {
+  "name": "pens/quills",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "penne d’stenzolo"
+  ]
+ },
+ {
+  "name": "crossbow-stocks",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "fusti d’balestro"
+  ]
+ },
+ {
+  "name": "ox-hides",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "chuoia d’buo"
+  ]
+ },
+ {
+  "name": "planks of venice",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "tavole d’vinegia"
+  ]
+ },
+ {
+  "name": "fir-wood lance-staves",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "aste d’lanna d’abete"
+  ]
+ },
+ {
+  "name": "beans",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "fave"
+  ]
+ },
+ {
+  "name": "yellow saffron[?]",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "032"
+  ],
+  "originals": [
+   "zalty crochrum"
+  ]
+ },
+ {
+  "name": "spun/drawn gold thread",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "Oro filato"
+  ]
+ },
+ {
+  "name": "florins (gold coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "fiorini"
+  ]
+ },
+ {
+  "name": "ducats (gold coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "duchati"
+  ]
+ },
+ {
+  "name": "nobles (gold coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "Nobili"
+  ]
+ },
+ {
+  "name": "reals (coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "reali"
+  ]
+ },
+ {
+  "name": "doblas (gold coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "033"
+  ],
+  "originals": [
+   "dobre"
+  ]
+ },
+ {
+  "name": "picked/selected pepper",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "pepe aguinte"
+  ]
+ },
+ {
+  "name": "ginger of all sorts",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "gengiovo e tutte sorti"
+  ]
+ },
+ {
+  "name": "fine ginger",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "gengiovo fini"
+  ]
+ },
+ {
+  "name": "green ginger",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "gengiovo verde"
+  ]
+ },
+ {
+  "name": "mezzina ginger",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "gomenzina[?]"
+  ]
+ },
+ {
+  "name": "lacca/lac",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "lacha"
+  ]
+ },
+ {
+  "name": "brazilwood",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "verzino"
+  ]
+ },
+ {
+  "name": "benzoin",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "borsamini/borsano"
+  ]
+ },
+ {
+  "name": "aloe",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "aloe"
+  ]
+ },
+ {
+  "name": "galangal",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "ghalingha"
+  ]
+ },
+ {
+  "name": "ivory tusks (?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "denti barnoro[?]"
+  ]
+ },
+ {
+  "name": "pearl",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "perla"
+  ]
+ },
+ {
+  "name": "copper (?)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "035"
+  ],
+  "originals": [
+   "rame[?]"
+  ]
+ },
+ {
+  "name": "grain (by the staio)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "036"
+  ],
+  "originals": [
+   "biada/grano (staio)[?]"
+  ]
+ },
+ {
+  "name": "genovini (genoese coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "036"
+  ],
+  "originals": [
+   "genovini[?]"
+  ]
+ },
+ {
+  "name": "bronzetti (cloth grade)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "037"
+  ],
+  "originals": [
+   "bron<g>etti"
+  ]
+ },
+ {
+  "name": "gold thread",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "037"
+  ],
+  "originals": [
+   "oro filato"
+  ]
+ },
+ {
+  "name": "leather (taverano)",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "037"
+  ],
+  "originals": [
+   "furro deltaverano"
+  ]
+ },
+ {
+  "name": "thread",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "037"
+  ],
+  "originals": [
+   "fila d(i) chomagye"
+  ]
+ },
+ {
+  "name": "cotton (turkish/alexandrian)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "gotone turchescho / alessanderno"
+  ]
+ },
+ {
+  "name": "threads/yarn",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "filati / sommo"
+  ]
+ },
+ {
+  "name": "black crude tartar",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "tartaro nero"
+  ]
+ },
+ {
+  "name": "sieved ash",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "cienere ghorbellata"
+  ]
+ },
+ {
+  "name": "azure (pigment)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "azurra"
+  ]
+ },
+ {
+  "name": "alum (bark/glass/plume/spanish)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "alumi di schorza / di vetro / dipiuma / spagnuolo"
+  ]
+ },
+ {
+  "name": "sulphur in tubes",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "zolfo in chamony"
+  ]
+ },
+ {
+  "name": "pepper / long pepper",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "pepe / pepe lungho"
+  ]
+ },
+ {
+  "name": "incense/frankincense",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "incenso"
+  ]
+ },
+ {
+  "name": "madder (dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "robbia"
+  ]
+ },
+ {
+  "name": "ivory tusks",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "denti d'avorio"
+  ]
+ },
+ {
+  "name": "kermes/grain dye",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "grana"
+  ]
+ },
+ {
+  "name": "varnish",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "vernice"
+  ]
+ },
+ {
+  "name": "vitriol",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "vetriuolo"
+  ]
+ },
+ {
+  "name": "sal ammoniac",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "sale armoniacho"
+  ]
+ },
+ {
+  "name": "red and white sandalwood",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "sandoli rossi e biancho"
+  ]
+ },
+ {
+  "name": "turpentine",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "termentina"
+  ]
+ },
+ {
+  "name": "nutmeg / mace",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "noce muschade / mace"
+  ]
+ },
+ {
+  "name": "balsam (carpo-/xylobalsam)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "balsimo"
+  ]
+ },
+ {
+  "name": "castoreum",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "gastoreo"
+  ]
+ },
+ {
+  "name": "folium",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "folio"
+  ]
+ },
+ {
+  "name": "fenugreek",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "fieno greggo"
+  ]
+ },
+ {
+  "name": "galbanum",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "galbana"
+  ]
+ },
+ {
+  "name": "opopanax",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "opoponaco"
+  ]
+ },
+ {
+  "name": "gum-dragon (tragacanth)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "ghomedrea"
+  ]
+ },
+ {
+  "name": "aloe (lignum/hepatic/caballine)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "aloe"
+  ]
+ },
+ {
+  "name": "amomum",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "amomi"
+  ]
+ },
+ {
+  "name": "chebulic myrobalans",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "mirabolani chebuli"
+  ]
+ },
+ {
+  "name": "costus (bitter/sweet)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "ghosto amaro / dolce"
+  ]
+ },
+ {
+  "name": "spodium",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "spodio"
+  ]
+ },
+ {
+  "name": "mandragora",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "amandragola"
+  ]
+ },
+ {
+  "name": "cordovan (goat-leather)",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "ghordovani"
+  ]
+ },
+ {
+  "name": "hides / hair",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "chuoia / pelo"
+  ]
+ },
+ {
+  "name": "white wine",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "vino biancho"
+  ]
+ },
+ {
+  "name": "cakes of soda",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "pane di socha"
+  ]
+ },
+ {
+  "name": "arsenic",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "038"
+  ],
+  "originals": [
+   "arsenicho"
+  ]
+ },
+ {
+  "name": "ultramarine azure",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "azurro oltra marino"
+  ]
+ },
+ {
+  "name": "german azure",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "azurro della magna"
+  ]
+ },
+ {
+  "name": "ambergris",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "ambra di balena"
+  ]
+ },
+ {
+  "name": "spun silver thread",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "039"
+  ],
+  "originals": [
+   "ariento filato"
+  ]
+ },
+ {
+  "name": "spices / goods",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "040"
+  ],
+  "originals": [
+   "spezierie / chose"
+  ]
+ },
+ {
+  "name": "silver and gold",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "040"
+  ],
+  "originals": [
+   "ariento e doro"
+  ]
+ },
+ {
+  "name": "wheat/grain",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "041"
+  ],
+  "originals": [
+   "formento"
+  ]
+ },
+ {
+  "name": "saffron (of the marches)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "041"
+  ],
+  "originals": [
+   "asferano marchegiano"
+  ]
+ },
+ {
+  "name": "leather",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "042"
+  ],
+  "originals": [
+   "ghuoia[?] / cuoio"
+  ]
+ },
+ {
+  "name": "cheese (formaggio)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "042"
+  ],
+  "originals": [
+   "formatteo[?]"
+  ]
+ },
+ {
+  "name": "coins/money",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "042"
+  ],
+  "originals": [
+   "monete"
+  ]
+ },
+ {
+  "name": "coarse wools",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "lany grosse"
+  ]
+ },
+ {
+  "name": "salted pig hides/leather",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "chuoia diporcho salso"
+  ]
+ },
+ {
+  "name": "sea-spices",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "spezerie dimarine"
+  ]
+ },
+ {
+  "name": "timber",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "legname"
+  ]
+ },
+ {
+  "name": "oats (avena)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "chouena"
+  ]
+ },
+ {
+  "name": "fruit",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "043"
+  ],
+  "originals": [
+   "frutto"
+  ]
+ },
+ {
+  "name": "cereals/fodder grain",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "biade"
+  ]
+ },
+ {
+  "name": "fine wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "trafine"
+  ]
+ },
+ {
+  "name": "cheeses",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "formaggj"
+  ]
+ },
+ {
+  "name": "tuna",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "tonnia / tonna"
+  ]
+ },
+ {
+  "name": "citron",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "citrea"
+  ]
+ },
+ {
+  "name": "kermes-grain (dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "grane"
+  ]
+ },
+ {
+  "name": "?armoy cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "armoy"
+  ]
+ },
+ {
+  "name": "oil and wine",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "oçevino"
+  ]
+ },
+ {
+  "name": "armour",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "armadure"
+  ]
+ },
+ {
+  "name": "ducats",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "044"
+  ],
+  "originals": [
+   "duschati"
+  ]
+ },
+ {
+  "name": "sterlings (coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "sterlonj"
+  ]
+ },
+ {
+  "name": "mercery",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "mercivere"
+  ]
+ },
+ {
+  "name": "armor",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "armadure / carimadure"
+  ]
+ },
+ {
+  "name": "cloth/panni",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "pony (panni)"
+  ]
+ },
+ {
+  "name": "spicery",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "spezerie / spezeria"
+  ]
+ },
+ {
+  "name": "apples",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "mela"
+  ]
+ },
+ {
+  "name": "lavender (?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "chamondula / lavandula"
+  ]
+ },
+ {
+  "name": "bologna taffeta",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "045"
+  ],
+  "originals": [
+   "toffetta d(i) bologna"
+  ]
+ },
+ {
+  "name": "cloth of gold / gold thread / refined gold",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "046"
+  ],
+  "originals": [
+   "drappi d'oro / oro filato / oro arvento"
+  ]
+ },
+ {
+  "name": "silver / silverware",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "046"
+  ],
+  "originals": [
+   "arvento / argentaria"
+  ]
+ },
+ {
+  "name": "ivory",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "046"
+  ],
+  "originals": [
+   "avorio"
+  ]
+ },
+ {
+  "name": "alum (uncertain)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "046"
+  ],
+  "originals": [
+   "aloma / amonali[?]"
+  ]
+ },
+ {
+  "name": "silver coin/ware (barbary)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "argentinj / argentaria barbarescho"
+  ]
+ },
+ {
+  "name": "twisted gold/silver thread",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "torzonelli / torzonelle"
+  ]
+ },
+ {
+  "name": "lume/tin (alum?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "lome"
+  ]
+ },
+ {
+  "name": "cotton / cotton-cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "b(am)bagina / bambagini"
+  ]
+ },
+ {
+  "name": "cloths / coarse cloths / cloths of florence",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "panj / panj grossi / panj q firenza"
+  ]
+ },
+ {
+  "name": "white grosana cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "b(ia)nca g(r)osana"
+  ]
+ },
+ {
+  "name": "corals (worked and unworked)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "chorali (lavorati e non lavorati)"
+  ]
+ },
+ {
+  "name": "wheat (farro)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "faro"
+  ]
+ },
+ {
+  "name": "glass",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "vetro"
+  ]
+ },
+ {
+  "name": "salt / whole salt",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "sale / sale i(n)teo"
+  ]
+ },
+ {
+  "name": "grain dye (kermes/grain)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "i(n) g(r)ana / bavinno i(n) g(r)ana"
+  ]
+ },
+ {
+  "name": "garbo (cloth/wool grade?)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "047"
+  ],
+  "originals": [
+   "garbi"
+  ]
+ },
+ {
+  "name": "gold (and gold thread/grade)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "aro(no) / oro / orome"
+  ]
+ },
+ {
+  "name": "tin (in plates, live, and spun/wire)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "astiento / astiento bibo / astiento filato (estagno)"
+  ]
+ },
+ {
+  "name": "silver (and silverwares)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "avento / argento / argentore"
+  ]
+ },
+ {
+  "name": "lead(?)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "grondo (piombo?)"
+  ]
+ },
+ {
+  "name": "coarse wool / wool",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "lana grossa / lome (lana)"
+  ]
+ },
+ {
+  "name": "fine silk",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "seta sfine"
+  ]
+ },
+ {
+  "name": "zendado (light silk cloth)",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "zendati / yardaty[?]"
+  ]
+ },
+ {
+  "name": "coarse cloth",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "gheto goffe"
+  ]
+ },
+ {
+  "name": "grana (kermes dye-grain)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "grana"
+  ]
+ },
+ {
+  "name": "alum(?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "abolugma (allume?)"
+  ]
+ },
+ {
+  "name": "saltpetre(?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "salinteo (salnitro?)"
+  ]
+ },
+ {
+  "name": "tunny(?)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "tomme[?] (tonnina?)"
+  ]
+ },
+ {
+  "name": "wax(?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "abie (cera?)"
+  ]
+ },
+ {
+  "name": "black hide(?)",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "nera (cuoio nero?)"
+  ]
+ },
+ {
+  "name": "spicery / merchandise",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "sherpiria / sherpie / spzgavere"
+  ]
+ },
+ {
+  "name": "dobla (gold doubloon)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "048"
+  ],
+  "originals": [
+   "dobla"
+  ]
+ },
+ {
+  "name": "fine cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "panni fini"
+  ]
+ },
+ {
+  "name": "provins wools",
+  "category": "wool",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "lanoy dprovno"
+  ]
+ },
+ {
+  "name": "fine linens",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "otele sottili"
+  ]
+ },
+ {
+  "name": "colombino brazilwood/vermilion",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "vermyno ɉscolombino"
+  ]
+ },
+ {
+  "name": "gums",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "dgmmi"
+  ]
+ },
+ {
+  "name": "roots",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "049"
+  ],
+  "originals": [
+   "radʒ"
+  ]
+ },
+ {
+  "name": "furs/leather",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "pelaminre (pellami)"
+  ]
+ },
+ {
+  "name": "sterling (english silver)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "sterlini"
+  ]
+ },
+ {
+  "name": "azimuto (dye/mordant?)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "azimuto"
+  ]
+ },
+ {
+  "name": "brass",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "ottone"
+  ]
+ },
+ {
+  "name": "tin (uncertain)",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "stagno (sragon?)"
+  ]
+ },
+ {
+  "name": "linen cloths / camlets(?)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "050"
+  ],
+  "originals": [
+   "tele / chamelaom"
+  ]
+ },
+ {
+  "name": "cotton / spun cotton / cotton-wool",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "chotoni / chotoni filati / chotoni llana"
+  ]
+ },
+ {
+  "name": "abundant spices",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "spçie assai"
+  ]
+ },
+ {
+  "name": "gold florins",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "fiorj d'oro"
+  ]
+ },
+ {
+  "name": "ginger of every kind / ginger / gum ginger / powdered ginger",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "gengiovi / gengevni dalparte / zinzeri choma / polvere d'zinzero"
+  ]
+ },
+ {
+  "name": "cinnamon / cinnamon flower",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "chanella / fiore d'chanella"
+  ]
+ },
+ {
+  "name": "toulouse incense",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "Jncenso tolosino"
+  ]
+ },
+ {
+  "name": "colombo brazilwood",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "verçino colonbino"
+  ]
+ },
+ {
+  "name": "storax",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "storçino"
+  ]
+ },
+ {
+  "name": "alums of every kind",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "alumi d'ogni ragione"
+  ]
+ },
+ {
+  "name": "mace",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "mace"
+  ]
+ },
+ {
+  "name": "ginger conserve",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "gengiobo Jn barqua"
+  ]
+ },
+ {
+  "name": "aloe hepatic",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "aloe partico"
+  ]
+ },
+ {
+  "name": "saffron (turkish / garden / new)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "goffevano turchescho / goffevano horta / goffevano novella"
+  ]
+ },
+ {
+  "name": "fine amber",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "ombra fine"
+  ]
+ },
+ {
+  "name": "quicksilver / mercury",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "d'aviento (vivo)"
+  ]
+ },
+ {
+  "name": "musk",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "mosscho"
+  ]
+ },
+ {
+  "name": "refined silver",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "arsento sodo / arsento lordo"
+  ]
+ },
+ {
+  "name": "fine and coarse florentine cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "pany d'firenze fini / bassi"
+  ]
+ },
+ {
+  "name": "brussels cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "pany d'brusella"
+  ]
+ },
+ {
+  "name": "holland serge",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "sara d'ulanda"
+  ]
+ },
+ {
+  "name": "german linens",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "tele todesche"
+  ]
+ },
+ {
+  "name": "camlets",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "chamolatí / chamelotti / camellini"
+  ]
+ },
+ {
+  "name": "hides / ox-hides",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "051"
+  ],
+  "originals": [
+   "sepelle / boy (orghomini)"
+  ]
+ },
+ {
+  "name": "bulk spices",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "spezie grosse"
+  ]
+ },
+ {
+  "name": "fine spices",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "spezieria sottile"
+  ]
+ },
+ {
+  "name": "ginger(?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "pingi"
+  ]
+ },
+ {
+  "name": "ginger / ginger-powder",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "zinghri / polnore di zinghri"
+  ]
+ },
+ {
+  "name": "figs / golden figs",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "figi / fichi d'oro"
+  ]
+ },
+ {
+  "name": "cottons / spun cottons",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "hotoni / hotoni filati"
+  ]
+ },
+ {
+  "name": "lombard cloths",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "panni d'lonbordia"
+  ]
+ },
+ {
+  "name": "almoghnardo (cloth?)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "almoghnardo"
+  ]
+ },
+ {
+  "name": "chestnut(s)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "chastagna"
+  ]
+ },
+ {
+  "name": "quicksilver",
+  "category": "metal",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "argueriço"
+  ]
+ },
+ {
+  "name": "sturgeon(?)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "052"
+  ],
+  "originals": [
+   "sturia"
+  ]
+ },
+ {
+  "name": "hides/leather",
+  "category": "hide-leather",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "chuoia"
+  ]
+ },
+ {
+  "name": "red-dyed cloths (garbled, qty/quality term)",
+  "category": "cloth",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "gherbellony tinti rossi"
+  ]
+ },
+ {
+  "name": "sugars",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "zucchery"
+  ]
+ },
+ {
+  "name": "powder (spice/dyestuff powder)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "poluere"
+  ]
+ },
+ {
+  "name": "sparrowhawks (?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "sparauiere"
+  ]
+ },
+ {
+  "name": "coarse paper",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "charta grossa"
+  ]
+ },
+ {
+  "name": "wines",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "vini"
+  ]
+ },
+ {
+  "name": "doubloons (gold coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "doppie"
+  ]
+ },
+ {
+  "name": "grana / kermes (crimson dye)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "grane / grane"
+  ]
+ },
+ {
+  "name": "saffron (gaffarani?)",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "gaffarani"
+  ]
+ },
+ {
+  "name": "spices / wares of every kind",
+  "category": "spice",
+  "count": 1,
+  "pages": [
+   "053"
+  ],
+  "originals": [
+   "spazierie / robe"
+  ]
+ },
+ {
+  "name": "gall-nut (dye/tanning)",
+  "category": "dye",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "galla"
+  ]
+ },
+ {
+  "name": "crimson taffeta",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "taffeta vermiglia"
+  ]
+ },
+ {
+  "name": "black taffeta",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "taffeta nery"
+  ]
+ },
+ {
+  "name": "taffeta 'alla fondina'",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "taffeta ala fondiny"
+  ]
+ },
+ {
+  "name": "plain crimson velvet",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "vellutato piano vermiglio"
+  ]
+ },
+ {
+  "name": "plain black velvet",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "vellutato piano nero"
+  ]
+ },
+ {
+  "name": "black velvet",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "vellutato nero"
+  ]
+ },
+ {
+  "name": "black damask",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "damaschino Nero"
+  ]
+ },
+ {
+  "name": "alexandrine (blue) damask",
+  "category": "silk",
+  "count": 1,
+  "pages": [
+   "054"
+  ],
+  "originals": [
+   "damaschino allesondrino"
+  ]
+ },
+ {
+  "name": "gold florins (coin)",
+  "category": "coin",
+  "count": 1,
+  "pages": [
+   "059"
+  ],
+  "originals": [
+   "fiorinj d'oro"
+  ]
+ },
+ {
+  "name": "ship's biscuit / hardtack",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "061"
+  ],
+  "originals": [
+   "buschotto"
+  ]
+ },
+ {
+  "name": "sardines",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "061"
+  ],
+  "originals": [
+   "sardelle"
+  ]
+ },
+ {
+  "name": "meat / salad",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "061"
+  ],
+  "originals": [
+   "carne / insalata"
+  ]
+ },
+ {
+  "name": "wax or lac[?]",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "061"
+  ],
+  "originals": [
+   "champana[?] (cera/lacca?)"
+  ]
+ },
+ {
+  "name": "square banners",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "062"
+  ],
+  "originals": [
+   "bandiere quadre"
+  ]
+ },
+ {
+  "name": "pennon / small pennon",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "062"
+  ],
+  "originals": [
+   "pennone / pernino"
+  ]
+ },
+ {
+  "name": "sail",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "062"
+  ],
+  "originals": [
+   "bela / vela"
+  ]
+ },
+ {
+  "name": "gherone (triangular sail-piece)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "062"
+  ],
+  "originals": [
+   "ghardone / gherone"
+  ]
+ },
+ {
+  "name": "arms",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "armi"
+  ]
+ },
+ {
+  "name": "crossbows",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "balestre / balestra"
+  ]
+ },
+ {
+  "name": "the mast",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "l'albero"
+  ]
+ },
+ {
+  "name": "painted boards/planks (pavises?)",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "taole dipin[te]"
+  ]
+ },
+ {
+  "name": "red (wine?)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "vermolio (vermiglio)"
+  ]
+ },
+ {
+  "name": "white (wine?)",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "bre(n)cho (bianco?)"
+  ]
+ },
+ {
+  "name": "vinegar",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "aceto"
+  ]
+ },
+ {
+  "name": "salad/greens",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "insalata"
+  ]
+ },
+ {
+  "name": "load / salt[?]",
+  "category": "foodstuff",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "salma / salo (sale?)"
+  ]
+ },
+ {
+  "name": "slaves/oarsmen[?]",
+  "category": "other",
+  "count": 1,
+  "pages": [
+   "063"
+  ],
+  "originals": [
+   "schalave[r] (schiavi?)"
+  ]
+ }
+]
